@@ -1,0 +1,40 @@
+name: BH Cadence Engine
+
+on:
+  schedule:
+    # 11:00 UTC = 7:00am ET during EDT (Mar-Nov). 6:00am ET during EST (Nov-Mar).
+    # Runs every morning so agents start the day with fresh Touch tasks created.
+    - cron: '0 11 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install deps
+        run: pip install -r requirements.txt
+
+      - name: Run cadence engine
+        env:
+          PIPEDRIVE_TOKEN: ${{ secrets.PIPEDRIVE_TOKEN }}
+        run: python scripts/cadence_engine.py
+
+      - name: Commit cadence log
+        run: |
+          git config user.name "bh-enrichment-bot"
+          git config user.email "bh-enrichment-bot@users.noreply.github.com"
+          mkdir -p run_log/cadence
+          [ -f cadence_engine_log_*.jsonl ] && mv cadence_engine_log_*.jsonl run_log/cadence/ 2>/dev/null || true
+          git add run_log/ || true
+          git diff --staged --quiet || git commit -m "cadence log $(date -u +%Y-%m-%d)"
+          git push || true

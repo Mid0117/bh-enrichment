@@ -1,0 +1,61 @@
+name: BH Daily Enrichment
+
+on:
+  schedule:
+    # 23:00 UTC = 7pm ET during EDT (Mar-Nov). During EST (Nov-Mar) this is 6pm ET.
+    # Mido can adjust to '0 0 * * *' (midnight UTC = 7pm EST) if needed in winter.
+    - cron: '0 23 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write   # so the run can commit state/deals_<date>.json
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install deps
+        run: pip install -r requirements.txt
+
+      - name: Pull deals snapshot
+        env:
+          PIPEDRIVE_TOKEN: ${{ secrets.PIPEDRIVE_TOKEN }}
+        run: python scripts/pull_deals.py
+
+      - name: Detect neighbor changes
+        env:
+          PIPEDRIVE_TOKEN: ${{ secrets.PIPEDRIVE_TOKEN }}
+        run: python scripts/detect_neighbor_changes.py
+
+      - name: Update Connected Properties
+        env:
+          PIPEDRIVE_TOKEN: ${{ secrets.PIPEDRIVE_TOKEN }}
+        run: python scripts/update_connected_properties.py
+
+      - name: Refresh notes summary
+        env:
+          PIPEDRIVE_TOKEN: ${{ secrets.PIPEDRIVE_TOKEN }}
+        run: python scripts/refresh_notes_summary.py
+
+      - name: Send email report
+        env:
+          PIPEDRIVE_TOKEN: ${{ secrets.PIPEDRIVE_TOKEN }}
+          GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+          REPORT_EMAIL_TO: mikekent389@gmail.com
+          REPORT_EMAIL_FROM: mikekent389@gmail.com
+        run: python scripts/send_email_report.py
+
+      - name: Commit state snapshot
+        run: |
+          git config user.name "bh-enrichment-bot"
+          git config user.email "bh-enrichment-bot@users.noreply.github.com"
+          git add state/ run_log/ || true
+          git diff --staged --quiet || git commit -m "daily snapshot $(date -u +%Y-%m-%d)"
+          git push || true
