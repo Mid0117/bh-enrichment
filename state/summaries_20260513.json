@@ -1,8 +1,23 @@
 {
-  "ts": "2026-05-13T01:06:20.249234+00:00",
-  "deals_processed": 3785,
-  "summaries_posted": 3759,
+  "ts": "2026-05-14T00:19:04.212693+00:00",
+  "deals_processed": 3786,
+  "summaries_posted": 3758,
   "errors": [
+    {
+      "deal_id": 2568,
+      "phase": "POST",
+      "status": 403,
+      "payload": {
+        "success": false,
+        "error": "The limit of 100 notes per entity has been reached.",
+        "error_info": "Please check developers.pipedrive.com for more information about Pipedrive API.",
+        "data": {
+          "deal_count": 100
+        },
+        "additional_data": null,
+        "code": "ERR_NOTE_LIMIT_REACHED"
+      }
+    },
     {
       "deal_id": 5306,
       "phase": "POST",
@@ -17,7 +32,22 @@
         "additional_data": null,
         "code": "ERR_NOTE_LIMIT_REACHED"
       }
+    },
+    {
+      "deal_id": 6399,
+      "phase": "POST",
+      "status": 403,
+      "payload": {
+        "success": false,
+        "error": "The limit of 100 notes per entity has been reached.",
+        "error_info": "Please check developers.pipedrive.com for more information about Pipedrive API.",
+        "data": {
+          "deal_count": 100
+        },
+        "additional_data": null,
+        "code": "ERR_NOTE_LIMIT_REACHED"
+      }
     }
   ],
-  "log_count": 3759
+  "log_count": 3758
 }
