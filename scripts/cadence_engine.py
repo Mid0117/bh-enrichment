@@ -175,16 +175,36 @@ for d in deals:
     # Time to create the next activity
     touch_name, message = NEW_TPLS[next_step]
     subject = f"Touch {next_step}: {touch_name}"
-    # Personalize message with deal title
-    msg_personalized = message.replace("[PROPERTY ADDRESS]", title).replace("[AGENT NAME]", "BH Agent")
+
+    # CALL_ONLY users: no text fallback in note (e.g., Leo Davis, David James)
+    CALL_ONLY_USER_IDS = {25208018, 25208007}  # Leo Davis, David James — call-only, no SMS
+    assigned_user_id = d.get("user_id")
+    if isinstance(assigned_user_id, dict):
+        assigned_user_id = assigned_user_id.get("id")
+
+    if assigned_user_id in CALL_ONLY_USER_IDS:
+        note_html = (
+            f"<strong>Touch {next_step}/5 — Active Outreach Cadence</strong><br><br>"
+            f"<b>CALL ONLY — do not text.</b><br>"
+            f"Dial via Aircall. If no answer, leave a brief voicemail and move on.<br>"
+            f"Tomorrow's cadence picks up the next touch automatically."
+        )
+    else:
+        msg_personalized = message.replace("[PROPERTY ADDRESS]", title).replace("[AGENT NAME]", "BH Agent")
+        note_html = (
+            f"<strong>Touch {next_step}/5 — Active Outreach Cadence</strong><br><br>"
+            f"Call first via Aircall. If no answer, send this text:<br><br>"
+            f"<em>{msg_personalized}</em><br><br>"
+            f"<a href='https://docs.google.com/spreadsheets/d/1OizTUtcfJsuVv8h91W9LkwPZxD5NhHwInfVu7WU8BPs/edit?gid=68079243'>Full template sheet</a>"
+        )
 
     body = {
         "subject": subject,
         "type": "call",
         "deal_id": deal_id,
         "due_date": target_due.isoformat(),
-        "user_id": d.get("user_id"),  # assign to deal owner
-        "note": f"<strong>Touch {next_step}/5 — Active Outreach Cadence</strong><br><br>Call first via Aircall. If no answer, send this text:<br><br><em>{msg_personalized}</em><br><br><a href='https://docs.google.com/spreadsheets/d/1OizTUtcfJsuVv8h91W9LkwPZxD5NhHwInfVu7WU8BPs/edit?gid=68079243'>Full template sheet</a>",
+        "user_id": assigned_user_id,
+        "note": note_html,
     }
     action = f"CREATE Touch {next_step} due {target_due}"
     actions_taken.append((deal_id, title, action))
