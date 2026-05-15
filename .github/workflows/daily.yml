@@ -39,10 +39,13 @@ jobs:
           PIPEDRIVE_TOKEN: ${{ secrets.PIPEDRIVE_TOKEN }}
         run: python scripts/update_connected_properties.py
 
-      - name: Refresh notes summary
-        env:
-          PIPEDRIVE_TOKEN: ${{ secrets.PIPEDRIVE_TOKEN }}
-        run: python scripts/refresh_notes_summary.py
+      # Refresh notes summary DISABLED 2026-05-15: this v1 step POSTed a new
+      # AUTO-SUMMARY note on every run, accumulating duplicates. Superseded by
+      # a local v2 generator that updates a single pinned note in place.
+      # - name: Refresh notes summary
+      #   env:
+      #     PIPEDRIVE_TOKEN: ${{ secrets.PIPEDRIVE_TOKEN }}
+      #   run: python scripts/refresh_notes_summary.py
 
       - name: Send email report
         env:
