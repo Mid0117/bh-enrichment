@@ -1,0 +1,27 @@
+name: BH Daily EOD Email
+
+on:
+  schedule:
+    # 05:00 UTC = 01:00 ET (EDT). Fires ~1h after the ET day closes (04:00 UTC),
+    # so the report captures the full midnight-to-midnight ET day.
+    - cron: '0 5 * * *'
+  workflow_dispatch:
+
+jobs:
+  send-eod:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Send EOD email
+        env:
+          AIRCALL_API_ID: ${{ secrets.AIRCALL_API_ID }}
+          AIRCALL_API_TOKEN: ${{ secrets.AIRCALL_API_TOKEN }}
+          PIPEDRIVE_TOKEN: ${{ secrets.PIPEDRIVE_TOKEN }}
+          GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+        run: python scripts/send_eod_email.py
