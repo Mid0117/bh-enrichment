@@ -1,0 +1,23 @@
+{
+  "ts": "2026-05-15T00:18:39.010709+00:00",
+  "deals_processed": 4148,
+  "summaries_posted": 4122,
+  "errors": [
+    {
+      "deal_id": 6399,
+      "phase": "POST",
+      "status": 403,
+      "payload": {
+        "success": false,
+        "error": "The limit of 100 notes per entity has been reached.",
+        "error_info": "Please check developers.pipedrive.com for more information about Pipedrive API.",
+        "data": {
+          "deal_count": 100
+        },
+        "additional_data": null,
+        "code": "ERR_NOTE_LIMIT_REACHED"
+      }
+    }
+  ],
+  "log_count": 4122
+}
