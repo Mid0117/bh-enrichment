@@ -1,0 +1,31 @@
+{
+  "ts": "2026-05-19T00:06:16.625136+00:00",
+  "today_path": "/home/runner/work/bh-enrichment/bh-enrichment/state/deals_20260519.json",
+  "prev_path": "/home/runner/work/bh-enrichment/bh-enrichment/state/deals_20260517.json",
+  "today_deal_count": 4153,
+  "prev_deal_count": 4149,
+  "new_deal_count": 4,
+  "neighbor_change_count": 2,
+  "changes": [
+    {
+      "new_deal_id": 7875,
+      "block_key": "BX-3102",
+      "existing_neighbor_deal_ids": [
+        585,
+        1034,
+        5941
+      ],
+      "new_deal_title": "2307 PROSPECT AVENUE, BRONX NY 10458 / (MD 2309 & 2311 PROSPECT AVENUE)"
+    },
+    {
+      "new_deal_id": 7876,
+      "block_key": "BX-3102",
+      "existing_neighbor_deal_ids": [
+        585,
+        1034,
+        5941
+      ],
+      "new_deal_title": "2315 PROSPECT AVENUE, BRONX NY 10458 / (MD 2309 & 2311 PROSPECT AVENUE)"
+    }
+  ]
+}
