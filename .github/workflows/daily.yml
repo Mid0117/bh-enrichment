@@ -29,6 +29,11 @@ jobs:
           PIPEDRIVE_TOKEN: ${{ secrets.PIPEDRIVE_TOKEN }}
         run: python scripts/pull_deals.py
 
+      - name: Update Connected Properties summaries
+        env:
+          PIPEDRIVE_TOKEN: ${{ secrets.PIPEDRIVE_TOKEN }}
+        run: python scripts/update_connected_property_summaries.py
+
       - name: Detect neighbor changes
         env:
           PIPEDRIVE_TOKEN: ${{ secrets.PIPEDRIVE_TOKEN }}

@@ -1,0 +1,16 @@
+{
+  "ts": "20260525T200039Z",
+  "date": "20260525",
+  "parent_deals_processed": 572,
+  "updated": 572,
+  "skipped_unchanged": 0,
+  "total_blocks_rendered": 830,
+  "wants_to_sell_counts": {
+    "likely (asking price set)": 243,
+    "yes (per notes)": 108,
+    "unknown": 479
+  },
+  "errors": [],
+  "backup_path": "F:\\Work\\Joel\\bh-enrichment\\github_repo\\state\\connected_properties_backup_20260525.json",
+  "backup_size_bytes": 115292
+}
