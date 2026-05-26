@@ -1,0 +1,116 @@
+{
+  "ts": "2026-05-26T00:10:57.929057+00:00",
+  "today_path": "/home/runner/work/bh-enrichment/bh-enrichment/state/deals_20260526.json",
+  "prev_path": "/home/runner/work/bh-enrichment/bh-enrichment/state/deals_20260524.json",
+  "today_deal_count": 4127,
+  "prev_deal_count": 4114,
+  "new_deal_count": 13,
+  "neighbor_change_count": 5,
+  "changes": [
+    {
+      "new_deal_id": 7887,
+      "block_key": "BX-2936",
+      "existing_neighbor_deal_ids": [
+        5249,
+        5250,
+        5251,
+        5252,
+        5253,
+        5486,
+        5584,
+        7278
+      ],
+      "new_deal_title": "640 CROTONA PARK SOUTH, BRONX NY 10456 / (MD 1417 CLINTON AVENUE)"
+    },
+    {
+      "new_deal_id": 7888,
+      "block_key": "BX-2936",
+      "existing_neighbor_deal_ids": [
+        5249,
+        5250,
+        5251,
+        5252,
+        5253,
+        5486,
+        5584,
+        7278
+      ],
+      "new_deal_title": "638 CROTONA PARK SOUTH, BRONX NY 10456 / (MD 1417 CLINTON AVENUE)"
+    },
+    {
+      "new_deal_id": 7889,
+      "block_key": "BX-2936",
+      "existing_neighbor_deal_ids": [
+        5249,
+        5250,
+        5251,
+        5252,
+        5253,
+        5486,
+        5584,
+        7278
+      ],
+      "new_deal_title": "636 CROTONA PARK SOUTH, BRONX NY 10456 / (MD 1417 CLINTON AVENUE)"
+    },
+    {
+      "new_deal_id": 7890,
+      "block_key": "BX-2936",
+      "existing_neighbor_deal_ids": [
+        5249,
+        5250,
+        5251,
+        5252,
+        5253,
+        5486,
+        5584,
+        7278
+      ],
+      "new_deal_title": "1422 FRANKLIN AVENUE, BRONX NY 10456 / (MD 1417 CLINTON AVENUE)"
+    },
+    {
+      "new_deal_id": 7891,
+      "block_key": "BX-3318",
+      "existing_neighbor_deal_ids": [
+        4338,
+        4734,
+        4754,
+        4775,
+        5013,
+        5341,
+        5342,
+        6372,
+        6373,
+        6374,
+        6421,
+        6442,
+        6587,
+        6616,
+        6668,
+        6709,
+        6711,
+        6713,
+        6714,
+        6715,
+        6716,
+        6783,
+        6785,
+        6787,
+        6788,
+        6789,
+        6794,
+        6797,
+        6802,
+        6827,
+        6939,
+        6960,
+        6981,
+        7199,
+        7364,
+        7486,
+        7870,
+        7871
+      ],
+      "new_deal_title": "2725 CRESTON AVENUE, BRONX NY 10468 / (MD 2729 CRESTON AVENUE)"
+    }
+  ]
+}
