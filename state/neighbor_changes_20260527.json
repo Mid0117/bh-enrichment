@@ -1,0 +1,4038 @@
+{
+  "ts": "2026-05-27T00:09:05.063407+00:00",
+  "today_path": "/home/runner/work/bh-enrichment/bh-enrichment/state/deals_20260527.json",
+  "prev_path": "/home/runner/work/bh-enrichment/bh-enrichment/state/deals_20260526.json",
+  "today_deal_count": 4506,
+  "prev_deal_count": 4127,
+  "new_deal_count": 381,
+  "neighbor_change_count": 302,
+  "changes": [
+    {
+      "new_deal_id": 8192,
+      "block_key": "BX-3172",
+      "existing_neighbor_deal_ids": [
+        6623,
+        6627,
+        6628,
+        6629,
+        6635,
+        6640,
+        6730,
+        6804,
+        6905,
+        7261
+      ],
+      "new_deal_title": "2309 CRESTON AVENUE, BRONX NY 10468"
+    },
+    {
+      "new_deal_id": 8193,
+      "block_key": "BX-2839",
+      "existing_neighbor_deal_ids": [
+        4125,
+        6594,
+        6597,
+        6606,
+        6608,
+        6941,
+        6994,
+        7386
+      ],
+      "new_deal_title": "EAST 169 STREET, BRONX NY 10452"
+    },
+    {
+      "new_deal_id": 8194,
+      "block_key": "BX-2462",
+      "existing_neighbor_deal_ids": [
+        6607,
+        6643,
+        6654,
+        6945
+      ],
+      "new_deal_title": "1046 GRAND CONCOURSE, BRONX NY 10456"
+    },
+    {
+      "new_deal_id": 8196,
+      "block_key": "BX-2794",
+      "existing_neighbor_deal_ids": [
+        4026,
+        4027,
+        6677,
+        6923
+      ],
+      "new_deal_title": "1690 MORRIS AVENUE, BRONX NY 10457"
+    },
+    {
+      "new_deal_id": 8197,
+      "block_key": "BX-2794",
+      "existing_neighbor_deal_ids": [
+        4026,
+        4027,
+        6677,
+        6923
+      ],
+      "new_deal_title": "1688 MORRIS AVENUE, BRONX NY 10457"
+    },
+    {
+      "new_deal_id": 8198,
+      "block_key": "BX-2794",
+      "existing_neighbor_deal_ids": [
+        4026,
+        4027,
+        6677,
+        6923
+      ],
+      "new_deal_title": "1692 MORRIS AVENUE, BRONX NY 10457"
+    },
+    {
+      "new_deal_id": 8199,
+      "block_key": "BX-3321",
+      "existing_neighbor_deal_ids": [
+        5147,
+        6581,
+        6782,
+        6793
+      ],
+      "new_deal_title": "3095 VILLA AVENUE, BRONX NY 10468"
+    },
+    {
+      "new_deal_id": 8200,
+      "block_key": "BX-3321",
+      "existing_neighbor_deal_ids": [
+        5147,
+        6581,
+        6782,
+        6793
+      ],
+      "new_deal_title": "3097 VILLA AVENUE, BRONX NY 10468"
+    },
+    {
+      "new_deal_id": 8201,
+      "block_key": "BX-3311",
+      "existing_neighbor_deal_ids": [
+        4159,
+        4647,
+        4740,
+        6571,
+        6576,
+        6589,
+        6735,
+        6780,
+        6840,
+        6879,
+        6912,
+        6938,
+        6992,
+        7325,
+        7326,
+        7327
+      ],
+      "new_deal_title": "101 EAST 204 STREET, BRONX NY 10468"
+    },
+    {
+      "new_deal_id": 8203,
+      "block_key": "BX-2829",
+      "existing_neighbor_deal_ids": [
+        605,
+        1985,
+        6549,
+        6551,
+        6552,
+        6553,
+        6554,
+        6555,
+        6556,
+        6599,
+        6600,
+        6601,
+        6604,
+        6605
+      ],
+      "new_deal_title": "1971 MORRIS AVENUE, BRONX NY 10453"
+    },
+    {
+      "new_deal_id": 8205,
+      "block_key": "BX-2828",
+      "existing_neighbor_deal_ids": [
+        6543,
+        6546,
+        6547,
+        6548,
+        6999
+      ],
+      "new_deal_title": "67 EAST 177 STREET, BRONX NY 10453"
+    },
+    {
+      "new_deal_id": 8206,
+      "block_key": "BX-2791",
+      "existing_neighbor_deal_ids": [
+        4025,
+        4415,
+        6266,
+        6340,
+        6341,
+        6582,
+        6591,
+        6592,
+        6595,
+        6611
+      ],
+      "new_deal_title": "307 EAST MT EDEN AVENUE, BRONX NY 10457"
+    },
+    {
+      "new_deal_id": 8207,
+      "block_key": "BX-2791",
+      "existing_neighbor_deal_ids": [
+        4025,
+        4415,
+        6266,
+        6340,
+        6341,
+        6582,
+        6591,
+        6592,
+        6595,
+        6611
+      ],
+      "new_deal_title": "303 EAST MT EDEN AVENUE, BRONX NY 10457"
+    },
+    {
+      "new_deal_id": 8208,
+      "block_key": "BX-2791",
+      "existing_neighbor_deal_ids": [
+        4025,
+        4415,
+        6266,
+        6340,
+        6341,
+        6582,
+        6591,
+        6592,
+        6595,
+        6611
+      ],
+      "new_deal_title": "305 EAST MT EDEN AVENUE, BRONX NY 10457"
+    },
+    {
+      "new_deal_id": 8209,
+      "block_key": "BX-2812",
+      "existing_neighbor_deal_ids": [
+        6603
+      ],
+      "new_deal_title": "2001 ANTHONY AVENUE, BRONX NY 10457"
+    },
+    {
+      "new_deal_id": 8210,
+      "block_key": "BX-3177",
+      "existing_neighbor_deal_ids": [
+        2565,
+        6622,
+        6743
+      ],
+      "new_deal_title": "48 EAST KINGSBRIDGE RD, BRONX NY 10468"
+    },
+    {
+      "new_deal_id": 8211,
+      "block_key": "BX-3311",
+      "existing_neighbor_deal_ids": [
+        4159,
+        4647,
+        4740,
+        6571,
+        6576,
+        6589,
+        6735,
+        6780,
+        6840,
+        6879,
+        6912,
+        6938,
+        6992,
+        7325,
+        7326,
+        7327
+      ],
+      "new_deal_title": "GRAND CONCOURSE, BRONX NY 10468"
+    },
+    {
+      "new_deal_id": 8212,
+      "block_key": "BX-2811",
+      "existing_neighbor_deal_ids": [
+        4177,
+        4179,
+        7314,
+        7315
+      ],
+      "new_deal_title": "216 EAST 179 STREET, BRONX NY 10457"
+    },
+    {
+      "new_deal_id": 8213,
+      "block_key": "BX-2802",
+      "existing_neighbor_deal_ids": [
+        2443,
+        6873,
+        6908,
+        6965
+      ],
+      "new_deal_title": "232 MT HOPE PLACE, BRONX NY 10457"
+    },
+    {
+      "new_deal_id": 8214,
+      "block_key": "BX-3311",
+      "existing_neighbor_deal_ids": [
+        4159,
+        4647,
+        4740,
+        6571,
+        6576,
+        6589,
+        6735,
+        6780,
+        6840,
+        6879,
+        6912,
+        6938,
+        6992,
+        7325,
+        7326,
+        7327
+      ],
+      "new_deal_title": "3189 GRAND CONCOURSE, BRONX NY 10468"
+    },
+    {
+      "new_deal_id": 8215,
+      "block_key": "BX-3170",
+      "existing_neighbor_deal_ids": [
+        2652,
+        6585
+      ],
+      "new_deal_title": "104 EAST 182 STREET, BRONX NY 10453"
+    },
+    {
+      "new_deal_id": 8216,
+      "block_key": "BX-3313",
+      "existing_neighbor_deal_ids": [
+        6805,
+        6822,
+        6823,
+        6860
+      ],
+      "new_deal_title": "150 VAN CORTLANDT AVE E, BRONX NY 10458"
+    },
+    {
+      "new_deal_id": 8217,
+      "block_key": "BX-3316",
+      "existing_neighbor_deal_ids": [
+        6781,
+        6930,
+        7367
+      ],
+      "new_deal_title": "79 EAST KINGSBRIDGE RD, BRONX NY 10468"
+    },
+    {
+      "new_deal_id": 8218,
+      "block_key": "BX-3186",
+      "existing_neighbor_deal_ids": [
+        4220,
+        6346,
+        6697,
+        6699,
+        6700,
+        7300
+      ],
+      "new_deal_title": "2269 WALTON AVENUE, BRONX NY 10453"
+    },
+    {
+      "new_deal_id": 8219,
+      "block_key": "BX-3186",
+      "existing_neighbor_deal_ids": [
+        4220,
+        6346,
+        6697,
+        6699,
+        6700,
+        7300
+      ],
+      "new_deal_title": "2265 WALTON AVENUE, BRONX NY 10453"
+    },
+    {
+      "new_deal_id": 8220,
+      "block_key": "BX-3186",
+      "existing_neighbor_deal_ids": [
+        4220,
+        6346,
+        6697,
+        6699,
+        6700,
+        7300
+      ],
+      "new_deal_title": "2267 WALTON AVENUE, BRONX NY 10453"
+    },
+    {
+      "new_deal_id": 8221,
+      "block_key": "BX-3186",
+      "existing_neighbor_deal_ids": [
+        4220,
+        6346,
+        6697,
+        6699,
+        6700,
+        7300
+      ],
+      "new_deal_title": "2261 WALTON AVENUE, BRONX NY 10453"
+    },
+    {
+      "new_deal_id": 8222,
+      "block_key": "BX-3186",
+      "existing_neighbor_deal_ids": [
+        4220,
+        6346,
+        6697,
+        6699,
+        6700,
+        7300
+      ],
+      "new_deal_title": "2271 WALTON AVENUE, BRONX NY 10453"
+    },
+    {
+      "new_deal_id": 8223,
+      "block_key": "BX-2792",
+      "existing_neighbor_deal_ids": [
+        2163,
+        5647,
+        6070,
+        6072,
+        6073,
+        6672,
+        6674,
+        6852,
+        6853,
+        6969
+      ],
+      "new_deal_title": "1679 MONROE AVENUE, BRONX NY 10457"
+    },
+    {
+      "new_deal_id": 8224,
+      "block_key": "BX-2792",
+      "existing_neighbor_deal_ids": [
+        2163,
+        5647,
+        6070,
+        6072,
+        6073,
+        6672,
+        6674,
+        6852,
+        6853,
+        6969
+      ],
+      "new_deal_title": "1654 WEEKS AVENUE, BRONX NY 10457"
+    },
+    {
+      "new_deal_id": 8225,
+      "block_key": "BX-2792",
+      "existing_neighbor_deal_ids": [
+        2163,
+        5647,
+        6070,
+        6072,
+        6073,
+        6672,
+        6674,
+        6852,
+        6853,
+        6969
+      ],
+      "new_deal_title": "1656 WEEKS AVENUE, BRONX NY 10457"
+    },
+    {
+      "new_deal_id": 8226,
+      "block_key": "BX-2791",
+      "existing_neighbor_deal_ids": [
+        4025,
+        4415,
+        6266,
+        6340,
+        6341,
+        6582,
+        6591,
+        6592,
+        6595,
+        6611
+      ],
+      "new_deal_title": "1655 TOPPING AVENUE, BRONX NY 10457"
+    },
+    {
+      "new_deal_id": 8227,
+      "block_key": "BX-2792",
+      "existing_neighbor_deal_ids": [
+        2163,
+        5647,
+        6070,
+        6072,
+        6073,
+        6672,
+        6674,
+        6852,
+        6853,
+        6969
+      ],
+      "new_deal_title": "1658 WEEKS AVENUE, BRONX NY 10457"
+    },
+    {
+      "new_deal_id": 8228,
+      "block_key": "BX-2791",
+      "existing_neighbor_deal_ids": [
+        4025,
+        4415,
+        6266,
+        6340,
+        6341,
+        6582,
+        6591,
+        6592,
+        6595,
+        6611
+      ],
+      "new_deal_title": "1659 TOPPING AVENUE, BRONX NY 10457"
+    },
+    {
+      "new_deal_id": 8229,
+      "block_key": "BX-2792",
+      "existing_neighbor_deal_ids": [
+        2163,
+        5647,
+        6070,
+        6072,
+        6073,
+        6672,
+        6674,
+        6852,
+        6853,
+        6969
+      ],
+      "new_deal_title": "1650 WEEKS AVENUE, BRONX NY 10457"
+    },
+    {
+      "new_deal_id": 8230,
+      "block_key": "BX-2792",
+      "existing_neighbor_deal_ids": [
+        2163,
+        5647,
+        6070,
+        6072,
+        6073,
+        6672,
+        6674,
+        6852,
+        6853,
+        6969
+      ],
+      "new_deal_title": "1652 WEEKS AVENUE, BRONX NY 10457"
+    },
+    {
+      "new_deal_id": 8231,
+      "block_key": "BX-2802",
+      "existing_neighbor_deal_ids": [
+        2443,
+        6873,
+        6908,
+        6965
+      ],
+      "new_deal_title": "245 EAST 176 STREET, BRONX NY 10457"
+    },
+    {
+      "new_deal_id": 8232,
+      "block_key": "BX-2802",
+      "existing_neighbor_deal_ids": [
+        2443,
+        6873,
+        6908,
+        6965
+      ],
+      "new_deal_title": "237 EAST 176 STREET, BRONX NY 10457"
+    },
+    {
+      "new_deal_id": 8233,
+      "block_key": "BX-2802",
+      "existing_neighbor_deal_ids": [
+        2443,
+        6873,
+        6908,
+        6965
+      ],
+      "new_deal_title": "247 EAST 176 STREET, BRONX NY 10457"
+    },
+    {
+      "new_deal_id": 8234,
+      "block_key": "BX-2802",
+      "existing_neighbor_deal_ids": [
+        2443,
+        6873,
+        6908,
+        6965
+      ],
+      "new_deal_title": "241 EAST 176 STREET, BRONX NY 10457"
+    },
+    {
+      "new_deal_id": 8235,
+      "block_key": "BX-2802",
+      "existing_neighbor_deal_ids": [
+        2443,
+        6873,
+        6908,
+        6965
+      ],
+      "new_deal_title": "239 EAST 176 STREET, BRONX NY 10457"
+    },
+    {
+      "new_deal_id": 8236,
+      "block_key": "BX-3186",
+      "existing_neighbor_deal_ids": [
+        4220,
+        6346,
+        6697,
+        6699,
+        6700,
+        7300
+      ],
+      "new_deal_title": "2263 WALTON AVENUE, BRONX NY 10453"
+    },
+    {
+      "new_deal_id": 8237,
+      "block_key": "BX-3186",
+      "existing_neighbor_deal_ids": [
+        4220,
+        6346,
+        6697,
+        6699,
+        6700,
+        7300
+      ],
+      "new_deal_title": "2257 WALTON AVENUE, BRONX NY 10453"
+    },
+    {
+      "new_deal_id": 8238,
+      "block_key": "BX-3306",
+      "existing_neighbor_deal_ids": [
+        4423,
+        4424,
+        5860,
+        6564,
+        6650,
+        6660,
+        6851,
+        6859,
+        6878,
+        6898,
+        6900,
+        7279,
+        7280
+      ],
+      "new_deal_title": "2981 VALENTINE AVENUE, BRONX NY 10458"
+    },
+    {
+      "new_deal_id": 8239,
+      "block_key": "BX-3188",
+      "existing_neighbor_deal_ids": [
+        2598,
+        4033,
+        4034,
+        5603,
+        7208,
+        7264,
+        7392,
+        7404,
+        7405,
+        7406
+      ],
+      "new_deal_title": "2387 WALTON AVENUE, BRONX NY 10468"
+    },
+    {
+      "new_deal_id": 8240,
+      "block_key": "BX-3188",
+      "existing_neighbor_deal_ids": [
+        2598,
+        4033,
+        4034,
+        5603,
+        7208,
+        7264,
+        7392,
+        7404,
+        7405,
+        7406
+      ],
+      "new_deal_title": "2389 WALTON AVENUE, BRONX NY 10468"
+    },
+    {
+      "new_deal_id": 8241,
+      "block_key": "BX-3188",
+      "existing_neighbor_deal_ids": [
+        2598,
+        4033,
+        4034,
+        5603,
+        7208,
+        7264,
+        7392,
+        7404,
+        7405,
+        7406
+      ],
+      "new_deal_title": "2385 WALTON AVENUE, BRONX NY 10468"
+    },
+    {
+      "new_deal_id": 8242,
+      "block_key": "BX-3188",
+      "existing_neighbor_deal_ids": [
+        2598,
+        4033,
+        4034,
+        5603,
+        7208,
+        7264,
+        7392,
+        7404,
+        7405,
+        7406
+      ],
+      "new_deal_title": "2391 WALTON AVENUE, BRONX NY 10468"
+    },
+    {
+      "new_deal_id": 8243,
+      "block_key": "BX-3188",
+      "existing_neighbor_deal_ids": [
+        2598,
+        4033,
+        4034,
+        5603,
+        7208,
+        7264,
+        7392,
+        7404,
+        7405,
+        7406
+      ],
+      "new_deal_title": "2397 WALTON AVENUE, BRONX NY 10468"
+    },
+    {
+      "new_deal_id": 8244,
+      "block_key": "BX-3188",
+      "existing_neighbor_deal_ids": [
+        2598,
+        4033,
+        4034,
+        5603,
+        7208,
+        7264,
+        7392,
+        7404,
+        7405,
+        7406
+      ],
+      "new_deal_title": "2393 WALTON AVENUE, BRONX NY 10468"
+    },
+    {
+      "new_deal_id": 8245,
+      "block_key": "BX-3188",
+      "existing_neighbor_deal_ids": [
+        2598,
+        4033,
+        4034,
+        5603,
+        7208,
+        7264,
+        7392,
+        7404,
+        7405,
+        7406
+      ],
+      "new_deal_title": "2399 WALTON AVENUE, BRONX NY 10468"
+    },
+    {
+      "new_deal_id": 8246,
+      "block_key": "BX-3188",
+      "existing_neighbor_deal_ids": [
+        2598,
+        4033,
+        4034,
+        5603,
+        7208,
+        7264,
+        7392,
+        7404,
+        7405,
+        7406
+      ],
+      "new_deal_title": "2401 WALTON AVENUE, BRONX NY 10468"
+    },
+    {
+      "new_deal_id": 8247,
+      "block_key": "BX-3188",
+      "existing_neighbor_deal_ids": [
+        2598,
+        4033,
+        4034,
+        5603,
+        7208,
+        7264,
+        7392,
+        7404,
+        7405,
+        7406
+      ],
+      "new_deal_title": "2405 WALTON AVENUE, BRONX NY 10468"
+    },
+    {
+      "new_deal_id": 8248,
+      "block_key": "BX-3188",
+      "existing_neighbor_deal_ids": [
+        2598,
+        4033,
+        4034,
+        5603,
+        7208,
+        7264,
+        7392,
+        7404,
+        7405,
+        7406
+      ],
+      "new_deal_title": "2395 WALTON AVENUE, BRONX NY 10468"
+    },
+    {
+      "new_deal_id": 8251,
+      "block_key": "BX-2807",
+      "existing_neighbor_deal_ids": [
+        4325,
+        4426,
+        6535,
+        6536,
+        6537,
+        6539,
+        6540,
+        6541,
+        6542,
+        6544,
+        6748,
+        6749,
+        6750,
+        6751,
+        6762,
+        6925,
+        7401,
+        7402
+      ],
+      "new_deal_title": "2028 MORRIS AVENUE, BRONX NY 10453"
+    },
+    {
+      "new_deal_id": 8252,
+      "block_key": "BX-2474",
+      "existing_neighbor_deal_ids": [
+        6528,
+        7201,
+        7257,
+        7258,
+        7259,
+        7260,
+        7288
+      ],
+      "new_deal_title": "850 GERARD AVENUE, BRONX NY 10451"
+    },
+    {
+      "new_deal_id": 8253,
+      "block_key": "BX-3315",
+      "existing_neighbor_deal_ids": [
+        4250,
+        4260,
+        4952,
+        5857,
+        6639,
+        6655,
+        6657,
+        6704,
+        6732,
+        6737,
+        6739,
+        6791,
+        6825,
+        6834,
+        7254,
+        7255,
+        7484
+      ],
+      "new_deal_title": "2720 CRESTON AVENUE, BRONX NY 10468"
+    },
+    {
+      "new_deal_id": 8254,
+      "block_key": "BX-2807",
+      "existing_neighbor_deal_ids": [
+        4325,
+        4426,
+        6535,
+        6536,
+        6537,
+        6539,
+        6540,
+        6541,
+        6542,
+        6544,
+        6748,
+        6749,
+        6750,
+        6751,
+        6762,
+        6925,
+        7401,
+        7402
+      ],
+      "new_deal_title": "2026 MORRIS AVENUE, BRONX NY 10453"
+    },
+    {
+      "new_deal_id": 8255,
+      "block_key": "BX-2807",
+      "existing_neighbor_deal_ids": [
+        4325,
+        4426,
+        6535,
+        6536,
+        6537,
+        6539,
+        6540,
+        6541,
+        6542,
+        6544,
+        6748,
+        6749,
+        6750,
+        6751,
+        6762,
+        6925,
+        7401,
+        7402
+      ],
+      "new_deal_title": "2022 MORRIS AVENUE, BRONX NY 10453"
+    },
+    {
+      "new_deal_id": 8256,
+      "block_key": "BX-2804",
+      "existing_neighbor_deal_ids": [
+        645,
+        750,
+        1231,
+        6531,
+        6532,
+        7034,
+        7271,
+        7272
+      ],
+      "new_deal_title": "251 MT HOPE PLACE, BRONX NY 10457"
+    },
+    {
+      "new_deal_id": 8257,
+      "block_key": "BX-2804",
+      "existing_neighbor_deal_ids": [
+        645,
+        750,
+        1231,
+        6531,
+        6532,
+        7034,
+        7271,
+        7272
+      ],
+      "new_deal_title": "249 MT HOPE PLACE, BRONX NY 10457"
+    },
+    {
+      "new_deal_id": 8258,
+      "block_key": "BX-2814",
+      "existing_neighbor_deal_ids": [
+        5203,
+        6847,
+        6911
+      ],
+      "new_deal_title": "292 EAST BURNSIDE AVENUE, BRONX NY 10457"
+    },
+    {
+      "new_deal_id": 8259,
+      "block_key": "BX-2814",
+      "existing_neighbor_deal_ids": [
+        5203,
+        6847,
+        6911
+      ],
+      "new_deal_title": "294 EAST BURNSIDE AVENUE, BRONX NY 10457"
+    },
+    {
+      "new_deal_id": 8260,
+      "block_key": "BX-2839",
+      "existing_neighbor_deal_ids": [
+        4125,
+        6594,
+        6597,
+        6606,
+        6608,
+        6941,
+        6994,
+        7386
+      ],
+      "new_deal_title": "125 EAST 169 STREET, BRONX NY 10452"
+    },
+    {
+      "new_deal_id": 8261,
+      "block_key": "BX-2807",
+      "existing_neighbor_deal_ids": [
+        4325,
+        4426,
+        6535,
+        6536,
+        6537,
+        6539,
+        6540,
+        6541,
+        6542,
+        6544,
+        6748,
+        6749,
+        6750,
+        6751,
+        6762,
+        6925,
+        7401,
+        7402
+      ],
+      "new_deal_title": "2024 MORRIS AVENUE, BRONX NY 10453"
+    },
+    {
+      "new_deal_id": 8262,
+      "block_key": "BX-3312",
+      "existing_neighbor_deal_ids": [
+        6565,
+        6566,
+        6570,
+        6645,
+        6706,
+        6858,
+        6901,
+        6903,
+        6906,
+        7424,
+        7425
+      ],
+      "new_deal_title": "206 EAST 206 STREET, BRONX NY 10458"
+    },
+    {
+      "new_deal_id": 8263,
+      "block_key": "BX-3318",
+      "existing_neighbor_deal_ids": [
+        4338,
+        4734,
+        4754,
+        4775,
+        5013,
+        5341,
+        5342,
+        6372,
+        6373,
+        6374,
+        6421,
+        6442,
+        6587,
+        6616,
+        6668,
+        6709,
+        6711,
+        6713,
+        6714,
+        6715,
+        6716,
+        6783,
+        6785,
+        6787,
+        6788,
+        6789,
+        6794,
+        6797,
+        6802,
+        6827,
+        6939,
+        6960,
+        6981,
+        7199,
+        7364,
+        7486,
+        7870,
+        7871,
+        7891
+      ],
+      "new_deal_title": "2721 CRESTON AVENUE, BRONX NY 10468"
+    },
+    {
+      "new_deal_id": 8264,
+      "block_key": "BX-3318",
+      "existing_neighbor_deal_ids": [
+        4338,
+        4734,
+        4754,
+        4775,
+        5013,
+        5341,
+        5342,
+        6372,
+        6373,
+        6374,
+        6421,
+        6442,
+        6587,
+        6616,
+        6668,
+        6709,
+        6711,
+        6713,
+        6714,
+        6715,
+        6716,
+        6783,
+        6785,
+        6787,
+        6788,
+        6789,
+        6794,
+        6797,
+        6802,
+        6827,
+        6939,
+        6960,
+        6981,
+        7199,
+        7364,
+        7486,
+        7870,
+        7871,
+        7891
+      ],
+      "new_deal_title": "2717 CRESTON AVENUE, BRONX NY 10468"
+    },
+    {
+      "new_deal_id": 8265,
+      "block_key": "BX-3318",
+      "existing_neighbor_deal_ids": [
+        4338,
+        4734,
+        4754,
+        4775,
+        5013,
+        5341,
+        5342,
+        6372,
+        6373,
+        6374,
+        6421,
+        6442,
+        6587,
+        6616,
+        6668,
+        6709,
+        6711,
+        6713,
+        6714,
+        6715,
+        6716,
+        6783,
+        6785,
+        6787,
+        6788,
+        6789,
+        6794,
+        6797,
+        6802,
+        6827,
+        6939,
+        6960,
+        6981,
+        7199,
+        7364,
+        7486,
+        7870,
+        7871,
+        7891
+      ],
+      "new_deal_title": "2719 CRESTON AVENUE, BRONX NY 10468"
+    },
+    {
+      "new_deal_id": 8266,
+      "block_key": "BX-3318",
+      "existing_neighbor_deal_ids": [
+        4338,
+        4734,
+        4754,
+        4775,
+        5013,
+        5341,
+        5342,
+        6372,
+        6373,
+        6374,
+        6421,
+        6442,
+        6587,
+        6616,
+        6668,
+        6709,
+        6711,
+        6713,
+        6714,
+        6715,
+        6716,
+        6783,
+        6785,
+        6787,
+        6788,
+        6789,
+        6794,
+        6797,
+        6802,
+        6827,
+        6939,
+        6960,
+        6981,
+        7199,
+        7364,
+        7486,
+        7870,
+        7871,
+        7891
+      ],
+      "new_deal_title": "2715 CRESTON AVENUE, BRONX NY 10468"
+    },
+    {
+      "new_deal_id": 8267,
+      "block_key": "BX-3185",
+      "existing_neighbor_deal_ids": [
+        754,
+        4271
+      ],
+      "new_deal_title": "6 CAMERON PLACE, BRONX NY 10453"
+    },
+    {
+      "new_deal_id": 8268,
+      "block_key": "BX-3177",
+      "existing_neighbor_deal_ids": [
+        2565,
+        6622,
+        6743
+      ],
+      "new_deal_title": "2640 MORRIS AVENUE, BRONX NY 10468"
+    },
+    {
+      "new_deal_id": 8269,
+      "block_key": "BX-3157",
+      "existing_neighbor_deal_ids": [
+        4201,
+        6467,
+        7223
+      ],
+      "new_deal_title": "2185 RYER AVENUE, BRONX NY 10457"
+    },
+    {
+      "new_deal_id": 8270,
+      "block_key": "BX-3177",
+      "existing_neighbor_deal_ids": [
+        2565,
+        6622,
+        6743
+      ],
+      "new_deal_title": "2648 MORRIS AVENUE, BRONX NY 10468"
+    },
+    {
+      "new_deal_id": 8271,
+      "block_key": "BX-3177",
+      "existing_neighbor_deal_ids": [
+        2565,
+        6622,
+        6743
+      ],
+      "new_deal_title": "2642 MORRIS AVENUE, BRONX NY 10468"
+    },
+    {
+      "new_deal_id": 8272,
+      "block_key": "BX-3177",
+      "existing_neighbor_deal_ids": [
+        2565,
+        6622,
+        6743
+      ],
+      "new_deal_title": "2646 MORRIS AVENUE, BRONX NY 10468"
+    },
+    {
+      "new_deal_id": 8273,
+      "block_key": "BX-3177",
+      "existing_neighbor_deal_ids": [
+        2565,
+        6622,
+        6743
+      ],
+      "new_deal_title": "2644 MORRIS AVENUE, BRONX NY 10468"
+    },
+    {
+      "new_deal_id": 8274,
+      "block_key": "BX-2826",
+      "existing_neighbor_deal_ids": [
+        1777,
+        6572,
+        6588,
+        6621,
+        6698,
+        6752
+      ],
+      "new_deal_title": "107 EAST 175 STREET, BRONX NY 10453"
+    },
+    {
+      "new_deal_id": 8275,
+      "block_key": "BX-3312",
+      "existing_neighbor_deal_ids": [
+        6565,
+        6566,
+        6570,
+        6645,
+        6706,
+        6858,
+        6901,
+        6903,
+        6906,
+        7424,
+        7425
+      ],
+      "new_deal_title": "173 EAST 205 STREET, BRONX NY 10458 / (MD 167 & 169 EAST 205 STREET)"
+    },
+    {
+      "new_deal_id": 8276,
+      "block_key": "BX-3312",
+      "existing_neighbor_deal_ids": [
+        6565,
+        6566,
+        6570,
+        6645,
+        6706,
+        6858,
+        6901,
+        6903,
+        6906,
+        7424,
+        7425
+      ],
+      "new_deal_title": "162 EAST 206 STREET, BRONX NY 10458 / (MD 167 & 169 EAST 205 STREET)"
+    },
+    {
+      "new_deal_id": 8277,
+      "block_key": "BX-3312",
+      "existing_neighbor_deal_ids": [
+        6565,
+        6566,
+        6570,
+        6645,
+        6706,
+        6858,
+        6901,
+        6903,
+        6906,
+        7424,
+        7425
+      ],
+      "new_deal_title": "3154 GRAND CONCOURSE, BRONX NY 10458 / (MD 167 & 169 EAST 205 STREET)"
+    },
+    {
+      "new_deal_id": 8278,
+      "block_key": "BX-3312",
+      "existing_neighbor_deal_ids": [
+        6565,
+        6566,
+        6570,
+        6645,
+        6706,
+        6858,
+        6901,
+        6903,
+        6906,
+        7424,
+        7425
+      ],
+      "new_deal_title": "165 EAST 205 STREET, BRONX NY 10458 / (MD 167 & 169 EAST 205 STREET)"
+    },
+    {
+      "new_deal_id": 7898,
+      "block_key": "BX-2443",
+      "existing_neighbor_deal_ids": [
+        7355
+      ],
+      "new_deal_title": "780 CONCOURSE VILLAGE W, BRONX NY 10451"
+    },
+    {
+      "new_deal_id": 7899,
+      "block_key": "BX-2472",
+      "existing_neighbor_deal_ids": [
+        5430,
+        5596,
+        6522,
+        6523,
+        6524,
+        6525,
+        6527
+      ],
+      "new_deal_title": "1125 GRAND CONCOURSE, BRONX NY 10452"
+    },
+    {
+      "new_deal_id": 7900,
+      "block_key": "BX-3139",
+      "existing_neighbor_deal_ids": [
+        7040
+      ],
+      "new_deal_title": "2024 BOSTON ROAD, BRONX NY 10460"
+    },
+    {
+      "new_deal_id": 7903,
+      "block_key": "BX-2823",
+      "existing_neighbor_deal_ids": [
+        6690,
+        6692,
+        6695,
+        6696
+      ],
+      "new_deal_title": "1650 GRAND CONCOURSE, BRONX NY 10457"
+    },
+    {
+      "new_deal_id": 7904,
+      "block_key": "BX-2864",
+      "existing_neighbor_deal_ids": [
+        7037
+      ],
+      "new_deal_title": "1376 CROMWELL AVENUE, BRONX NY 10452"
+    },
+    {
+      "new_deal_id": 7909,
+      "block_key": "BX-2471",
+      "existing_neighbor_deal_ids": [
+        6661,
+        7353
+      ],
+      "new_deal_title": "1000 WALTON AVENUE, BRONX NY 10452"
+    },
+    {
+      "new_deal_id": 7912,
+      "block_key": "BX-3943",
+      "existing_neighbor_deal_ids": [
+        6997
+      ],
+      "new_deal_title": "2000 EAST TREMONT AVENUE, BRONX NY 10462"
+    },
+    {
+      "new_deal_id": 7915,
+      "block_key": "BX-3943",
+      "existing_neighbor_deal_ids": [
+        6997
+      ],
+      "new_deal_title": "2040 EAST TREMONT AVENUE, BRONX NY 10462"
+    },
+    {
+      "new_deal_id": 7916,
+      "block_key": "BX-3315",
+      "existing_neighbor_deal_ids": [
+        4250,
+        4260,
+        4952,
+        5857,
+        6639,
+        6655,
+        6657,
+        6704,
+        6732,
+        6737,
+        6739,
+        6791,
+        6825,
+        6834,
+        7254,
+        7255,
+        7484
+      ],
+      "new_deal_title": "2751 GRAND CONCOURSE, BRONX NY 10468"
+    },
+    {
+      "new_deal_id": 7918,
+      "block_key": "BX-2856",
+      "existing_neighbor_deal_ids": [
+        6826,
+        6975
+      ],
+      "new_deal_title": "14 WEST 170 STREET, BRONX NY 10452"
+    },
+    {
+      "new_deal_id": 7919,
+      "block_key": "BX-2829",
+      "existing_neighbor_deal_ids": [
+        605,
+        1985,
+        6549,
+        6551,
+        6552,
+        6553,
+        6554,
+        6555,
+        6556,
+        6599,
+        6600,
+        6601,
+        6604,
+        6605
+      ],
+      "new_deal_title": "68 EAST BURNSIDE AVENUE, BRONX NY 10453"
+    },
+    {
+      "new_deal_id": 7920,
+      "block_key": "BX-2856",
+      "existing_neighbor_deal_ids": [
+        6826,
+        6975
+      ],
+      "new_deal_title": "1363 JEROME AVENUE, BRONX NY 10452"
+    },
+    {
+      "new_deal_id": 7921,
+      "block_key": "BX-2462",
+      "existing_neighbor_deal_ids": [
+        6607,
+        6643,
+        6654,
+        6945
+      ],
+      "new_deal_title": "1130 GRAND CONCOURSE, BRONX NY 10456"
+    },
+    {
+      "new_deal_id": 7922,
+      "block_key": "BX-3043",
+      "existing_neighbor_deal_ids": [
+        7256
+      ],
+      "new_deal_title": "521 EAST TREMONT AVENUE, BRONX NY 10457"
+    },
+    {
+      "new_deal_id": 7923,
+      "block_key": "BX-2466",
+      "existing_neighbor_deal_ids": [
+        4343,
+        6799,
+        7344
+      ],
+      "new_deal_title": "116 EAST 169 STREET, BRONX NY 10452"
+    },
+    {
+      "new_deal_id": 7925,
+      "block_key": "BX-2865",
+      "existing_neighbor_deal_ids": [
+        7033,
+        7058
+      ],
+      "new_deal_title": "1504 MACOMBS ROAD, BRONX NY 10452"
+    },
+    {
+      "new_deal_id": 7926,
+      "block_key": "BX-3952",
+      "existing_neighbor_deal_ids": [
+        7004
+      ],
+      "new_deal_title": "1603 UNIONPORT ROAD, BRONX NY 10462"
+    },
+    {
+      "new_deal_id": 7927,
+      "block_key": "BX-3310",
+      "existing_neighbor_deal_ids": [
+        5723,
+        6584,
+        6614,
+        6615,
+        6929,
+        6977
+      ],
+      "new_deal_title": "3021 GRAND CONCOURSE, BRONX NY 10468"
+    },
+    {
+      "new_deal_id": 7928,
+      "block_key": "BX-2344",
+      "existing_neighbor_deal_ids": [
+        7027,
+        7053
+      ],
+      "new_deal_title": "288 WALTON AVENUE, BRONX NY 10451"
+    },
+    {
+      "new_deal_id": 7929,
+      "block_key": "BX-3310",
+      "existing_neighbor_deal_ids": [
+        5723,
+        6584,
+        6614,
+        6615,
+        6929,
+        6977
+      ],
+      "new_deal_title": "3031 GRAND CONCOURSE, BRONX NY 10468"
+    },
+    {
+      "new_deal_id": 7930,
+      "block_key": "BX-3178",
+      "existing_neighbor_deal_ids": [
+        6798
+      ],
+      "new_deal_title": "57 EAST BURNSIDE AVENUE, BRONX NY 10453"
+    },
+    {
+      "new_deal_id": 7931,
+      "block_key": "BX-2856",
+      "existing_neighbor_deal_ids": [
+        6826,
+        6975
+      ],
+      "new_deal_title": "1342 INWOOD AVENUE, BRONX NY 10452"
+    },
+    {
+      "new_deal_id": 7933,
+      "block_key": "BX-2864",
+      "existing_neighbor_deal_ids": [
+        7037
+      ],
+      "new_deal_title": "1349 INWOOD AVENUE, BRONX NY 10452"
+    },
+    {
+      "new_deal_id": 7935,
+      "block_key": "BX-3952",
+      "existing_neighbor_deal_ids": [
+        7004
+      ],
+      "new_deal_title": "1597 UNIONPORT ROAD, BRONX NY 10462"
+    },
+    {
+      "new_deal_id": 7936,
+      "block_key": "BX-2856",
+      "existing_neighbor_deal_ids": [
+        6826,
+        6975
+      ],
+      "new_deal_title": "21 EAST CLARKE PLACE, BRONX NY 10452"
+    },
+    {
+      "new_deal_id": 7938,
+      "block_key": "BX-2863",
+      "existing_neighbor_deal_ids": [
+        4768
+      ],
+      "new_deal_title": "1 WEST TREMONT AVENUE, BRONX NY 10453"
+    },
+    {
+      "new_deal_id": 7943,
+      "block_key": "BX-2857",
+      "existing_neighbor_deal_ids": [
+        6854,
+        7209
+      ],
+      "new_deal_title": "1400 CROMWELL AVENUE, BRONX NY 10452"
+    },
+    {
+      "new_deal_id": 7944,
+      "block_key": "BX-2421",
+      "existing_neighbor_deal_ids": [
+        6664,
+        6667,
+        6744,
+        6920,
+        6936,
+        6962,
+        7145
+      ],
+      "new_deal_title": "305 EAST 161 STREET, BRONX NY 10451"
+    },
+    {
+      "new_deal_id": 7946,
+      "block_key": "BX-2842",
+      "existing_neighbor_deal_ids": [
+        7263
+      ],
+      "new_deal_title": "1370 JEROME AVENUE, BRONX NY 10452"
+    },
+    {
+      "new_deal_id": 7947,
+      "block_key": "BX-2345",
+      "existing_neighbor_deal_ids": [
+        6736,
+        6953,
+        6970,
+        7042,
+        7498
+      ],
+      "new_deal_title": "391 GRAND CONCOURSE, BRONX NY 10451"
+    },
+    {
+      "new_deal_id": 7948,
+      "block_key": "BX-2850",
+      "existing_neighbor_deal_ids": [
+        4625,
+        6974
+      ],
+      "new_deal_title": "1770 JEROME AVENUE, BRONX NY 10453"
+    },
+    {
+      "new_deal_id": 7951,
+      "block_key": "BX-3159",
+      "existing_neighbor_deal_ids": [
+        6835,
+        6913
+      ],
+      "new_deal_title": "2332 GRAND CONCOURSE, BRONX NY 10458"
+    },
+    {
+      "new_deal_id": 7953,
+      "block_key": "BX-2842",
+      "existing_neighbor_deal_ids": [
+        7263
+      ],
+      "new_deal_title": "54 EAST 170 STREET, BRONX NY 10452"
+    },
+    {
+      "new_deal_id": 7954,
+      "block_key": "BX-2341",
+      "existing_neighbor_deal_ids": [
+        6921,
+        6979,
+        7055
+      ],
+      "new_deal_title": "250 GRAND CONCOURSE, BRONX NY 10451"
+    },
+    {
+      "new_deal_id": 7955,
+      "block_key": "BX-2857",
+      "existing_neighbor_deal_ids": [
+        6854,
+        7209
+      ],
+      "new_deal_title": "25 WEST 170 STREET, BRONX NY 10452"
+    },
+    {
+      "new_deal_id": 7956,
+      "block_key": "BX-3210",
+      "existing_neighbor_deal_ids": [
+        4805,
+        5990
+      ],
+      "new_deal_title": "85 WEST BURNSIDE AVENUE, BRONX NY 10453"
+    },
+    {
+      "new_deal_id": 7957,
+      "block_key": "BX-2850",
+      "existing_neighbor_deal_ids": [
+        4625,
+        6974
+      ],
+      "new_deal_title": "1760 JEROME AVENUE, BRONX NY 10453"
+    },
+    {
+      "new_deal_id": 7958,
+      "block_key": "BX-2857",
+      "existing_neighbor_deal_ids": [
+        6854,
+        7209
+      ],
+      "new_deal_title": "1405 PLAZA DRIVE, BRONX NY 10452"
+    },
+    {
+      "new_deal_id": 7959,
+      "block_key": "BX-2351",
+      "existing_neighbor_deal_ids": [
+        6935
+      ],
+      "new_deal_title": "EAST 149 STREET, BRONX NY 10451"
+    },
+    {
+      "new_deal_id": 7960,
+      "block_key": "BX-2489",
+      "existing_neighbor_deal_ids": [
+        4010,
+        5800,
+        6875,
+        6932,
+        6989,
+        7006
+      ],
+      "new_deal_title": "59 EAST 167 STREET, BRONX NY 10452"
+    },
+    {
+      "new_deal_id": 7963,
+      "block_key": "BX-3305",
+      "existing_neighbor_deal_ids": [
+        4660,
+        4675,
+        6632,
+        6633,
+        6634,
+        7013
+      ],
+      "new_deal_title": "2916 GRAND CONCOURSE, BRONX NY 10458"
+    },
+    {
+      "new_deal_id": 7965,
+      "block_key": "BX-2858",
+      "existing_neighbor_deal_ids": [
+        6917,
+        7222
+      ],
+      "new_deal_title": "10 WEST 172 STREET, BRONX NY 10452"
+    },
+    {
+      "new_deal_id": 7966,
+      "block_key": "BX-2865",
+      "existing_neighbor_deal_ids": [
+        7033,
+        7058
+      ],
+      "new_deal_title": "1490 MACOMBS ROAD, BRONX NY 10452"
+    },
+    {
+      "new_deal_id": 7967,
+      "block_key": "BX-2861",
+      "existing_neighbor_deal_ids": [
+        6765
+      ],
+      "new_deal_title": "1749 JEROME AVENUE, BRONX NY 10453"
+    },
+    {
+      "new_deal_id": 7968,
+      "block_key": "BX-2850",
+      "existing_neighbor_deal_ids": [
+        4625,
+        6974
+      ],
+      "new_deal_title": "1761 WALTON AVENUE, BRONX NY 10453"
+    },
+    {
+      "new_deal_id": 7969,
+      "block_key": "BX-2854",
+      "existing_neighbor_deal_ids": [
+        5002,
+        7219,
+        7251,
+        7265,
+        7356
+      ],
+      "new_deal_title": "2024 JEROME AVENUE, BRONX NY 10453"
+    },
+    {
+      "new_deal_id": 7970,
+      "block_key": "BX-2872",
+      "existing_neighbor_deal_ids": [
+        1861,
+        2019,
+        4796,
+        4823,
+        6165,
+        7031,
+        7131
+      ],
+      "new_deal_title": "1401 CROMWELL AVENUE, BRONX NY 10452"
+    },
+    {
+      "new_deal_id": 7971,
+      "block_key": "BX-2856",
+      "existing_neighbor_deal_ids": [
+        6826,
+        6975
+      ],
+      "new_deal_title": "1339 JEROME AVENUE, BRONX NY 10452"
+    },
+    {
+      "new_deal_id": 7973,
+      "block_key": "BX-2841",
+      "existing_neighbor_deal_ids": [
+        6578,
+        6867,
+        7000
+      ],
+      "new_deal_title": "1362 JEROME AVENUE, BRONX NY 10452"
+    },
+    {
+      "new_deal_id": 7974,
+      "block_key": "BX-3319",
+      "existing_neighbor_deal_ids": [
+        6786,
+        6869,
+        6870,
+        6998
+      ],
+      "new_deal_title": "15 EAST 198 STREET, BRONX NY 10468"
+    },
+    {
+      "new_deal_id": 7977,
+      "block_key": "BX-3016",
+      "existing_neighbor_deal_ids": [
+        6598,
+        7019
+      ],
+      "new_deal_title": "1962 BOSTON ROAD, BRONX NY 10460"
+    },
+    {
+      "new_deal_id": 7979,
+      "block_key": "BX-2521",
+      "existing_neighbor_deal_ids": [
+        531,
+        5721,
+        6042
+      ],
+      "new_deal_title": "1380 PLIMPTON AVENUE, BRONX NY 10452"
+    },
+    {
+      "new_deal_id": 7980,
+      "block_key": "BX-3178",
+      "existing_neighbor_deal_ids": [
+        6798
+      ],
+      "new_deal_title": "2137 MORRIS AVENUE, BRONX NY 10453"
+    },
+    {
+      "new_deal_id": 7982,
+      "block_key": "BX-2462",
+      "existing_neighbor_deal_ids": [
+        6607,
+        6643,
+        6654,
+        6945
+      ],
+      "new_deal_title": "1120 GRAND CONCOURSE, BRONX NY 10456"
+    },
+    {
+      "new_deal_id": 7984,
+      "block_key": "BX-2873",
+      "existing_neighbor_deal_ids": [
+        4872
+      ],
+      "new_deal_title": "1376 EDWARD L GRANT HWY, BRONX NY 10452"
+    },
+    {
+      "new_deal_id": 7987,
+      "block_key": "BX-2808",
+      "existing_neighbor_deal_ids": [
+        4180,
+        5098,
+        6626,
+        6637,
+        7362
+      ],
+      "new_deal_title": "1925 GRAND CONCOURSE, BRONX NY 10453"
+    },
+    {
+      "new_deal_id": 7988,
+      "block_key": "BX-2863",
+      "existing_neighbor_deal_ids": [
+        4768
+      ],
+      "new_deal_title": "1995 JEROME AVENUE, BRONX NY 10453"
+    },
+    {
+      "new_deal_id": 7989,
+      "block_key": "BX-2863",
+      "existing_neighbor_deal_ids": [
+        4768
+      ],
+      "new_deal_title": "1975 JEROME AVENUE, BRONX NY 10453"
+    },
+    {
+      "new_deal_id": 7990,
+      "block_key": "BX-3305",
+      "existing_neighbor_deal_ids": [
+        4660,
+        4675,
+        6632,
+        6633,
+        6634,
+        7013
+      ],
+      "new_deal_title": "2899 VALENTINE AVENUE, BRONX NY 10458"
+    },
+    {
+      "new_deal_id": 7991,
+      "block_key": "BX-3191",
+      "existing_neighbor_deal_ids": [
+        4517,
+        7210
+      ],
+      "new_deal_title": "2630 JEROME AVENUE, BRONX NY 10468"
+    },
+    {
+      "new_deal_id": 7992,
+      "block_key": "BX-2796",
+      "existing_neighbor_deal_ids": [
+        4751,
+        5420,
+        5422,
+        6683,
+        6685,
+        6686,
+        7211
+      ],
+      "new_deal_title": "1787 WEEKS AVENUE, BRONX NY 10457"
+    },
+    {
+      "new_deal_id": 7993,
+      "block_key": "BX-2870",
+      "existing_neighbor_deal_ids": [
+        5759,
+        6123,
+        6128
+      ],
+      "new_deal_title": "40 WEST BURNSIDE AVENUE, BRONX NY 10453"
+    },
+    {
+      "new_deal_id": 7994,
+      "block_key": "BX-2811",
+      "existing_neighbor_deal_ids": [
+        4177,
+        4179,
+        7314,
+        7315
+      ],
+      "new_deal_title": "1954 GRAND CONCOURSE, BRONX NY 10457"
+    },
+    {
+      "new_deal_id": 7995,
+      "block_key": "BX-2853",
+      "existing_neighbor_deal_ids": [
+        7008,
+        7038,
+        7220,
+        7361,
+        7383
+      ],
+      "new_deal_title": "1956 JEROME AVENUE, BRONX NY 10453"
+    },
+    {
+      "new_deal_id": 7996,
+      "block_key": "BX-3178",
+      "existing_neighbor_deal_ids": [
+        6798
+      ],
+      "new_deal_title": "67 EAST BURNSIDE AVENUE, BRONX NY 10453"
+    },
+    {
+      "new_deal_id": 7998,
+      "block_key": "BX-2345",
+      "existing_neighbor_deal_ids": [
+        6736,
+        6953,
+        6970,
+        7042,
+        7498
+      ],
+      "new_deal_title": "334 WALTON AVENUE, BRONX NY 10451"
+    },
+    {
+      "new_deal_id": 7999,
+      "block_key": "BX-3311",
+      "existing_neighbor_deal_ids": [
+        4159,
+        4647,
+        4740,
+        6571,
+        6576,
+        6589,
+        6735,
+        6780,
+        6840,
+        6879,
+        6912,
+        6938,
+        6992,
+        7325,
+        7326,
+        7327
+      ],
+      "new_deal_title": "233 EAST 204 STREET, BRONX NY 10458"
+    },
+    {
+      "new_deal_id": 8000,
+      "block_key": "BX-2854",
+      "existing_neighbor_deal_ids": [
+        5002,
+        7219,
+        7251,
+        7265,
+        7356
+      ],
+      "new_deal_title": "2016 JEROME AVENUE, BRONX NY 10453"
+    },
+    {
+      "new_deal_id": 8001,
+      "block_key": "BX-2858",
+      "existing_neighbor_deal_ids": [
+        6917,
+        7222
+      ],
+      "new_deal_title": "1477 JEROME AVENUE, BRONX NY 10452"
+    },
+    {
+      "new_deal_id": 8002,
+      "block_key": "BX-2855",
+      "existing_neighbor_deal_ids": [
+        6763,
+        6922,
+        6924,
+        6985,
+        7276,
+        7372
+      ],
+      "new_deal_title": "1304 INWOOD AVENUE, BRONX NY 10452"
+    },
+    {
+      "new_deal_id": 8003,
+      "block_key": "BX-2863",
+      "existing_neighbor_deal_ids": [
+        4768
+      ],
+      "new_deal_title": "2005 JEROME AVENUE, BRONX NY 10453"
+    },
+    {
+      "new_deal_id": 8005,
+      "block_key": "BX-2847",
+      "existing_neighbor_deal_ids": [
+        4497,
+        6952,
+        6972
+      ],
+      "new_deal_title": "3 EAST MT EDEN AVENUE, BRONX NY 10452"
+    },
+    {
+      "new_deal_id": 8006,
+      "block_key": "BX-2478",
+      "existing_neighbor_deal_ids": [
+        6931,
+        7011
+      ],
+      "new_deal_title": "1058 GERARD AVENUE, BRONX NY 10452"
+    },
+    {
+      "new_deal_id": 8007,
+      "block_key": "BX-3925",
+      "existing_neighbor_deal_ids": [
+        6468
+      ],
+      "new_deal_title": "1820 EAST TREMONT AVENUE, BRONX NY 10460"
+    },
+    {
+      "new_deal_id": 8009,
+      "block_key": "BX-2864",
+      "existing_neighbor_deal_ids": [
+        7037
+      ],
+      "new_deal_title": "1366 CROMWELL AVENUE, BRONX NY 10452"
+    },
+    {
+      "new_deal_id": 8010,
+      "block_key": "BX-2856",
+      "existing_neighbor_deal_ids": [
+        6826,
+        6975
+      ],
+      "new_deal_title": "1345 JEROME AVENUE, BRONX NY 10452"
+    },
+    {
+      "new_deal_id": 8012,
+      "block_key": "BX-2842",
+      "existing_neighbor_deal_ids": [
+        7263
+      ],
+      "new_deal_title": "110 EAST 170 STREET, BRONX NY 10452"
+    },
+    {
+      "new_deal_id": 8018,
+      "block_key": "BX-2833",
+      "existing_neighbor_deal_ids": [
+        6871,
+        6874,
+        6957
+      ],
+      "new_deal_title": "151 EAST 170 STREET, BRONX NY 10452"
+    },
+    {
+      "new_deal_id": 8019,
+      "block_key": "BX-2843",
+      "existing_neighbor_deal_ids": [
+        7275
+      ],
+      "new_deal_title": "101 EAST 170 STREET, BRONX NY 10452"
+    },
+    {
+      "new_deal_id": 8020,
+      "block_key": "BX-2853",
+      "existing_neighbor_deal_ids": [
+        7008,
+        7038,
+        7220,
+        7361,
+        7383
+      ],
+      "new_deal_title": "10 EAST TREMONT AVENUE, BRONX NY 10453"
+    },
+    {
+      "new_deal_id": 8021,
+      "block_key": "BX-2810",
+      "existing_neighbor_deal_ids": [
+        6803,
+        6919,
+        7010
+      ],
+      "new_deal_title": "1935 ANTHONY AVENUE, BRONX NY 10457"
+    },
+    {
+      "new_deal_id": 8022,
+      "block_key": "BX-2792",
+      "existing_neighbor_deal_ids": [
+        2163,
+        5647,
+        6070,
+        6072,
+        6073,
+        6672,
+        6674,
+        6852,
+        6853,
+        6969
+      ],
+      "new_deal_title": "1646 WEEKS AVENUE, BRONX NY 10457"
+    },
+    {
+      "new_deal_id": 8023,
+      "block_key": "BX-2828",
+      "existing_neighbor_deal_ids": [
+        6543,
+        6546,
+        6547,
+        6548,
+        6999
+      ],
+      "new_deal_title": "1901 MORRIS AVENUE, BRONX NY 10453"
+    },
+    {
+      "new_deal_id": 8025,
+      "block_key": "BX-2378",
+      "existing_neighbor_deal_ids": [
+        6956
+      ],
+      "new_deal_title": "3065 3 AVENUE, BRONX NY 10451"
+    },
+    {
+      "new_deal_id": 8026,
+      "block_key": "BX-2870",
+      "existing_neighbor_deal_ids": [
+        5759,
+        6123,
+        6128
+      ],
+      "new_deal_title": "26 WEST BURNSIDE AVENUE, BRONX NY 10453"
+    },
+    {
+      "new_deal_id": 8027,
+      "block_key": "BX-2863",
+      "existing_neighbor_deal_ids": [
+        4768
+      ],
+      "new_deal_title": "2021 JEROME AVENUE, BRONX NY 10453"
+    },
+    {
+      "new_deal_id": 8028,
+      "block_key": "BX-2850",
+      "existing_neighbor_deal_ids": [
+        4625,
+        6974
+      ],
+      "new_deal_title": "55 EAST 175 STREET, BRONX NY 10453"
+    },
+    {
+      "new_deal_id": 8029,
+      "block_key": "BX-2842",
+      "existing_neighbor_deal_ids": [
+        7263
+      ],
+      "new_deal_title": "126 EAST 170 STREET, BRONX NY 10452"
+    },
+    {
+      "new_deal_id": 8030,
+      "block_key": "BX-2842",
+      "existing_neighbor_deal_ids": [
+        7263
+      ],
+      "new_deal_title": "140 EAST 170 STREET, BRONX NY 10452"
+    },
+    {
+      "new_deal_id": 8031,
+      "block_key": "BX-3952",
+      "existing_neighbor_deal_ids": [
+        7004
+      ],
+      "new_deal_title": "1894 EAST TREMONT AVENUE, BRONX NY 10462"
+    },
+    {
+      "new_deal_id": 8032,
+      "block_key": "BX-3164",
+      "existing_neighbor_deal_ids": [
+        7044
+      ],
+      "new_deal_title": "2331 GRAND CONCOURSE, BRONX NY 10468"
+    },
+    {
+      "new_deal_id": 8034,
+      "block_key": "BX-3164",
+      "existing_neighbor_deal_ids": [
+        7044
+      ],
+      "new_deal_title": "2323 GRAND CONCOURSE, BRONX NY 10468"
+    },
+    {
+      "new_deal_id": 8035,
+      "block_key": "BX-2842",
+      "existing_neighbor_deal_ids": [
+        7263
+      ],
+      "new_deal_title": "32 EAST 170 STREET, BRONX NY 10452"
+    },
+    {
+      "new_deal_id": 8036,
+      "block_key": "BX-2421",
+      "existing_neighbor_deal_ids": [
+        6664,
+        6667,
+        6744,
+        6920,
+        6936,
+        6962,
+        7145
+      ],
+      "new_deal_title": "271 EAST 161 STREET, BRONX NY 10451"
+    },
+    {
+      "new_deal_id": 8037,
+      "block_key": "BX-2809",
+      "existing_neighbor_deal_ids": [
+        4210,
+        6915
+      ],
+      "new_deal_title": "239 EAST TREMONT AVENUE, BRONX NY 10457"
+    },
+    {
+      "new_deal_id": 8040,
+      "block_key": "BX-3169",
+      "existing_neighbor_deal_ids": [
+        562,
+        4172,
+        6766
+      ],
+      "new_deal_title": "109 EAST BURNSIDE AVENUE, BRONX NY 10453"
+    },
+    {
+      "new_deal_id": 8042,
+      "block_key": "BX-3322",
+      "existing_neighbor_deal_ids": [
+        6568,
+        6569,
+        6904,
+        7506,
+        7874
+      ],
+      "new_deal_title": "10 VAN CORTLANDT AVE E, BRONX NY 10468"
+    },
+    {
+      "new_deal_id": 8045,
+      "block_key": "BX-3321",
+      "existing_neighbor_deal_ids": [
+        5147,
+        6581,
+        6782,
+        6793
+      ],
+      "new_deal_title": "1 BEDFORD PARK BLVD, BRONX NY 10468"
+    },
+    {
+      "new_deal_id": 8046,
+      "block_key": "BX-3311",
+      "existing_neighbor_deal_ids": [
+        4159,
+        4647,
+        4740,
+        6571,
+        6576,
+        6589,
+        6735,
+        6780,
+        6840,
+        6879,
+        6912,
+        6938,
+        6992,
+        7325,
+        7326,
+        7327
+      ],
+      "new_deal_title": "243 EAST 204 STREET, BRONX NY 10458"
+    },
+    {
+      "new_deal_id": 8047,
+      "block_key": "BX-2792",
+      "existing_neighbor_deal_ids": [
+        2163,
+        5647,
+        6070,
+        6072,
+        6073,
+        6672,
+        6674,
+        6852,
+        6853,
+        6969
+      ],
+      "new_deal_title": "248 EAST 174 STREET, BRONX NY 10457"
+    },
+    {
+      "new_deal_id": 8048,
+      "block_key": "BX-2855",
+      "existing_neighbor_deal_ids": [
+        6763,
+        6922,
+        6924,
+        6985,
+        7276,
+        7372
+      ],
+      "new_deal_title": "1271 JEROME AVENUE, BRONX NY 10452"
+    },
+    {
+      "new_deal_id": 8049,
+      "block_key": "BX-2855",
+      "existing_neighbor_deal_ids": [
+        6763,
+        6922,
+        6924,
+        6985,
+        7276,
+        7372
+      ],
+      "new_deal_title": "1280 INWOOD AVENUE, BRONX NY 10452"
+    },
+    {
+      "new_deal_id": 8050,
+      "block_key": "BX-2854",
+      "existing_neighbor_deal_ids": [
+        5002,
+        7219,
+        7251,
+        7265,
+        7356
+      ],
+      "new_deal_title": "1968 JEROME AVENUE, BRONX NY 10453"
+    },
+    {
+      "new_deal_id": 8051,
+      "block_key": "BX-2522",
+      "existing_neighbor_deal_ids": [
+        660,
+        5947,
+        5997,
+        6708,
+        6792,
+        7433
+      ],
+      "new_deal_title": "1414 OGDEN AVENUE, BRONX NY 10452"
+    },
+    {
+      "new_deal_id": 8052,
+      "block_key": "BX-2858",
+      "existing_neighbor_deal_ids": [
+        6917,
+        7222
+      ],
+      "new_deal_title": "1465 JEROME AVENUE, BRONX NY 10452"
+    },
+    {
+      "new_deal_id": 8053,
+      "block_key": "BX-2828",
+      "existing_neighbor_deal_ids": [
+        6543,
+        6546,
+        6547,
+        6548,
+        6999
+      ],
+      "new_deal_title": "1930 WALTON AVENUE, BRONX NY 10453"
+    },
+    {
+      "new_deal_id": 8054,
+      "block_key": "BX-2466",
+      "existing_neighbor_deal_ids": [
+        4343,
+        6799,
+        7344
+      ],
+      "new_deal_title": "120 EAST 169 STREET, BRONX NY 10452"
+    },
+    {
+      "new_deal_id": 8055,
+      "block_key": "BX-2869",
+      "existing_neighbor_deal_ids": [
+        5313,
+        5373,
+        5867,
+        5900,
+        5970
+      ],
+      "new_deal_title": "50 WEST BURNSIDE AVENUE, BRONX NY 10453"
+    },
+    {
+      "new_deal_id": 8056,
+      "block_key": "BX-3181",
+      "existing_neighbor_deal_ids": [
+        6659
+      ],
+      "new_deal_title": "WALTON AVENUE, BRONX NY 10453"
+    },
+    {
+      "new_deal_id": 8057,
+      "block_key": "BX-3952",
+      "existing_neighbor_deal_ids": [
+        7004
+      ],
+      "new_deal_title": "1584 WHITE PLAINS ROAD, BRONX NY 10462"
+    },
+    {
+      "new_deal_id": 8058,
+      "block_key": "BX-2443",
+      "existing_neighbor_deal_ids": [
+        7355
+      ],
+      "new_deal_title": "MORRIS AVENUE, BRONX NY 10451"
+    },
+    {
+      "new_deal_id": 8059,
+      "block_key": "BX-3184",
+      "existing_neighbor_deal_ids": [
+        6563,
+        6573,
+        6579,
+        6593,
+        6609,
+        6636,
+        6864,
+        7409
+      ],
+      "new_deal_title": "2376 WALTON AVENUE, BRONX NY 10468"
+    },
+    {
+      "new_deal_id": 8060,
+      "block_key": "BX-2850",
+      "existing_neighbor_deal_ids": [
+        4625,
+        6974
+      ],
+      "new_deal_title": "13 EAST 175 STREET, BRONX NY 10453"
+    },
+    {
+      "new_deal_id": 8061,
+      "block_key": "BX-2351",
+      "existing_neighbor_deal_ids": [
+        6935
+      ],
+      "new_deal_title": "500 EXTERIOR STREET, BRONX NY 10451"
+    },
+    {
+      "new_deal_id": 8062,
+      "block_key": "BX-3184",
+      "existing_neighbor_deal_ids": [
+        6563,
+        6573,
+        6579,
+        6593,
+        6609,
+        6636,
+        6864,
+        7409
+      ],
+      "new_deal_title": "2430 WALTON AVENUE, BRONX NY 10468"
+    },
+    {
+      "new_deal_id": 8063,
+      "block_key": "BX-3306",
+      "existing_neighbor_deal_ids": [
+        4423,
+        4424,
+        5860,
+        6564,
+        6650,
+        6660,
+        6851,
+        6859,
+        6878,
+        6898,
+        6900,
+        7279,
+        7280
+      ],
+      "new_deal_title": "221 BEDFORD PARK BLVD, BRONX NY 10458"
+    },
+    {
+      "new_deal_id": 8064,
+      "block_key": "BX-2828",
+      "existing_neighbor_deal_ids": [
+        6543,
+        6546,
+        6547,
+        6548,
+        6999
+      ],
+      "new_deal_title": "60 EAST TREMONT AVENUE, BRONX NY 10453"
+    },
+    {
+      "new_deal_id": 8065,
+      "block_key": "BX-2421",
+      "existing_neighbor_deal_ids": [
+        6664,
+        6667,
+        6744,
+        6920,
+        6936,
+        6962,
+        7145
+      ],
+      "new_deal_title": "886 MORRIS AVENUE, BRONX NY 10451"
+    },
+    {
+      "new_deal_id": 8066,
+      "block_key": "BX-3309",
+      "existing_neighbor_deal_ids": [
+        2058,
+        4269,
+        6701,
+        6702,
+        6779,
+        6967,
+        7213
+      ],
+      "new_deal_title": "260 EAST 204 STREET, BRONX NY 10458"
+    },
+    {
+      "new_deal_id": 8067,
+      "block_key": "BX-2808",
+      "existing_neighbor_deal_ids": [
+        4180,
+        5098,
+        6626,
+        6637,
+        7362
+      ],
+      "new_deal_title": "1960 CRESTON AVENUE, BRONX NY 10453"
+    },
+    {
+      "new_deal_id": 8069,
+      "block_key": "BX-2791",
+      "existing_neighbor_deal_ids": [
+        4025,
+        4415,
+        6266,
+        6340,
+        6341,
+        6582,
+        6591,
+        6592,
+        6595,
+        6611
+      ],
+      "new_deal_title": "304 EAST 173 STREET, BRONX NY 10457"
+    },
+    {
+      "new_deal_id": 8070,
+      "block_key": "BX-2808",
+      "existing_neighbor_deal_ids": [
+        4180,
+        5098,
+        6626,
+        6637,
+        7362
+      ],
+      "new_deal_title": "2021 GRAND CONCOURSE, BRONX NY 10453"
+    },
+    {
+      "new_deal_id": 8071,
+      "block_key": "BX-2809",
+      "existing_neighbor_deal_ids": [
+        4210,
+        6915
+      ],
+      "new_deal_title": "221 EAST TREMONT AVENUE, BRONX NY 10457"
+    },
+    {
+      "new_deal_id": 8072,
+      "block_key": "BX-2869",
+      "existing_neighbor_deal_ids": [
+        5313,
+        5373,
+        5867,
+        5900,
+        5970
+      ],
+      "new_deal_title": "58 WEST BURNSIDE AVENUE, BRONX NY 10453"
+    },
+    {
+      "new_deal_id": 8074,
+      "block_key": "BX-2842",
+      "existing_neighbor_deal_ids": [
+        7263
+      ],
+      "new_deal_title": "2 EAST 170 STREET, BRONX NY 10452"
+    },
+    {
+      "new_deal_id": 8075,
+      "block_key": "BX-3320",
+      "existing_neighbor_deal_ids": [
+        687,
+        4596,
+        6828,
+        6832,
+        6857,
+        6944,
+        6988,
+        7224
+      ],
+      "new_deal_title": "2 BEDFORD PARK BLVD, BRONX NY 10468"
+    },
+    {
+      "new_deal_id": 8076,
+      "block_key": "BX-3177",
+      "existing_neighbor_deal_ids": [
+        2565,
+        6622,
+        6743
+      ],
+      "new_deal_title": "60 EAST KINGSBRIDGE RD, BRONX NY 10468"
+    },
+    {
+      "new_deal_id": 8078,
+      "block_key": "BX-3171",
+      "existing_neighbor_deal_ids": [
+        4794,
+        6723,
+        6724,
+        6725,
+        6727,
+        6728,
+        6865,
+        6902,
+        6934,
+        7075
+      ],
+      "new_deal_title": "2260 MORRIS AVENUE, BRONX NY 10453"
+    },
+    {
+      "new_deal_id": 8080,
+      "block_key": "BX-2857",
+      "existing_neighbor_deal_ids": [
+        6854,
+        7209
+      ],
+      "new_deal_title": "CROMWELL AVENUE, BRONX NY"
+    },
+    {
+      "new_deal_id": 8081,
+      "block_key": "BX-2845",
+      "existing_neighbor_deal_ids": [
+        7009,
+        7328
+      ],
+      "new_deal_title": "70 EAST MT EDEN AVENUE, BRONX NY 10452"
+    },
+    {
+      "new_deal_id": 8083,
+      "block_key": "BX-3314",
+      "existing_neighbor_deal_ids": [
+        6861,
+        6862,
+        6872,
+        6876
+      ],
+      "new_deal_title": "101 EAST KINGSBRIDGE RD, BRONX NY 10468"
+    },
+    {
+      "new_deal_id": 8085,
+      "block_key": "BX-2341",
+      "existing_neighbor_deal_ids": [
+        6921,
+        6979,
+        7055
+      ],
+      "new_deal_title": "338 GRAND CONCOURSE, BRONX NY 10451"
+    },
+    {
+      "new_deal_id": 8086,
+      "block_key": "BX-2853",
+      "existing_neighbor_deal_ids": [
+        7008,
+        7038,
+        7220,
+        7361,
+        7383
+      ],
+      "new_deal_title": "1928 JEROME AVENUE, BRONX NY 10453"
+    },
+    {
+      "new_deal_id": 8087,
+      "block_key": "BX-3309",
+      "existing_neighbor_deal_ids": [
+        2058,
+        4269,
+        6701,
+        6702,
+        6779,
+        6967,
+        7213
+      ],
+      "new_deal_title": "242 EAST 204 STREET, BRONX NY 10458"
+    },
+    {
+      "new_deal_id": 8088,
+      "block_key": "BX-3319",
+      "existing_neighbor_deal_ids": [
+        6786,
+        6869,
+        6870,
+        6998
+      ],
+      "new_deal_title": "2868 JEROME AVENUE, BRONX NY 10468"
+    },
+    {
+      "new_deal_id": 8091,
+      "block_key": "BX-2847",
+      "existing_neighbor_deal_ids": [
+        4497,
+        6952,
+        6972
+      ],
+      "new_deal_title": "51 EAST MT EDEN AVENUE, BRONX NY 10452"
+    },
+    {
+      "new_deal_id": 8092,
+      "block_key": "BX-3310",
+      "existing_neighbor_deal_ids": [
+        5723,
+        6584,
+        6614,
+        6615,
+        6929,
+        6977
+      ],
+      "new_deal_title": "3025 GRAND CONCOURSE, BRONX NY 10468"
+    },
+    {
+      "new_deal_id": 8093,
+      "block_key": "BX-3164",
+      "existing_neighbor_deal_ids": [
+        7044
+      ],
+      "new_deal_title": "2315 GRAND CONCOURSE, BRONX NY 10468"
+    },
+    {
+      "new_deal_id": 8094,
+      "block_key": "BX-2826",
+      "existing_neighbor_deal_ids": [
+        1777,
+        6572,
+        6588,
+        6621,
+        6698,
+        6752
+      ],
+      "new_deal_title": "1800 GRAND CONCOURSE, BRONX NY 10457"
+    },
+    {
+      "new_deal_id": 8095,
+      "block_key": "BX-3318",
+      "existing_neighbor_deal_ids": [
+        4338,
+        4734,
+        4754,
+        4775,
+        5013,
+        5341,
+        5342,
+        6372,
+        6373,
+        6374,
+        6421,
+        6442,
+        6587,
+        6616,
+        6668,
+        6709,
+        6711,
+        6713,
+        6714,
+        6715,
+        6716,
+        6783,
+        6785,
+        6787,
+        6788,
+        6789,
+        6794,
+        6797,
+        6802,
+        6827,
+        6939,
+        6960,
+        6981,
+        7199,
+        7364,
+        7486,
+        7870,
+        7871,
+        7891
+      ],
+      "new_deal_title": "28 EAST 198 STREET, BRONX NY 10468"
+    },
+    {
+      "new_deal_id": 8097,
+      "block_key": "BX-2829",
+      "existing_neighbor_deal_ids": [
+        605,
+        1985,
+        6549,
+        6551,
+        6552,
+        6553,
+        6554,
+        6555,
+        6556,
+        6599,
+        6600,
+        6601,
+        6604,
+        6605
+      ],
+      "new_deal_title": "51 EAST TREMONT AVENUE, BRONX NY 10453"
+    },
+    {
+      "new_deal_id": 8098,
+      "block_key": "BX-2792",
+      "existing_neighbor_deal_ids": [
+        2163,
+        5647,
+        6070,
+        6072,
+        6073,
+        6672,
+        6674,
+        6852,
+        6853,
+        6969
+      ],
+      "new_deal_title": "299 EAST MT EDEN AVENUE, BRONX NY 10457"
+    },
+    {
+      "new_deal_id": 8099,
+      "block_key": "BX-2863",
+      "existing_neighbor_deal_ids": [
+        4768
+      ],
+      "new_deal_title": "2015 JEROME AVENUE, BRONX NY 10453"
+    },
+    {
+      "new_deal_id": 8100,
+      "block_key": "BX-3157",
+      "existing_neighbor_deal_ids": [
+        4201,
+        6467,
+        7223
+      ],
+      "new_deal_title": "2176 ANTHONY AVENUE, BRONX NY 10457"
+    },
+    {
+      "new_deal_id": 8101,
+      "block_key": "BX-2808",
+      "existing_neighbor_deal_ids": [
+        4180,
+        5098,
+        6626,
+        6637,
+        7362
+      ],
+      "new_deal_title": "171 ECHO PLACE, BRONX NY 10453"
+    },
+    {
+      "new_deal_id": 8102,
+      "block_key": "BX-3151",
+      "existing_neighbor_deal_ids": [
+        4509,
+        4510,
+        6558,
+        6559,
+        6560,
+        6561,
+        6631,
+        6978,
+        7245
+      ],
+      "new_deal_title": "2346 RYER AVENUE, BRONX NY 10458"
+    },
+    {
+      "new_deal_id": 8103,
+      "block_key": "BX-3925",
+      "existing_neighbor_deal_ids": [
+        6468
+      ],
+      "new_deal_title": "1836 EAST TREMONT AVENUE, BRONX NY 10460"
+    },
+    {
+      "new_deal_id": 8104,
+      "block_key": "BX-2850",
+      "existing_neighbor_deal_ids": [
+        4625,
+        6974
+      ],
+      "new_deal_title": "1748 JEROME AVENUE, BRONX NY 10453"
+    },
+    {
+      "new_deal_id": 8105,
+      "block_key": "BX-2854",
+      "existing_neighbor_deal_ids": [
+        5002,
+        7219,
+        7251,
+        7265,
+        7356
+      ],
+      "new_deal_title": "2034 JEROME AVENUE, BRONX NY 10453"
+    },
+    {
+      "new_deal_id": 8106,
+      "block_key": "BX-3310",
+      "existing_neighbor_deal_ids": [
+        5723,
+        6584,
+        6614,
+        6615,
+        6929,
+        6977
+      ],
+      "new_deal_title": "3005 GRAND CONCOURSE, BRONX NY 10468"
+    },
+    {
+      "new_deal_id": 8107,
+      "block_key": "BX-3318",
+      "existing_neighbor_deal_ids": [
+        4338,
+        4734,
+        4754,
+        4775,
+        5013,
+        5341,
+        5342,
+        6372,
+        6373,
+        6374,
+        6421,
+        6442,
+        6587,
+        6616,
+        6668,
+        6709,
+        6711,
+        6713,
+        6714,
+        6715,
+        6716,
+        6783,
+        6785,
+        6787,
+        6788,
+        6789,
+        6794,
+        6797,
+        6802,
+        6827,
+        6939,
+        6960,
+        6981,
+        7199,
+        7364,
+        7486,
+        7870,
+        7871,
+        7891
+      ],
+      "new_deal_title": "32 EAST 198 STREET, BRONX NY 10468"
+    },
+    {
+      "new_deal_id": 8108,
+      "block_key": "BX-2807",
+      "existing_neighbor_deal_ids": [
+        4325,
+        4426,
+        6535,
+        6536,
+        6537,
+        6539,
+        6540,
+        6541,
+        6542,
+        6544,
+        6748,
+        6749,
+        6750,
+        6751,
+        6762,
+        6925,
+        7401,
+        7402
+      ],
+      "new_deal_title": "109 EAST TREMONT AVENUE, BRONX NY 10453"
+    },
+    {
+      "new_deal_id": 8110,
+      "block_key": "BX-2853",
+      "existing_neighbor_deal_ids": [
+        7008,
+        7038,
+        7220,
+        7361,
+        7383
+      ],
+      "new_deal_title": "1921 WALTON AVENUE, BRONX NY 10453"
+    },
+    {
+      "new_deal_id": 8111,
+      "block_key": "BX-3307",
+      "existing_neighbor_deal_ids": [
+        6769,
+        6770,
+        6771,
+        6772,
+        6773,
+        6774,
+        6775,
+        6777,
+        7253
+      ],
+      "new_deal_title": "EAST 202 STREET, BRONX NY 10458"
+    },
+    {
+      "new_deal_id": 8113,
+      "block_key": "BX-3318",
+      "existing_neighbor_deal_ids": [
+        4338,
+        4734,
+        4754,
+        4775,
+        5013,
+        5341,
+        5342,
+        6372,
+        6373,
+        6374,
+        6421,
+        6442,
+        6587,
+        6616,
+        6668,
+        6709,
+        6711,
+        6713,
+        6714,
+        6715,
+        6716,
+        6783,
+        6785,
+        6787,
+        6788,
+        6789,
+        6794,
+        6797,
+        6802,
+        6827,
+        6939,
+        6960,
+        6981,
+        7199,
+        7364,
+        7486,
+        7870,
+        7871,
+        7891
+      ],
+      "new_deal_title": "2814 MORRIS AVENUE, BRONX NY 10468"
+    },
+    {
+      "new_deal_id": 8114,
+      "block_key": "BX-2481",
+      "existing_neighbor_deal_ids": [
+        6602
+      ],
+      "new_deal_title": "1275 WALTON AVENUE, BRONX NY 10452"
+    },
+    {
+      "new_deal_id": 8115,
+      "block_key": "BX-3183",
+      "existing_neighbor_deal_ids": [
+        7294,
+        7354
+      ],
+      "new_deal_title": "2306 WALTON AVENUE, BRONX NY 10468"
+    },
+    {
+      "new_deal_id": 8118,
+      "block_key": "BX-3156",
+      "existing_neighbor_deal_ids": [
+        4758,
+        4897,
+        4900,
+        4901,
+        4910,
+        5862,
+        5863,
+        5911,
+        6574,
+        6577,
+        6666,
+        6670,
+        6738,
+        6745,
+        6954,
+        6964,
+        7030,
+        7045,
+        7302,
+        7384,
+        7510,
+        7511
+      ],
+      "new_deal_title": "253 EAST BURNSIDE AVENUE, BRONX NY 10457"
+    },
+    {
+      "new_deal_id": 8119,
+      "block_key": "BX-2833",
+      "existing_neighbor_deal_ids": [
+        6871,
+        6874,
+        6957
+      ],
+      "new_deal_title": "GRAND CONCOURSE, BRONX NY 10452"
+    },
+    {
+      "new_deal_id": 8120,
+      "block_key": "BX-2345",
+      "existing_neighbor_deal_ids": [
+        6736,
+        6953,
+        6970,
+        7042,
+        7498
+      ],
+      "new_deal_title": "WALTON AVENUE, BRONX NY 10451"
+    },
+    {
+      "new_deal_id": 8121,
+      "block_key": "BX-2808",
+      "existing_neighbor_deal_ids": [
+        4180,
+        5098,
+        6626,
+        6637,
+        7362
+      ],
+      "new_deal_title": "165 ECHO PLACE, BRONX NY 10453"
+    },
+    {
+      "new_deal_id": 8122,
+      "block_key": "BX-2809",
+      "existing_neighbor_deal_ids": [
+        4210,
+        6915
+      ],
+      "new_deal_title": "233 EAST TREMONT AVENUE, BRONX NY 10457"
+    },
+    {
+      "new_deal_id": 8123,
+      "block_key": "BX-2421",
+      "existing_neighbor_deal_ids": [
+        6664,
+        6667,
+        6744,
+        6920,
+        6936,
+        6962,
+        7145
+      ],
+      "new_deal_title": "901 TELLER AVENUE, BRONX NY 10451"
+    },
+    {
+      "new_deal_id": 8124,
+      "block_key": "BX-2812",
+      "existing_neighbor_deal_ids": [
+        6603
+      ],
+      "new_deal_title": "206 BUSH STREET, BRONX NY 10457"
+    },
+    {
+      "new_deal_id": 8125,
+      "block_key": "BX-2809",
+      "existing_neighbor_deal_ids": [
+        4210,
+        6915
+      ],
+      "new_deal_title": "229 EAST TREMONT AVENUE, BRONX NY 10457"
+    },
+    {
+      "new_deal_id": 8126,
+      "block_key": "BX-2842",
+      "existing_neighbor_deal_ids": [
+        7263
+      ],
+      "new_deal_title": "28 EAST 170 STREET, BRONX NY 10452"
+    },
+    {
+      "new_deal_id": 8127,
+      "block_key": "BX-2809",
+      "existing_neighbor_deal_ids": [
+        4210,
+        6915
+      ],
+      "new_deal_title": "251 EAST TREMONT AVENUE, BRONX NY 10457"
+    },
+    {
+      "new_deal_id": 8128,
+      "block_key": "BX-2853",
+      "existing_neighbor_deal_ids": [
+        7008,
+        7038,
+        7220,
+        7361,
+        7383
+      ],
+      "new_deal_title": "1934 JEROME AVENUE, BRONX NY 10453"
+    },
+    {
+      "new_deal_id": 8130,
+      "block_key": "BX-3315",
+      "existing_neighbor_deal_ids": [
+        4250,
+        4260,
+        4952,
+        5857,
+        6639,
+        6655,
+        6657,
+        6704,
+        6732,
+        6737,
+        6739,
+        6791,
+        6825,
+        6834,
+        7254,
+        7255,
+        7484
+      ],
+      "new_deal_title": "2843 GRAND CONCOURSE, BRONX NY 10468"
+    },
+    {
+      "new_deal_id": 8131,
+      "block_key": "BX-2863",
+      "existing_neighbor_deal_ids": [
+        4768
+      ],
+      "new_deal_title": "14 WEST BURNSIDE AVENUE, BRONX NY 10453"
+    },
+    {
+      "new_deal_id": 8132,
+      "block_key": "BX-3186",
+      "existing_neighbor_deal_ids": [
+        4220,
+        6346,
+        6697,
+        6699,
+        6700,
+        7300
+      ],
+      "new_deal_title": "2273 WALTON AVENUE, BRONX NY 10453"
+    },
+    {
+      "new_deal_id": 8133,
+      "block_key": "BX-2466",
+      "existing_neighbor_deal_ids": [
+        4343,
+        6799,
+        7344
+      ],
+      "new_deal_title": "128 EAST 169 STREET, BRONX NY 10452"
+    },
+    {
+      "new_deal_id": 8134,
+      "block_key": "BX-2839",
+      "existing_neighbor_deal_ids": [
+        4125,
+        6594,
+        6597,
+        6606,
+        6608,
+        6941,
+        6994,
+        7386
+      ],
+      "new_deal_title": "31 EAST 169 STREET, BRONX NY 10452"
+    },
+    {
+      "new_deal_id": 8135,
+      "block_key": "BX-2842",
+      "existing_neighbor_deal_ids": [
+        7263
+      ],
+      "new_deal_title": "46 EAST 170 STREET, BRONX NY 10452"
+    },
+    {
+      "new_deal_id": 8137,
+      "block_key": "BX-3182",
+      "existing_neighbor_deal_ids": [
+        6821
+      ],
+      "new_deal_title": "48 EAST 183 STREET, BRONX NY 10453"
+    },
+    {
+      "new_deal_id": 8138,
+      "block_key": "BX-2341",
+      "existing_neighbor_deal_ids": [
+        6921,
+        6979,
+        7055
+      ],
+      "new_deal_title": "346 GRAND CONCOURSE, BRONX NY 10451"
+    },
+    {
+      "new_deal_id": 8139,
+      "block_key": "BX-3177",
+      "existing_neighbor_deal_ids": [
+        2565,
+        6622,
+        6743
+      ],
+      "new_deal_title": "66 EAST KINGSBRIDGE RD, BRONX NY 10468"
+    },
+    {
+      "new_deal_id": 8140,
+      "block_key": "BX-2522",
+      "existing_neighbor_deal_ids": [
+        660,
+        5947,
+        5997,
+        6708,
+        6792,
+        7433
+      ],
+      "new_deal_title": "1455 EDWARD L GRANT HWY, BRONX NY 10452"
+    },
+    {
+      "new_deal_id": 8141,
+      "block_key": "BX-3043",
+      "existing_neighbor_deal_ids": [
+        7256
+      ],
+      "new_deal_title": "1910 BATHGATE AVENUE, BRONX NY 10457"
+    },
+    {
+      "new_deal_id": 8142,
+      "block_key": "BX-2522",
+      "existing_neighbor_deal_ids": [
+        660,
+        5947,
+        5997,
+        6708,
+        6792,
+        7433
+      ],
+      "new_deal_title": "1472 OGDEN AVENUE, BRONX NY 10452"
+    },
+    {
+      "new_deal_id": 8143,
+      "block_key": "BX-2808",
+      "existing_neighbor_deal_ids": [
+        4180,
+        5098,
+        6626,
+        6637,
+        7362
+      ],
+      "new_deal_title": "2024 CRESTON AVENUE, BRONX NY 10453"
+    },
+    {
+      "new_deal_id": 8144,
+      "block_key": "BX-2809",
+      "existing_neighbor_deal_ids": [
+        4210,
+        6915
+      ],
+      "new_deal_title": "217 EAST TREMONT AVENUE, BRONX NY 10457"
+    },
+    {
+      "new_deal_id": 8145,
+      "block_key": "BX-2364",
+      "existing_neighbor_deal_ids": [
+        5467,
+        6719
+      ],
+      "new_deal_title": "3110 3 AVENUE, BRONX NY 10451"
+    },
+    {
+      "new_deal_id": 8146,
+      "block_key": "BX-3305",
+      "existing_neighbor_deal_ids": [
+        4660,
+        4675,
+        6632,
+        6633,
+        6634,
+        7013
+      ],
+      "new_deal_title": "2889 VALENTINE AVENUE, BRONX NY 10458"
+    },
+    {
+      "new_deal_id": 8147,
+      "block_key": "BX-3043",
+      "existing_neighbor_deal_ids": [
+        7256
+      ],
+      "new_deal_title": "505 EAST TREMONT AVENUE, BRONX NY 10457"
+    },
+    {
+      "new_deal_id": 8148,
+      "block_key": "BX-3312",
+      "existing_neighbor_deal_ids": [
+        6565,
+        6566,
+        6570,
+        6645,
+        6706,
+        6858,
+        6901,
+        6903,
+        6906,
+        7424,
+        7425
+      ],
+      "new_deal_title": "211 EAST 205 STREET, BRONX NY 10458"
+    },
+    {
+      "new_deal_id": 8149,
+      "block_key": "BX-3311",
+      "existing_neighbor_deal_ids": [
+        4159,
+        4647,
+        4740,
+        6571,
+        6576,
+        6589,
+        6735,
+        6780,
+        6840,
+        6879,
+        6912,
+        6938,
+        6992,
+        7325,
+        7326,
+        7327
+      ],
+      "new_deal_title": "174 EAST 205 STREET, BRONX NY 10458"
+    },
+    {
+      "new_deal_id": 8151,
+      "block_key": "BX-2808",
+      "existing_neighbor_deal_ids": [
+        4180,
+        5098,
+        6626,
+        6637,
+        7362
+      ],
+      "new_deal_title": "2015 GRAND CONCOURSE, BRONX NY 10453"
+    },
+    {
+      "new_deal_id": 8152,
+      "block_key": "BX-2852",
+      "existing_neighbor_deal_ids": [
+        804,
+        5010,
+        5275,
+        6893,
+        6899
+      ],
+      "new_deal_title": "25 MT HOPE PLACE, BRONX NY 10453"
+    },
+    {
+      "new_deal_id": 8153,
+      "block_key": "BX-2851",
+      "existing_neighbor_deal_ids": [
+        6885,
+        6887,
+        6888,
+        6889,
+        6890,
+        6892,
+        6894,
+        7281,
+        7282
+      ],
+      "new_deal_title": "26 MT HOPE PLACE, BRONX NY 10453"
+    },
+    {
+      "new_deal_id": 8154,
+      "block_key": "BX-2852",
+      "existing_neighbor_deal_ids": [
+        804,
+        5010,
+        5275,
+        6893,
+        6899
+      ],
+      "new_deal_title": "29 MT HOPE PLACE, BRONX NY 10453"
+    },
+    {
+      "new_deal_id": 8155,
+      "block_key": "BX-2852",
+      "existing_neighbor_deal_ids": [
+        804,
+        5010,
+        5275,
+        6893,
+        6899
+      ],
+      "new_deal_title": "23 MT HOPE PLACE, BRONX NY 10453"
+    },
+    {
+      "new_deal_id": 8156,
+      "block_key": "BX-2852",
+      "existing_neighbor_deal_ids": [
+        804,
+        5010,
+        5275,
+        6893,
+        6899
+      ],
+      "new_deal_title": "27 MT HOPE PLACE, BRONX NY 10453"
+    },
+    {
+      "new_deal_id": 8158,
+      "block_key": "BX-2847",
+      "existing_neighbor_deal_ids": [
+        4497,
+        6952,
+        6972
+      ],
+      "new_deal_title": "1606 TOWNSEND AVENUE, BRONX NY 10452"
+    },
+    {
+      "new_deal_id": 8159,
+      "block_key": "BX-3171",
+      "existing_neighbor_deal_ids": [
+        4794,
+        6723,
+        6724,
+        6725,
+        6727,
+        6728,
+        6865,
+        6902,
+        6934,
+        7075
+      ],
+      "new_deal_title": "2271 CRESTON AVENUE, BRONX NY 10453"
+    },
+    {
+      "new_deal_id": 8160,
+      "block_key": "BX-2826",
+      "existing_neighbor_deal_ids": [
+        1777,
+        6572,
+        6588,
+        6621,
+        6698,
+        6752
+      ],
+      "new_deal_title": "1829 GRAND CONCOURSE, BRONX NY 10453"
+    },
+    {
+      "new_deal_id": 8162,
+      "block_key": "BX-2857",
+      "existing_neighbor_deal_ids": [
+        6854,
+        7209
+      ],
+      "new_deal_title": "1401 PLAZA DRIVE, BRONX NY 10452"
+    },
+    {
+      "new_deal_id": 8163,
+      "block_key": "BX-2857",
+      "existing_neighbor_deal_ids": [
+        6854,
+        7209
+      ],
+      "new_deal_title": "1448 CROMWELL AVENUE, BRONX NY 10452"
+    },
+    {
+      "new_deal_id": 8164,
+      "block_key": "BX-3191",
+      "existing_neighbor_deal_ids": [
+        4517,
+        7210
+      ],
+      "new_deal_title": "30 EAST KINGSBRIDGE RD, BRONX NY 10468"
+    },
+    {
+      "new_deal_id": 8165,
+      "block_key": "BX-3318",
+      "existing_neighbor_deal_ids": [
+        4338,
+        4734,
+        4754,
+        4775,
+        5013,
+        5341,
+        5342,
+        6372,
+        6373,
+        6374,
+        6421,
+        6442,
+        6587,
+        6616,
+        6668,
+        6709,
+        6711,
+        6713,
+        6714,
+        6715,
+        6716,
+        6783,
+        6785,
+        6787,
+        6788,
+        6789,
+        6794,
+        6797,
+        6802,
+        6827,
+        6939,
+        6960,
+        6981,
+        7199,
+        7364,
+        7486,
+        7870,
+        7871,
+        7891
+      ],
+      "new_deal_title": "MORRIS AVENUE, BRONX NY 10468"
+    },
+    {
+      "new_deal_id": 8166,
+      "block_key": "BX-3172",
+      "existing_neighbor_deal_ids": [
+        6623,
+        6627,
+        6628,
+        6629,
+        6635,
+        6640,
+        6730,
+        6804,
+        6905,
+        7261
+      ],
+      "new_deal_title": "2313 CRESTON AVENUE, BRONX NY 10468"
+    },
+    {
+      "new_deal_id": 8167,
+      "block_key": "BX-2364",
+      "existing_neighbor_deal_ids": [
+        5467,
+        6719
+      ],
+      "new_deal_title": "3060 3 AVENUE, BRONX NY 10451"
+    },
+    {
+      "new_deal_id": 8168,
+      "block_key": "BX-3315",
+      "existing_neighbor_deal_ids": [
+        4250,
+        4260,
+        4952,
+        5857,
+        6639,
+        6655,
+        6657,
+        6704,
+        6732,
+        6737,
+        6739,
+        6791,
+        6825,
+        6834,
+        7254,
+        7255,
+        7484
+      ],
+      "new_deal_title": "101 EAST 196 STREET, BRONX NY 10468"
+    },
+    {
+      "new_deal_id": 8170,
+      "block_key": "BX-2804",
+      "existing_neighbor_deal_ids": [
+        645,
+        750,
+        1231,
+        6531,
+        6532,
+        7034,
+        7271,
+        7272
+      ],
+      "new_deal_title": "246 EAST TREMONT AVENUE, BRONX NY 10457"
+    },
+    {
+      "new_deal_id": 8172,
+      "block_key": "BX-3191",
+      "existing_neighbor_deal_ids": [
+        4517,
+        7210
+      ],
+      "new_deal_title": "20 EAST KINGSBRIDGE RD, BRONX NY 10468"
+    },
+    {
+      "new_deal_id": 8175,
+      "block_key": "BX-3309",
+      "existing_neighbor_deal_ids": [
+        2058,
+        4269,
+        6701,
+        6702,
+        6779,
+        6967,
+        7213
+      ],
+      "new_deal_title": "234 EAST 204 STREET, BRONX NY 10458"
+    },
+    {
+      "new_deal_id": 8176,
+      "block_key": "BX-3307",
+      "existing_neighbor_deal_ids": [
+        6769,
+        6770,
+        6771,
+        6772,
+        6773,
+        6774,
+        6775,
+        6777,
+        7253
+      ],
+      "new_deal_title": "268 EAST 202 STREET, BRONX NY 10458"
+    },
+    {
+      "new_deal_id": 8179,
+      "block_key": "BX-2828",
+      "existing_neighbor_deal_ids": [
+        6543,
+        6546,
+        6547,
+        6548,
+        6999
+      ],
+      "new_deal_title": "50 EAST TREMONT AVENUE, BRONX NY 10453"
+    },
+    {
+      "new_deal_id": 8180,
+      "block_key": "BX-2364",
+      "existing_neighbor_deal_ids": [
+        5467,
+        6719
+      ],
+      "new_deal_title": "3058 3 AVENUE, BRONX NY 10451"
+    },
+    {
+      "new_deal_id": 8181,
+      "block_key": "BX-2364",
+      "existing_neighbor_deal_ids": [
+        5467,
+        6719
+      ],
+      "new_deal_title": "3054 3 AVENUE, BRONX NY 10451"
+    },
+    {
+      "new_deal_id": 8182,
+      "block_key": "BX-2364",
+      "existing_neighbor_deal_ids": [
+        5467,
+        6719
+      ],
+      "new_deal_title": "3056 3 AVENUE, BRONX NY 10451"
+    },
+    {
+      "new_deal_id": 8183,
+      "block_key": "BX-2462",
+      "existing_neighbor_deal_ids": [
+        6607,
+        6643,
+        6654,
+        6945
+      ],
+      "new_deal_title": "GRAND CONCOURSE, BRONX NY 10456"
+    },
+    {
+      "new_deal_id": 8184,
+      "block_key": "BX-3318",
+      "existing_neighbor_deal_ids": [
+        4338,
+        4734,
+        4754,
+        4775,
+        5013,
+        5341,
+        5342,
+        6372,
+        6373,
+        6374,
+        6421,
+        6442,
+        6587,
+        6616,
+        6668,
+        6709,
+        6711,
+        6713,
+        6714,
+        6715,
+        6716,
+        6783,
+        6785,
+        6787,
+        6788,
+        6789,
+        6794,
+        6797,
+        6802,
+        6827,
+        6939,
+        6960,
+        6981,
+        7199,
+        7364,
+        7486,
+        7870,
+        7871,
+        7891
+      ],
+      "new_deal_title": "MORRIS AVENUE, BRONX NY 10468"
+    },
+    {
+      "new_deal_id": 8185,
+      "block_key": "BX-2796",
+      "existing_neighbor_deal_ids": [
+        4751,
+        5420,
+        5422,
+        6683,
+        6685,
+        6686,
+        7211
+      ],
+      "new_deal_title": "1750 EASTBURN AVENUE, BRONX NY 10457"
+    },
+    {
+      "new_deal_id": 8186,
+      "block_key": "BX-2809",
+      "existing_neighbor_deal_ids": [
+        4210,
+        6915
+      ],
+      "new_deal_title": "1915 ANTHONY AVENUE, BRONX NY 10457"
+    },
+    {
+      "new_deal_id": 8187,
+      "block_key": "BX-3181",
+      "existing_neighbor_deal_ids": [
+        6659
+      ],
+      "new_deal_title": "2196 WALTON AVENUE, BRONX NY 10453"
+    },
+    {
+      "new_deal_id": 8188,
+      "block_key": "BX-3178",
+      "existing_neighbor_deal_ids": [
+        6798
+      ],
+      "new_deal_title": "2118 WALTON AVENUE, BRONX NY 10453"
+    },
+    {
+      "new_deal_id": 8189,
+      "block_key": "BX-3306",
+      "existing_neighbor_deal_ids": [
+        4423,
+        4424,
+        5860,
+        6564,
+        6650,
+        6660,
+        6851,
+        6859,
+        6878,
+        6898,
+        6900,
+        7279,
+        7280
+      ],
+      "new_deal_title": "219 BEDFORD PARK BLVD, BRONX NY 10458"
+    },
+    {
+      "new_deal_id": 8190,
+      "block_key": "BX-2794",
+      "existing_neighbor_deal_ids": [
+        4026,
+        4027,
+        6677,
+        6923
+      ],
+      "new_deal_title": "1684 MORRIS AVENUE, BRONX NY 10457"
+    },
+    {
+      "new_deal_id": 8191,
+      "block_key": "BX-2849",
+      "existing_neighbor_deal_ids": [
+        6375,
+        6624,
+        6644,
+        6648,
+        6651,
+        6756,
+        6757,
+        6758,
+        6813,
+        6816,
+        6882,
+        6883,
+        6886,
+        7436,
+        7437,
+        7438,
+        7439,
+        7441
+      ],
+      "new_deal_title": "1707 TOWNSEND AVENUE, BRONX NY 10453"
+    }
+  ]
+}
