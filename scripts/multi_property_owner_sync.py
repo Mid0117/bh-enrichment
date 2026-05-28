@@ -221,7 +221,11 @@ if DRY:
 print("[5/5] Applying merges + notes...", file=sys.stderr)
 merges_done = 0; notes_done = 0; errors = []
 ts = time.strftime("%Y%m%dT%H%M%S")
-log = open(f"F:/Work/Joel/bh-enrichment/dry_run/multi_owner_log_{ts}.jsonl", "w", encoding="utf-8")
+# Log lives in run_log/ inside the repo so it works on both the local Windows
+# box and the GHA Linux runner. (Was hard-coded F:/Work/... — that broke GHA.)
+LOG_DIR = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "run_log")
+os.makedirs(LOG_DIR, exist_ok=True)
+log = open(os.path.join(LOG_DIR, f"multi_owner_log_{ts}.jsonl"), "w", encoding="utf-8")
 
 for grp in multi_owner_groups:
     phone = grp["phone"]
