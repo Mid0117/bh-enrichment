@@ -1,0 +1,85 @@
+{
+  "ts": "2026-06-03T00:32:43.700278+00:00",
+  "today_path": "/home/runner/work/bh-enrichment/bh-enrichment/state/deals_20260603.json",
+  "prev_path": "/home/runner/work/bh-enrichment/bh-enrichment/state/deals_20260602.json",
+  "today_deal_count": 4519,
+  "prev_deal_count": 4502,
+  "new_deal_count": 17,
+  "neighbor_change_count": 8,
+  "changes": [
+    {
+      "new_deal_id": 8289,
+      "block_key": "BX-3324",
+      "existing_neighbor_deal_ids": [
+        4922
+      ],
+      "new_deal_title": "3455 JEROME AVENUE, BRONX NY 10467"
+    },
+    {
+      "new_deal_id": 8290,
+      "block_key": "BK-5141",
+      "existing_neighbor_deal_ids": [
+        7080
+      ],
+      "new_deal_title": "12 MATTHEWS COURT, BROOKLYN NY 11218"
+    },
+    {
+      "new_deal_id": 8291,
+      "block_key": "BX-2443",
+      "existing_neighbor_deal_ids": [
+        7898,
+        8058
+      ],
+      "new_deal_title": "590 GRAND CONCOURSE, BRONX NY 10451"
+    },
+    {
+      "new_deal_id": 8293,
+      "block_key": "BX-3030",
+      "existing_neighbor_deal_ids": [
+        554,
+        792,
+        5029,
+        5869,
+        7895
+      ],
+      "new_deal_title": "4511 PARK AVENUE, BRONX NY 10457 / (MD 2252 WEBSTER AVENUE)"
+    },
+    {
+      "new_deal_id": 8294,
+      "block_key": "BX-3030",
+      "existing_neighbor_deal_ids": [
+        554,
+        792,
+        5029,
+        5869,
+        7895
+      ],
+      "new_deal_title": "4515 PARK AVENUE, BRONX NY 10457 / (MD 2252 WEBSTER AVENUE)"
+    },
+    {
+      "new_deal_id": 8298,
+      "block_key": "BX-3211",
+      "existing_neighbor_deal_ids": [
+        4879
+      ],
+      "new_deal_title": "2206 DR MARTIN LUTHER KING JR BOULEVARD, BRONX NY 10453"
+    },
+    {
+      "new_deal_id": 8283,
+      "block_key": "BK-1378",
+      "existing_neighbor_deal_ids": [
+        3991
+      ],
+      "new_deal_title": "1380 STERLING PLACE, BROOKLYN NY 11213"
+    },
+    {
+      "new_deal_id": 8285,
+      "block_key": "BK-5601",
+      "existing_neighbor_deal_ids": [
+        4374,
+        4578
+      ],
+      "new_deal_title": "4310 10 AVENUE, BROOKLYN NY 11219"
+    }
+  ]
+}
