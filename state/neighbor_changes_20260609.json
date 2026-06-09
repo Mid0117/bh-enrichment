@@ -1,0 +1,32 @@
+{
+  "ts": "2026-06-09T00:10:53.697205+00:00",
+  "today_path": "/home/runner/work/bh-enrichment/bh-enrichment/state/deals_20260609.json",
+  "prev_path": "/home/runner/work/bh-enrichment/bh-enrichment/state/deals_20260608.json",
+  "today_deal_count": 4525,
+  "prev_deal_count": 4523,
+  "new_deal_count": 6,
+  "neighbor_change_count": 2,
+  "changes": [
+    {
+      "new_deal_id": 8304,
+      "block_key": "BX-2579",
+      "existing_neighbor_deal_ids": [
+        6096
+      ],
+      "new_deal_title": "728 EAST 149 STREET, BRONX NY 10455"
+    },
+    {
+      "new_deal_id": 8306,
+      "block_key": "BK-3673",
+      "existing_neighbor_deal_ids": [
+        7736,
+        7737,
+        7746,
+        7747,
+        7748,
+        7782
+      ],
+      "new_deal_title": "2731 & 2735 ATLANTIC AVENUE, BROOKLYN NY 11207"
+    }
+  ]
+}
