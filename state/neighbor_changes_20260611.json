@@ -1,0 +1,29 @@
+{
+  "ts": "2026-06-11T00:19:59.434148+00:00",
+  "today_path": "/home/runner/work/bh-enrichment/bh-enrichment/state/deals_20260611.json",
+  "prev_path": "/home/runner/work/bh-enrichment/bh-enrichment/state/deals_20260610.json",
+  "today_deal_count": 4526,
+  "prev_deal_count": 4521,
+  "new_deal_count": 5,
+  "neighbor_change_count": 2,
+  "changes": [
+    {
+      "new_deal_id": 8312,
+      "block_key": "BX-3925",
+      "existing_neighbor_deal_ids": [
+        6468,
+        8007,
+        8103
+      ],
+      "new_deal_title": "1830 EAST TREMONT AVENUE, BRONX NY 10460"
+    },
+    {
+      "new_deal_id": 8314,
+      "block_key": "BX-3599",
+      "existing_neighbor_deal_ids": [
+        4405
+      ],
+      "new_deal_title": "759 THIERIOT AVENUE, BRONX NY 10473"
+    }
+  ]
+}
