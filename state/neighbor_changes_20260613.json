@@ -1,0 +1,27 @@
+{
+  "ts": "2026-06-13T00:27:01.713396+00:00",
+  "today_path": "/home/runner/work/bh-enrichment/bh-enrichment/state/deals_20260613.json",
+  "prev_path": "/home/runner/work/bh-enrichment/bh-enrichment/state/deals_20260612.json",
+  "today_deal_count": 4532,
+  "prev_deal_count": 4526,
+  "new_deal_count": 6,
+  "neighbor_change_count": 2,
+  "changes": [
+    {
+      "new_deal_id": 8317,
+      "block_key": "BX-3805",
+      "existing_neighbor_deal_ids": [
+        5916
+      ],
+      "new_deal_title": "2010 WESTCHESTER AVENUE, BRONX NY 10462"
+    },
+    {
+      "new_deal_id": 8318,
+      "block_key": "BX-4841",
+      "existing_neighbor_deal_ids": [
+        1247
+      ],
+      "new_deal_title": "712 EAST 228 STREET, BRONX NY 10466"
+    }
+  ]
+}
