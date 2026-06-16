@@ -1,0 +1,59 @@
+{
+  "ts": "2026-06-16T01:47:15.145521+00:00",
+  "today_path": "/home/runner/work/bh-enrichment/bh-enrichment/state/deals_20260616.json",
+  "prev_path": "/home/runner/work/bh-enrichment/bh-enrichment/state/deals_20260615.json",
+  "today_deal_count": 4539,
+  "prev_deal_count": 4532,
+  "new_deal_count": 7,
+  "neighbor_change_count": 5,
+  "changes": [
+    {
+      "new_deal_id": 8323,
+      "block_key": "BX-5796",
+      "existing_neighbor_deal_ids": [
+        7481
+      ],
+      "new_deal_title": "517 TULFAN TERRACE, BRONX NY 10463 / (MD 3630 OXFORD AVENUE)"
+    },
+    {
+      "new_deal_id": 8324,
+      "block_key": "BX-5796",
+      "existing_neighbor_deal_ids": [
+        7481
+      ],
+      "new_deal_title": "519 TULFAN TERRACE, BRONX NY 10463 / (MD 3630 OXFORD AVENUE)"
+    },
+    {
+      "new_deal_id": 8325,
+      "block_key": "BX-5796",
+      "existing_neighbor_deal_ids": [
+        7481
+      ],
+      "new_deal_title": "3638 OXFORD AVENUE, BRONX NY 10463 / (MD 3630 OXFORD AVENUE)"
+    },
+    {
+      "new_deal_id": 8326,
+      "block_key": "BX-2719",
+      "existing_neighbor_deal_ids": [
+        4781,
+        4782,
+        4783,
+        5077,
+        5925
+      ],
+      "new_deal_title": "898 HOME STREET, BRONX NY 10459 / (MD 900 HOME STREET)"
+    },
+    {
+      "new_deal_id": 8327,
+      "block_key": "BX-2719",
+      "existing_neighbor_deal_ids": [
+        4781,
+        4782,
+        4783,
+        5077,
+        5925
+      ],
+      "new_deal_title": "1145 FOX STREET, BRONX NY 10459 / (MD 900 HOME STREET)"
+    }
+  ]
+}
