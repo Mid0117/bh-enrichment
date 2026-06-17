@@ -1,0 +1,37 @@
+{
+  "ts": "2026-06-17T00:23:14.919225+00:00",
+  "today_path": "/home/runner/work/bh-enrichment/bh-enrichment/state/deals_20260617.json",
+  "prev_path": "/home/runner/work/bh-enrichment/bh-enrichment/state/deals_20260616.json",
+  "today_deal_count": 4541,
+  "prev_deal_count": 4539,
+  "new_deal_count": 2,
+  "neighbor_change_count": 1,
+  "changes": [
+    {
+      "new_deal_id": 8329,
+      "block_key": "BX-2868",
+      "existing_neighbor_deal_ids": [
+        4006,
+        4099,
+        4608,
+        4999,
+        5325,
+        5761,
+        5937,
+        5978,
+        5998,
+        5999,
+        6103,
+        6104,
+        6310,
+        6311,
+        6381,
+        6425,
+        6448,
+        7148,
+        7473
+      ],
+      "new_deal_title": "1872 UNIVERSITY AVENUE, BRONX NY 10453 / (MD 1880 UNIVERSITY AVENUE)"
+    }
+  ]
+}
