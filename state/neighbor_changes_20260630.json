@@ -1,0 +1,27 @@
+{
+  "ts": "2026-06-30T00:10:12.065075+00:00",
+  "today_path": "/home/runner/work/bh-enrichment/bh-enrichment/state/deals_20260630.json",
+  "prev_path": "/home/runner/work/bh-enrichment/bh-enrichment/state/deals_20260629.json",
+  "today_deal_count": 4553,
+  "prev_deal_count": 4549,
+  "new_deal_count": 4,
+  "neighbor_change_count": 2,
+  "changes": [
+    {
+      "new_deal_id": 8362,
+      "block_key": "BX-3931",
+      "existing_neighbor_deal_ids": [
+        4664
+      ],
+      "new_deal_title": "1951 BENEDICT AVENUE, BRONX NY 10462 (MD)"
+    },
+    {
+      "new_deal_id": 8363,
+      "block_key": "BK-3170",
+      "existing_neighbor_deal_ids": [
+        6376
+      ],
+      "new_deal_title": "1171 MYRTLE AVENUE, BROOKLYN NY 11206 (MD)"
+    }
+  ]
+}
