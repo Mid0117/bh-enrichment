@@ -1,26 +1,22 @@
 {
-  "ts": "20260707T000823Z",
+  "ts": "20260707T235722Z",
   "date": "20260707",
-  "parent_deals_processed": 843,
-  "updated": 843,
-  "skipped_unchanged": 0,
-  "total_blocks_rendered": 1109,
+  "parent_deals_processed": 846,
+  "updated": 16,
+  "skipped_unchanged": 830,
+  "total_blocks_rendered": 1181,
   "wants_to_sell_counts": {
-    "likely (asking price set)": 381,
-    "yes (per notes)": 204,
-    "unknown": 524
+    "likely (asking price set)": 395,
+    "yes (per notes)": 211,
+    "unknown": 575
   },
   "errors": [],
   "backup_path": "/home/runner/work/bh-enrichment/bh-enrichment/state/connected_properties_backup_20260707.json",
-  "backup_size_bytes": 470536,
-  "sample_7870": {
-    "deal_id": 7870,
-    "before": "=== CONNECTED PROPERTIES (auto-updated 2026-07-06) ===\n\n1) 2798 Morris Ave, Bronx, NY, 10468\n   https://bhinvestments.pipedrive.com/deal/7486\n   Asking: 1.3 M  |  Vacant: --  |  Rent if occupied: --\n   Owner LLC: HAXHARI, ALBAN\n   Wants to sell: likely (asking price set)\n\n--- MANUAL NOTES (preserved) ---\nMD: 2798 MORRIS AVENUE, BRONX NY 10468\nLink: https://bhinvestments.pipedrive.com/deal/7486\nAsking: 1.3 M\nVacant: -\n",
-    "after": "=== CONNECTED PROPERTIES (auto-updated 2026-07-07) ===\n\n1) 2798 Morris Ave, Bronx, NY, 10468\n   https://bhinvestments.pipedrive.com/deal/7486\n   Asking: 1.3 M  |  Vacant: --  |  Rent if occupied: --\n   Owner LLC: HAXHARI, ALBAN\n   Wants to sell: likely (asking price set)\n\n--- MANUAL NOTES (preserved) ---\nMD: 2798 MORRIS AVENUE, BRONX NY 10468\nLink: https://bhinvestments.pipedrive.com/deal/7486\nAsking: 1.3 M\nVacant: -\n"
-  },
+  "backup_size_bytes": 476735,
+  "sample_7870": null,
   "preserved_example": {
-    "deal_id": 523,
-    "before": "=== CONNECTED PROPERTIES (auto-updated 2026-07-06) ===\n\n1) 2012 Belmont Street, Bronx, NY 10457, USA\n   https://bhinvestments.pipedrive.com/deal/4139\n   Asking: --  |  Vacant: --  |  Rent if occupied: --\n   Owner LLC: SCOTT, RANIER\n   Wants to sell: unknown\n\n2) 2010 Belmont Ave, Bronx, NY 10457, USA\n   https://bhinvestments.pipedrive.com/deal/4140\n   Asking: --  |  Vacant: --  |  Rent if occupied: --\n   Owner LLC: WHYTE, ELAINE\n   Wants to sell: unknown\n\n3) 675 E 179th St, Bronx, NY 10457, USA\n   https://bhinvestments.pipedrive.com/deal/4146\n   Asking: --  |  Vacant: --  |  Rent if occupied: --\n   Owner LLC: ESTHER UNITED RENTAL LLC\n   Wants to sell: unknown\n\n--- MANUAL NOTES (preserved) ---\n=== AUTO-LINKED NEIGHBORS (2026-05-25) ===\nAuto-linked 3 neighbor/owner-related deals via heuristics:\n- 2012 BELMONT AVENUE, BRONX NY 10457\n  https://bhinvestments.pipedrive.com/deal/4139  [H2_same_block_adj_lot]\n- 2010 BELMONT AVENUE, BRONX NY 10457\n  https://bhinvestments.pipedrive.com/deal/4140  [H2_same_block_adj_lot]\n- 675 EAST 179 STREET, BRONX NY 10457\n  https://bhinvestments.pipedrive.com/deal/4146  [H4_same_street_pm10]\n",
-    "after": "=== CONNECTED PROPERTIES (auto-updated 2026-07-07) ===\n\n1) 2012 Belmont Street, Bronx, NY 10457, USA\n   https://bhinvestments.pipedrive.com/deal/4139\n   Asking: --  |  Vacant: --  |  Rent if occupied: --\n   Owner LLC: SCOTT, RANIER\n   Wants to sell: unknown\n\n2) 2010 Belmont Ave, Bronx, NY 10457, USA\n   https://bhinvestments.pipedrive.com/deal/4140\n   Asking: --  |  Vacant: --  |  Rent if occupied: --\n   Owner LLC: WHYTE, ELAINE\n   Wants to sell: unknown\n\n3) 675 E 179th St, Bronx, NY 10457, USA\n   https://bhinvestments.pipedrive.com/deal/4146\n   Asking: --  |  Vacant: --  |  Rent if occupied: --\n   Owner LLC: ESTHER UNITED RENTAL LLC\n   Wants to sell: unknown\n\n--- MANUAL NOTES (preserved) ---\n=== AUTO-LINKED NEIGHBORS (2026-05-25) ===\nAuto-linked 3 neighbor/owner-related deals via heuristics:\n- 2012 BELMONT AVENUE, BRONX NY 10457\n  https://bhinvestments.pipedrive.com/deal/4139  [H2_same_block_adj_lot]\n- 2010 BELMONT AVENUE, BRONX NY 10457\n  https://bhinvestments.pipedrive.com/deal/4140  [H2_same_block_adj_lot]\n- 675 EAST 179 STREET, BRONX NY 10457\n  https://bhinvestments.pipedrive.com/deal/4146  [H4_same_street_pm10]\n"
+    "deal_id": 2160,
+    "before": "=== CONNECTED PROPERTIES (auto-updated 2026-07-07) ===\n1) 822 Faile St, Bronx, NY 10474\nhttps://bhinvestments.pipedrive.com/deal/7167\nAsking: --  |  Vacant: --  |  Rent if occupied: --\nOwner LLC: DREA HOLDINGS LLC\nWants to sell: yes (per notes)\n--- MANUAL NOTES (preserved) ---\n=== AUTO-LINKED TO (MD) PARENT (2026-05-25) ===\n- 822 FAILE STREET, BRONX NY 10474 (BL) (MD)\nhttps://bhinvestments.pipedrive.com/deal/7167  [H4_same_street_pm10]\nhttps://bhinvestments.pipedrive.com/deal/8368\nhttps://bhinvestments.pipedrive.com/deal/8365\nhttps://bhinvestments.pipedrive.com/deal/8366\nhttps://bhinvestments.pipedrive.com/deal/8367",
+    "after": "=== CONNECTED PROPERTIES (auto-updated 2026-07-07) ===\n\n1) 822 Faile St, Bronx, NY 10474\n   https://bhinvestments.pipedrive.com/deal/7167\n   Asking: --  |  Vacant: --  |  Rent if occupied: --\n   Owner LLC: DREA HOLDINGS LLC\n   Wants to sell: yes (per notes)\n\n2) 828 Faile St, Bronx, NY 10474\n   https://bhinvestments.pipedrive.com/deal/8368\n   Asking: --  |  Vacant: --  |  Rent if occupied: --\n   Owner LLC: 828 FAILE LLC\n   Wants to sell: unknown\n\n3) 817 Bryant Ave, Bronx, NY 10474\n   https://bhinvestments.pipedrive.com/deal/8365\n   Asking: --  |  Vacant: --  |  Rent if occupied: --\n   Owner LLC: ALLEN, ALFREDO\n   Wants to sell: unknown\n\n4) 823 Bryant Ave, Bronx, NY 10474\n   https://bhinvestments.pipedrive.com/deal/8366\n   Asking: --  |  Vacant: --  |  Rent if occupied: --\n   Owner LLC: CHAVEZ BERENICE\n   Wants to sell: unknown\n\n5) 825 Bryant Ave, Bronx, NY 10474\n   https://bhinvestments.pipedrive.com/deal/8367\n   Asking: --  |  Vacant: --  |  Rent if occupied: --\n   Owner LLC: CHICO OLGA\n   Wants to sell: unknown\n\n--- MANUAL NOTES (preserved) ---\n=== AUTO-LINKED TO (MD) PARENT (2026-05-25) ===\n- 822 FAILE STREET, BRONX NY 10474 (BL) (MD)\nhttps://bhinvestments.pipedrive.com/deal/7167  [H4_same_street_pm10]\nhttps://bhinvestments.pipedrive.com/deal/8368\nhttps://bhinvestments.pipedrive.com/deal/8365\nhttps://bhinvestments.pipedrive.com/deal/8366\nhttps://bhinvestments.pipedrive.com/deal/8367\n"
   }
 }
