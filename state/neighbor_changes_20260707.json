@@ -1,0 +1,79 @@
+{
+  "ts": "2026-07-07T00:15:44.586817+00:00",
+  "today_path": "/home/runner/work/bh-enrichment/bh-enrichment/state/deals_20260707.json",
+  "prev_path": "/home/runner/work/bh-enrichment/bh-enrichment/state/deals_20260706.json",
+  "today_deal_count": 4558,
+  "prev_deal_count": 4554,
+  "new_deal_count": 4,
+  "neighbor_change_count": 4,
+  "changes": [
+    {
+      "new_deal_id": 8368,
+      "block_key": "BX-2762",
+      "existing_neighbor_deal_ids": [
+        2063,
+        2160,
+        2434,
+        4128,
+        5963,
+        7167,
+        7168,
+        7169,
+        7170,
+        7172
+      ],
+      "new_deal_title": "828 FAILE STREET, BRONX NY 10474 / (MD 822 FAILE STREET)"
+    },
+    {
+      "new_deal_id": 8365,
+      "block_key": "BX-2762",
+      "existing_neighbor_deal_ids": [
+        2063,
+        2160,
+        2434,
+        4128,
+        5963,
+        7167,
+        7168,
+        7169,
+        7170,
+        7172
+      ],
+      "new_deal_title": "817 BRYANT AVENUE, BRONX NY 10474 / (MD 822 FAILE STREET)"
+    },
+    {
+      "new_deal_id": 8366,
+      "block_key": "BX-2762",
+      "existing_neighbor_deal_ids": [
+        2063,
+        2160,
+        2434,
+        4128,
+        5963,
+        7167,
+        7168,
+        7169,
+        7170,
+        7172
+      ],
+      "new_deal_title": "823 BRYANT AVENUE, BRONX NY 10474 / (MD 822 FAILE STREET)"
+    },
+    {
+      "new_deal_id": 8367,
+      "block_key": "BX-2762",
+      "existing_neighbor_deal_ids": [
+        2063,
+        2160,
+        2434,
+        4128,
+        5963,
+        7167,
+        7168,
+        7169,
+        7170,
+        7172
+      ],
+      "new_deal_title": "825 BRYANT AVENUE, BRONX NY 10474 / (MD 822 FAILE STREET)"
+    }
+  ]
+}
