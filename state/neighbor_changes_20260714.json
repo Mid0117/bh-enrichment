@@ -1,0 +1,188 @@
+{
+  "ts": "2026-07-14T23:59:26.822005+00:00",
+  "today_path": "/home/runner/work/bh-enrichment/bh-enrichment/state/deals_20260714.json",
+  "prev_path": "/home/runner/work/bh-enrichment/bh-enrichment/state/deals_20260712.json",
+  "today_deal_count": 4555,
+  "prev_deal_count": 4540,
+  "new_deal_count": 20,
+  "neighbor_change_count": 16,
+  "changes": [
+    {
+      "new_deal_id": 6913,
+      "block_key": "BX-3159",
+      "existing_neighbor_deal_ids": [
+        6835
+      ],
+      "new_deal_title": "2306 GRAND CONCOURSE, BRONX NY 10458"
+    },
+    {
+      "new_deal_id": 7170,
+      "block_key": "BX-2762",
+      "existing_neighbor_deal_ids": [
+        2434,
+        7167,
+        8365,
+        8366,
+        8367,
+        8368
+      ],
+      "new_deal_title": "819 BRYANT AVENUE, BRONX NY 10474 / (MD 822 FAILE STREET)"
+    },
+    {
+      "new_deal_id": 7555,
+      "block_key": "BK-1171",
+      "existing_neighbor_deal_ids": [
+        7550,
+        7551,
+        7552,
+        7553,
+        7554,
+        7721
+      ],
+      "new_deal_title": "192 UNDERHILL AVENUE, BROOKLYN NY 11238"
+    },
+    {
+      "new_deal_id": 7172,
+      "block_key": "BX-2762",
+      "existing_neighbor_deal_ids": [
+        2434,
+        7167,
+        8365,
+        8366,
+        8367,
+        8368
+      ],
+      "new_deal_title": "821 BRYANT AVENUE, BRONX NY 10474 / (MD 822 FAILE STREET)"
+    },
+    {
+      "new_deal_id": 2063,
+      "block_key": "BX-2762",
+      "existing_neighbor_deal_ids": [
+        2434,
+        7167,
+        8365,
+        8366,
+        8367,
+        8368
+      ],
+      "new_deal_title": "815 BRYANT AVENUE, BRONX NY 10474"
+    },
+    {
+      "new_deal_id": 7711,
+      "block_key": "BK-186",
+      "existing_neighbor_deal_ids": [
+        7652,
+        7658,
+        7712,
+        7714
+      ],
+      "new_deal_title": "556 ATLANTIC AVENUE, BROOKLYN NY 11217"
+    },
+    {
+      "new_deal_id": 6952,
+      "block_key": "BX-2847",
+      "existing_neighbor_deal_ids": [
+        4497,
+        6972,
+        8005,
+        8091,
+        8158
+      ],
+      "new_deal_title": "55 EAST MT EDEN AVENUE, BRONX NY 10452"
+    },
+    {
+      "new_deal_id": 7976,
+      "block_key": "BX-3048",
+      "existing_neighbor_deal_ids": [
+        7983,
+        8116,
+        8150,
+        8171,
+        8177,
+        8178
+      ],
+      "new_deal_title": "4451 3 AVENUE, BRONX NY 10457"
+    },
+    {
+      "new_deal_id": 7981,
+      "block_key": "BX-3927",
+      "existing_neighbor_deal_ids": [
+        8013
+      ],
+      "new_deal_title": "1872 EAST TREMONT AVENUE, BRONX NY 10460"
+    },
+    {
+      "new_deal_id": 8393,
+      "block_key": "BX-2859",
+      "existing_neighbor_deal_ids": [
+        6464
+      ],
+      "new_deal_title": "1504 INWOOD AVENUE, BRONX NY 10452"
+    },
+    {
+      "new_deal_id": 8136,
+      "block_key": "BX-3048",
+      "existing_neighbor_deal_ids": [
+        7983,
+        8116,
+        8150,
+        8171,
+        8177,
+        8178
+      ],
+      "new_deal_title": "4441 3 AVENUE, BRONX NY 10457"
+    },
+    {
+      "new_deal_id": 4428,
+      "block_key": "BX-4667",
+      "existing_neighbor_deal_ids": [
+        4429,
+        4430
+      ],
+      "new_deal_title": "3806 WHITE PLAINS ROAD, BRONX NY 10467 (MD)"
+    },
+    {
+      "new_deal_id": 8145,
+      "block_key": "BX-2364",
+      "existing_neighbor_deal_ids": [
+        5467,
+        6719,
+        8167,
+        8180,
+        8181
+      ],
+      "new_deal_title": "3110 3 AVENUE, BRONX NY 10451"
+    },
+    {
+      "new_deal_id": 7769,
+      "block_key": "BK-3948",
+      "existing_neighbor_deal_ids": [
+        7107,
+        7149
+      ],
+      "new_deal_title": "2831 ATLANTIC AVENUE, BROOKLYN NY 11207"
+    },
+    {
+      "new_deal_id": 8041,
+      "block_key": "BX-3052",
+      "existing_neighbor_deal_ids": [
+        8090,
+        8157,
+        8204
+      ],
+      "new_deal_title": "4535 3 AVENUE, BRONX NY 10458"
+    },
+    {
+      "new_deal_id": 8182,
+      "block_key": "BX-2364",
+      "existing_neighbor_deal_ids": [
+        5467,
+        6719,
+        8167,
+        8180,
+        8181
+      ],
+      "new_deal_title": "3056 3 AVENUE, BRONX NY 10451"
+    }
+  ]
+}
