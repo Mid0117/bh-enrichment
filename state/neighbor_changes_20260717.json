@@ -1,0 +1,43 @@
+{
+  "ts": "2026-07-17T23:57:22.599005+00:00",
+  "today_path": "/home/runner/work/bh-enrichment/bh-enrichment/state/deals_20260717.json",
+  "prev_path": "/home/runner/work/bh-enrichment/bh-enrichment/state/deals_20260714.json",
+  "today_deal_count": 4554,
+  "prev_deal_count": 4555,
+  "new_deal_count": 3,
+  "neighbor_change_count": 2,
+  "changes": [
+    {
+      "new_deal_id": 8395,
+      "block_key": "BX-2762",
+      "existing_neighbor_deal_ids": [
+        2063,
+        2434,
+        7167,
+        7170,
+        7172,
+        8365,
+        8366,
+        8367,
+        8368
+      ],
+      "new_deal_title": "812 BRYANT AVENUE, BRONX NY 10474"
+    },
+    {
+      "new_deal_id": 8396,
+      "block_key": "BX-2762",
+      "existing_neighbor_deal_ids": [
+        2063,
+        2434,
+        7167,
+        7170,
+        7172,
+        8365,
+        8366,
+        8367,
+        8368
+      ],
+      "new_deal_title": "806 BRYANT AVENUE, BRONX NY 10474"
+    }
+  ]
+}

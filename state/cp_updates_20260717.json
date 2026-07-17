@@ -1,0 +1,100 @@
+{
+  "ts": "2026-07-17T23:57:28.926674+00:00",
+  "neighbor_changes_count": 2,
+  "deals_touched": 11,
+  "updated": 11,
+  "errors": [],
+  "log": [
+    {
+      "deal_id": 2063,
+      "added": [
+        "https://bhinvestments.pipedrive.com/deal/8395",
+        "https://bhinvestments.pipedrive.com/deal/8396"
+      ]
+    },
+    {
+      "deal_id": 2434,
+      "added": [
+        "https://bhinvestments.pipedrive.com/deal/8395",
+        "https://bhinvestments.pipedrive.com/deal/8396"
+      ]
+    },
+    {
+      "deal_id": 7167,
+      "added": [
+        "https://bhinvestments.pipedrive.com/deal/8395",
+        "https://bhinvestments.pipedrive.com/deal/8396"
+      ]
+    },
+    {
+      "deal_id": 7170,
+      "added": [
+        "https://bhinvestments.pipedrive.com/deal/8395",
+        "https://bhinvestments.pipedrive.com/deal/8396"
+      ]
+    },
+    {
+      "deal_id": 7172,
+      "added": [
+        "https://bhinvestments.pipedrive.com/deal/8395",
+        "https://bhinvestments.pipedrive.com/deal/8396"
+      ]
+    },
+    {
+      "deal_id": 8365,
+      "added": [
+        "https://bhinvestments.pipedrive.com/deal/8395",
+        "https://bhinvestments.pipedrive.com/deal/8396"
+      ]
+    },
+    {
+      "deal_id": 8366,
+      "added": [
+        "https://bhinvestments.pipedrive.com/deal/8395",
+        "https://bhinvestments.pipedrive.com/deal/8396"
+      ]
+    },
+    {
+      "deal_id": 8367,
+      "added": [
+        "https://bhinvestments.pipedrive.com/deal/8395",
+        "https://bhinvestments.pipedrive.com/deal/8396"
+      ]
+    },
+    {
+      "deal_id": 8368,
+      "added": [
+        "https://bhinvestments.pipedrive.com/deal/8395",
+        "https://bhinvestments.pipedrive.com/deal/8396"
+      ]
+    },
+    {
+      "deal_id": 8395,
+      "added": [
+        "https://bhinvestments.pipedrive.com/deal/2434",
+        "https://bhinvestments.pipedrive.com/deal/7170",
+        "https://bhinvestments.pipedrive.com/deal/7172",
+        "https://bhinvestments.pipedrive.com/deal/8365",
+        "https://bhinvestments.pipedrive.com/deal/8366",
+        "https://bhinvestments.pipedrive.com/deal/2063",
+        "https://bhinvestments.pipedrive.com/deal/8367",
+        "https://bhinvestments.pipedrive.com/deal/8368",
+        "https://bhinvestments.pipedrive.com/deal/7167"
+      ]
+    },
+    {
+      "deal_id": 8396,
+      "added": [
+        "https://bhinvestments.pipedrive.com/deal/2434",
+        "https://bhinvestments.pipedrive.com/deal/7170",
+        "https://bhinvestments.pipedrive.com/deal/7172",
+        "https://bhinvestments.pipedrive.com/deal/8365",
+        "https://bhinvestments.pipedrive.com/deal/8366",
+        "https://bhinvestments.pipedrive.com/deal/2063",
+        "https://bhinvestments.pipedrive.com/deal/8367",
+        "https://bhinvestments.pipedrive.com/deal/8368",
+        "https://bhinvestments.pipedrive.com/deal/7167"
+      ]
+    }
+  ]
+}
