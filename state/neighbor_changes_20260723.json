@@ -1,0 +1,70 @@
+{
+  "ts": "2026-07-23T00:06:32.439238+00:00",
+  "today_path": "/home/runner/work/bh-enrichment/bh-enrichment/state/deals_20260723.json",
+  "prev_path": "/home/runner/work/bh-enrichment/bh-enrichment/state/deals_20260718.json",
+  "today_deal_count": 4554,
+  "prev_deal_count": 4554,
+  "new_deal_count": 6,
+  "neighbor_change_count": 4,
+  "changes": [
+    {
+      "new_deal_id": 8398,
+      "block_key": "BK-2502",
+      "existing_neighbor_deal_ids": [
+        7865,
+        7866
+      ],
+      "new_deal_title": "WEST STREET, BROOKLYN NY 11222 (copy)"
+    },
+    {
+      "new_deal_id": 8399,
+      "block_key": "BK-7562",
+      "existing_neighbor_deal_ids": [
+        6054,
+        6324,
+        6330,
+        7109
+      ],
+      "new_deal_title": "925 EAST 34 STREET, BROOKLYN NY 11210"
+    },
+    {
+      "new_deal_id": 8401,
+      "block_key": "BX-3315",
+      "existing_neighbor_deal_ids": [
+        4250,
+        4260,
+        4952,
+        5857,
+        6639,
+        6655,
+        6657,
+        6704,
+        6732,
+        6737,
+        6739,
+        6791,
+        6825,
+        6834,
+        7254,
+        7255,
+        7484,
+        7916,
+        8130,
+        8168,
+        8253
+      ],
+      "new_deal_title": "2791 GRAND CONCOURSE, BRONX NY 10468"
+    },
+    {
+      "new_deal_id": 8402,
+      "block_key": "BX-2864",
+      "existing_neighbor_deal_ids": [
+        7037,
+        7904,
+        7933,
+        8009
+      ],
+      "new_deal_title": "1333 INWOOD AVENUE, BRONX NY 10452 / (MD 1337 INWOOD AVENUE)"
+    }
+  ]
+}
