@@ -1,0 +1,40 @@
+{
+  "ts": "2026-07-25T00:10:10.534096+00:00",
+  "today_path": "/home/runner/work/bh-enrichment/bh-enrichment/state/deals_20260725.json",
+  "prev_path": "/home/runner/work/bh-enrichment/bh-enrichment/state/deals_20260723.json",
+  "today_deal_count": 4559,
+  "prev_deal_count": 4554,
+  "new_deal_count": 7,
+  "neighbor_change_count": 2,
+  "changes": [
+    {
+      "new_deal_id": 8405,
+      "block_key": "BX-2848",
+      "existing_neighbor_deal_ids": [
+        1046,
+        6620,
+        6753,
+        6755,
+        6806,
+        6807,
+        6808,
+        6810,
+        6811,
+        6812,
+        6909,
+        7026,
+        7329,
+        7509
+      ],
+      "new_deal_title": "1690 JEROME AVENUE, BRONX NY 10453"
+    },
+    {
+      "new_deal_id": 8407,
+      "block_key": "BX-3964",
+      "existing_neighbor_deal_ids": [
+        2567
+      ],
+      "new_deal_title": "2255 WESTCHESTER AVENUE, BRONX NY 10462"
+    }
+  ]
+}
