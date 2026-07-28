@@ -1,0 +1,34 @@
+{
+  "ts": "2026-07-28T00:06:54.463877+00:00",
+  "today_path": "/home/runner/work/bh-enrichment/bh-enrichment/state/deals_20260728.json",
+  "prev_path": "/home/runner/work/bh-enrichment/bh-enrichment/state/deals_20260726.json",
+  "today_deal_count": 4560,
+  "prev_deal_count": 4559,
+  "new_deal_count": 1,
+  "neighbor_change_count": 1,
+  "changes": [
+    {
+      "new_deal_id": 1985,
+      "block_key": "BX-2829",
+      "existing_neighbor_deal_ids": [
+        605,
+        6549,
+        6551,
+        6552,
+        6553,
+        6554,
+        6555,
+        6556,
+        6599,
+        6600,
+        6601,
+        6604,
+        6605,
+        7919,
+        8097,
+        8203
+      ],
+      "new_deal_title": "1987 MORRIS AVENUE, BRONX NY 10453 (MD)"
+    }
+  ]
+}
