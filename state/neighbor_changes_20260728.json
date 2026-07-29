@@ -1,12 +1,94 @@
 {
-  "ts": "2026-07-28T00:06:54.463877+00:00",
+  "ts": "2026-07-28T23:59:36.934518+00:00",
   "today_path": "/home/runner/work/bh-enrichment/bh-enrichment/state/deals_20260728.json",
   "prev_path": "/home/runner/work/bh-enrichment/bh-enrichment/state/deals_20260726.json",
-  "today_deal_count": 4560,
+  "today_deal_count": 4573,
   "prev_deal_count": 4559,
-  "new_deal_count": 1,
-  "neighbor_change_count": 1,
+  "new_deal_count": 16,
+  "neighbor_change_count": 13,
   "changes": [
+    {
+      "new_deal_id": 8416,
+      "block_key": "BK-3690",
+      "existing_neighbor_deal_ids": [
+        7750,
+        7754,
+        7755,
+        7756,
+        7757,
+        7759,
+        7784
+      ],
+      "new_deal_title": "2726 ATLANTIC AVENUE, BROOKLYN NY 11207"
+    },
+    {
+      "new_deal_id": 8417,
+      "block_key": "BK-3953",
+      "existing_neighbor_deal_ids": [
+        7365
+      ],
+      "new_deal_title": "2941 ATLANTIC AVENUE, BROOKLYN NY 11207"
+    },
+    {
+      "new_deal_id": 8418,
+      "block_key": "BK-30",
+      "existing_neighbor_deal_ids": [
+        7515,
+        7517,
+        7853,
+        7854
+      ],
+      "new_deal_title": "39 PEARL STREET, BROOKLYN NY 11201"
+    },
+    {
+      "new_deal_id": 8419,
+      "block_key": "BK-268",
+      "existing_neighbor_deal_ids": [
+        7692,
+        7693
+      ],
+      "new_deal_title": "41 SCHERMERHORN STREET, BROOKLYN NY 11201"
+    },
+    {
+      "new_deal_id": 8420,
+      "block_key": "BK-1033",
+      "existing_neighbor_deal_ids": [
+        7830
+      ],
+      "new_deal_title": "524 4 AVENUE, BROOKLYN NY 11215"
+    },
+    {
+      "new_deal_id": 8421,
+      "block_key": "BK-1047",
+      "existing_neighbor_deal_ids": [
+        7644
+      ],
+      "new_deal_title": "559 4 AVENUE, BROOKLYN NY 11215"
+    },
+    {
+      "new_deal_id": 8422,
+      "block_key": "BK-932",
+      "existing_neighbor_deal_ids": [
+        7819,
+        7821,
+        7824,
+        7827
+      ],
+      "new_deal_title": "61 4 AVENUE, BROOKLYN NY 11217"
+    },
+    {
+      "new_deal_id": 8424,
+      "block_key": "BK-269",
+      "existing_neighbor_deal_ids": [
+        7321,
+        7695,
+        7698,
+        7704,
+        7705,
+        7708
+      ],
+      "new_deal_title": "81 COURT STREET, BROOKLYN NY 11201"
+    },
     {
       "new_deal_id": 1985,
       "block_key": "BX-2829",
@@ -29,6 +111,46 @@
         8203
       ],
       "new_deal_title": "1987 MORRIS AVENUE, BRONX NY 10453 (MD)"
+    },
+    {
+      "new_deal_id": 8411,
+      "block_key": "BK-946",
+      "existing_neighbor_deal_ids": [
+        7669
+      ],
+      "new_deal_title": "155 4 AVENUE, BROOKLYN NY 11217"
+    },
+    {
+      "new_deal_id": 8413,
+      "block_key": "BK-441",
+      "existing_neighbor_deal_ids": [
+        7671,
+        7851
+      ],
+      "new_deal_title": "236 4 AVENUE, BROOKLYN NY 11215"
+    },
+    {
+      "new_deal_id": 8414,
+      "block_key": "BK-448",
+      "existing_neighbor_deal_ids": [
+        7675,
+        7676,
+        7678,
+        7689,
+        7722,
+        7850
+      ],
+      "new_deal_title": "250 4 AVENUE, BROOKLYN NY 11215"
+    },
+    {
+      "new_deal_id": 8415,
+      "block_key": "BK-3671",
+      "existing_neighbor_deal_ids": [
+        7739,
+        7777,
+        7778
+      ],
+      "new_deal_title": "2675 ATLANTIC AVENUE, BROOKLYN NY 11207"
     }
   ]
 }
