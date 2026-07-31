@@ -1,0 +1,199 @@
+{
+  "ts": "2026-07-31T00:08:04.847466+00:00",
+  "today_path": "/home/runner/work/bh-enrichment/bh-enrichment/state/deals_20260731.json",
+  "prev_path": "/home/runner/work/bh-enrichment/bh-enrichment/state/deals_20260728.json",
+  "today_deal_count": 4584,
+  "prev_deal_count": 4573,
+  "new_deal_count": 12,
+  "neighbor_change_count": 11,
+  "changes": [
+    {
+      "new_deal_id": 4128,
+      "block_key": "BX-2762",
+      "existing_neighbor_deal_ids": [
+        2063,
+        2434,
+        7167,
+        7170,
+        7172,
+        8365,
+        8366,
+        8367,
+        8368,
+        8395,
+        8396
+      ],
+      "new_deal_title": "855 FAILE STREET, BRONX NY 10474"
+    },
+    {
+      "new_deal_id": 7168,
+      "block_key": "BX-2762",
+      "existing_neighbor_deal_ids": [
+        2063,
+        2434,
+        7167,
+        7170,
+        7172,
+        8365,
+        8366,
+        8367,
+        8368,
+        8395,
+        8396
+      ],
+      "new_deal_title": "826 FAILE STREET, BRONX NY 10474"
+    },
+    {
+      "new_deal_id": 7169,
+      "block_key": "BX-2762",
+      "existing_neighbor_deal_ids": [
+        2063,
+        2434,
+        7167,
+        7170,
+        7172,
+        8365,
+        8366,
+        8367,
+        8368,
+        8395,
+        8396
+      ],
+      "new_deal_title": "818 FAILE STREET, BRONX NY 10474"
+    },
+    {
+      "new_deal_id": 8426,
+      "block_key": "BX-2762",
+      "existing_neighbor_deal_ids": [
+        2063,
+        2434,
+        7167,
+        7170,
+        7172,
+        8365,
+        8366,
+        8367,
+        8368,
+        8395,
+        8396
+      ],
+      "new_deal_title": "827 BRYANT AVENUE, BRONX NY 10474 / (MD 822 FAILE STREET)"
+    },
+    {
+      "new_deal_id": 8427,
+      "block_key": "BX-2762",
+      "existing_neighbor_deal_ids": [
+        2063,
+        2434,
+        7167,
+        7170,
+        7172,
+        8365,
+        8366,
+        8367,
+        8368,
+        8395,
+        8396
+      ],
+      "new_deal_title": "829 BRYANT AVENUE, BRONX NY 10474 / (MD 822 FAILE STREET)"
+    },
+    {
+      "new_deal_id": 8428,
+      "block_key": "BX-2762",
+      "existing_neighbor_deal_ids": [
+        2063,
+        2434,
+        7167,
+        7170,
+        7172,
+        8365,
+        8366,
+        8367,
+        8368,
+        8395,
+        8396
+      ],
+      "new_deal_title": "831 BRYANT AVENUE, BRONX NY 10474 / (MD 822 FAILE STREET)"
+    },
+    {
+      "new_deal_id": 8429,
+      "block_key": "BX-2762",
+      "existing_neighbor_deal_ids": [
+        2063,
+        2434,
+        7167,
+        7170,
+        7172,
+        8365,
+        8366,
+        8367,
+        8368,
+        8395,
+        8396
+      ],
+      "new_deal_title": "833 BRYANT AVENUE, BRONX NY 10474 / (MD 822 FAILE STREET)"
+    },
+    {
+      "new_deal_id": 8430,
+      "block_key": "BX-3098",
+      "existing_neighbor_deal_ids": [
+        2603,
+        2604,
+        6273
+      ],
+      "new_deal_title": "2164 CROTONA AVENUE, BRONX NY 10457"
+    },
+    {
+      "new_deal_id": 8431,
+      "block_key": "BX-2796",
+      "existing_neighbor_deal_ids": [
+        4751,
+        5420,
+        5422,
+        6683,
+        6685,
+        6686,
+        7211,
+        7992,
+        8185
+      ],
+      "new_deal_title": "1779 WEEKS AVENUE, BRONX NY 10457"
+    },
+    {
+      "new_deal_id": 2160,
+      "block_key": "BX-2762",
+      "existing_neighbor_deal_ids": [
+        2063,
+        2434,
+        7167,
+        7170,
+        7172,
+        8365,
+        8366,
+        8367,
+        8368,
+        8395,
+        8396
+      ],
+      "new_deal_title": "830 FAILE STREET, BRONX NY 10474 / (MD 822 FAILE STREET)"
+    },
+    {
+      "new_deal_id": 5963,
+      "block_key": "BX-2762",
+      "existing_neighbor_deal_ids": [
+        2063,
+        2434,
+        7167,
+        7170,
+        7172,
+        8365,
+        8366,
+        8367,
+        8368,
+        8395,
+        8396
+      ],
+      "new_deal_title": "829 FAILE STREET, BRONX NY 10474"
+    }
+  ]
+}
