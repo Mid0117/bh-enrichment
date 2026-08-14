@@ -1,0 +1,99 @@
+{
+  "ts": "2026-08-14T23:28:26.834582+00:00",
+  "today_path": "/home/runner/work/bh-enrichment/bh-enrichment/state/deals_20260814.json",
+  "prev_path": "/home/runner/work/bh-enrichment/bh-enrichment/state/deals_20260813.json",
+  "today_deal_count": 4622,
+  "prev_deal_count": 4604,
+  "new_deal_count": 18,
+  "neighbor_change_count": 10,
+  "changes": [
+    {
+      "new_deal_id": 8464,
+      "block_key": "BX-3867",
+      "existing_neighbor_deal_ids": [
+        5475
+      ],
+      "new_deal_title": "1386 STRATFORD AVENUE, BRONX NY 10472"
+    },
+    {
+      "new_deal_id": 8468,
+      "block_key": "BX-2666",
+      "existing_neighbor_deal_ids": [
+        5493
+      ],
+      "new_deal_title": "814 TINTON AVENUE, BRONX NY 10456"
+    },
+    {
+      "new_deal_id": 8469,
+      "block_key": "BX-2666",
+      "existing_neighbor_deal_ids": [
+        5493
+      ],
+      "new_deal_title": "816 TINTON AVENUE, BRONX NY 10456"
+    },
+    {
+      "new_deal_id": 8470,
+      "block_key": "BX-2666",
+      "existing_neighbor_deal_ids": [
+        5493
+      ],
+      "new_deal_title": "791 EAST 158 STREET, BRONX NY 10456"
+    },
+    {
+      "new_deal_id": 8471,
+      "block_key": "BX-3877",
+      "existing_neighbor_deal_ids": [
+        6028
+      ],
+      "new_deal_title": "1801 WESTCHESTER AVENUE, BRONX NY 10472"
+    },
+    {
+      "new_deal_id": 8472,
+      "block_key": "BX-3877",
+      "existing_neighbor_deal_ids": [
+        6028
+      ],
+      "new_deal_title": "1317 TAYLOR AVENUE, BRONX NY 10472"
+    },
+    {
+      "new_deal_id": 8473,
+      "block_key": "BX-3877",
+      "existing_neighbor_deal_ids": [
+        6028
+      ],
+      "new_deal_title": "1319 TAYLOR AVENUE, BRONX NY 10472"
+    },
+    {
+      "new_deal_id": 8474,
+      "block_key": "BX-3877",
+      "existing_neighbor_deal_ids": [
+        6028
+      ],
+      "new_deal_title": "1321 TAYLOR AVENUE, BRONX NY 10472"
+    },
+    {
+      "new_deal_id": 8475,
+      "block_key": "BX-2370",
+      "existing_neighbor_deal_ids": [
+        765,
+        2581,
+        4284,
+        4290,
+        5583
+      ],
+      "new_deal_title": "1056 WASHINGTON AVENUE, BRONX NY 10456"
+    },
+    {
+      "new_deal_id": 8476,
+      "block_key": "BX-2370",
+      "existing_neighbor_deal_ids": [
+        765,
+        2581,
+        4284,
+        4290,
+        5583
+      ],
+      "new_deal_title": "1058-1060 WASHINGTON AVENUE, BRONX NY 10456"
+    }
+  ]
+}
