@@ -1,0 +1,35 @@
+{
+  "ts": "2026-08-24T23:30:52.187631+00:00",
+  "today_path": "/home/runner/work/bh-enrichment/bh-enrichment/state/deals_20260824.json",
+  "prev_path": "/home/runner/work/bh-enrichment/bh-enrichment/state/deals_20260823.json",
+  "today_deal_count": 4647,
+  "prev_deal_count": 4625,
+  "new_deal_count": 23,
+  "neighbor_change_count": 3,
+  "changes": [
+    {
+      "new_deal_id": 8481,
+      "block_key": "BK-5085",
+      "existing_neighbor_deal_ids": [
+        7089
+      ],
+      "new_deal_title": "211 LINDEN BOULEVARD, BROOKLYN NY 11226"
+    },
+    {
+      "new_deal_id": 8482,
+      "block_key": "BK-5085",
+      "existing_neighbor_deal_ids": [
+        7089
+      ],
+      "new_deal_title": "1362 NOSTRAND AVENUE, BROOKLYN NY 11226"
+    },
+    {
+      "new_deal_id": 8483,
+      "block_key": "BK-5085",
+      "existing_neighbor_deal_ids": [
+        7089
+      ],
+      "new_deal_title": "278 LENOX ROAD, BROOKLYN NY 11226"
+    }
+  ]
+}
