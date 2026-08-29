@@ -1,0 +1,44 @@
+{
+  "ts": "2026-08-29T04:09:21.752832+00:00",
+  "today_path": "/home/runner/work/bh-enrichment/bh-enrichment/state/deals_20260829.json",
+  "prev_path": "/home/runner/work/bh-enrichment/bh-enrichment/state/deals_20260828.json",
+  "today_deal_count": 4651,
+  "prev_deal_count": 4648,
+  "new_deal_count": 3,
+  "neighbor_change_count": 3,
+  "changes": [
+    {
+      "new_deal_id": 8506,
+      "block_key": "BX-3098",
+      "existing_neighbor_deal_ids": [
+        2603,
+        2604,
+        6273,
+        8430,
+        8504
+      ],
+      "new_deal_title": "717 EAST 181 STREET, BRONX NY 10457"
+    },
+    {
+      "new_deal_id": 8507,
+      "block_key": "BX-2516",
+      "existing_neighbor_deal_ids": [
+        2631,
+        4149
+      ],
+      "new_deal_title": "133 WEST 167 STREET, BRONX NY 10452"
+    },
+    {
+      "new_deal_id": 8508,
+      "block_key": "BX-3098",
+      "existing_neighbor_deal_ids": [
+        2603,
+        2604,
+        6273,
+        8430,
+        8504
+      ],
+      "new_deal_title": "723, 725 & 727 EAST 181 STREET, BRONX NY 10457"
+    }
+  ]
+}
