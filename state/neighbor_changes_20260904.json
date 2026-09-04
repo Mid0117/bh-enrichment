@@ -1,0 +1,44 @@
+{
+  "ts": "2026-09-04T00:54:45.444581+00:00",
+  "today_path": "/home/runner/work/bh-enrichment/bh-enrichment/state/deals_20260904.json",
+  "prev_path": "/home/runner/work/bh-enrichment/bh-enrichment/state/deals_20260903.json",
+  "today_deal_count": 4667,
+  "prev_deal_count": 4652,
+  "new_deal_count": 15,
+  "neighbor_change_count": 3,
+  "changes": [
+    {
+      "new_deal_id": 8512,
+      "block_key": "BX-5709",
+      "existing_neighbor_deal_ids": [
+        8496,
+        8497,
+        8498,
+        8499
+      ],
+      "new_deal_title": "3053 KINGSBRIDGE AVENUE, BRONX NY 10463"
+    },
+    {
+      "new_deal_id": 8510,
+      "block_key": "BX-5709",
+      "existing_neighbor_deal_ids": [
+        8496,
+        8497,
+        8498,
+        8499
+      ],
+      "new_deal_title": "3018 CORLEAR AVENUE, BRONX NY 10463"
+    },
+    {
+      "new_deal_id": 8511,
+      "block_key": "BX-5709",
+      "existing_neighbor_deal_ids": [
+        8496,
+        8497,
+        8498,
+        8499
+      ],
+      "new_deal_title": "3026 CORLEAR AVENUE, BRONX NY 10463"
+    }
+  ]
+}
