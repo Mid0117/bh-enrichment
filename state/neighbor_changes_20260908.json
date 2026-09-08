@@ -1,0 +1,90 @@
+{
+  "ts": "2026-09-08T01:04:39.972814+00:00",
+  "today_path": "/home/runner/work/bh-enrichment/bh-enrichment/state/deals_20260908.json",
+  "prev_path": "/home/runner/work/bh-enrichment/bh-enrichment/state/deals_20260907.json",
+  "today_deal_count": 4679,
+  "prev_deal_count": 4667,
+  "new_deal_count": 12,
+  "neighbor_change_count": 7,
+  "changes": [
+    {
+      "new_deal_id": 8528,
+      "block_key": "BK-1365",
+      "existing_neighbor_deal_ids": [
+        576
+      ],
+      "new_deal_title": "187 TROY AVENUE, BROOKLYN NY 11213"
+    },
+    {
+      "new_deal_id": 8529,
+      "block_key": "BK-1365",
+      "existing_neighbor_deal_ids": [
+        576
+      ],
+      "new_deal_title": "179 TROY AVENUE, BROOKLYN NY 11213"
+    },
+    {
+      "new_deal_id": 8532,
+      "block_key": "BX-4737",
+      "existing_neighbor_deal_ids": [
+        1164,
+        1266
+      ],
+      "new_deal_title": "3440 BOSTON ROAD, BRONX NY 10469"
+    },
+    {
+      "new_deal_id": 8533,
+      "block_key": "BX-4737",
+      "existing_neighbor_deal_ids": [
+        1164,
+        1266
+      ],
+      "new_deal_title": "3356 SEYMOUR AVENUE, BRONX NY 10469"
+    },
+    {
+      "new_deal_id": 8534,
+      "block_key": "BX-2422",
+      "existing_neighbor_deal_ids": [
+        623,
+        697,
+        788,
+        809,
+        1258,
+        2003,
+        4077,
+        6208
+      ],
+      "new_deal_title": "278 EAST 163 STREET, BRONX NY 10451"
+    },
+    {
+      "new_deal_id": 8535,
+      "block_key": "BX-2422",
+      "existing_neighbor_deal_ids": [
+        623,
+        697,
+        788,
+        809,
+        1258,
+        2003,
+        4077,
+        6208
+      ],
+      "new_deal_title": "282 EAST 163 STREET, BRONX NY 10451"
+    },
+    {
+      "new_deal_id": 8536,
+      "block_key": "BX-2422",
+      "existing_neighbor_deal_ids": [
+        623,
+        697,
+        788,
+        809,
+        1258,
+        2003,
+        4077,
+        6208
+      ],
+      "new_deal_title": "279 EAST 162 STREET, BRONX NY 10451"
+    }
+  ]
+}
