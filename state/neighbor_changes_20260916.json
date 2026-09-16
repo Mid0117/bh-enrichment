@@ -1,0 +1,252 @@
+{
+  "ts": "2026-09-16T01:15:14.652396+00:00",
+  "today_path": "/home/runner/work/bh-enrichment/bh-enrichment/state/deals_20260916.json",
+  "prev_path": "/home/runner/work/bh-enrichment/bh-enrichment/state/deals_20260915.json",
+  "today_deal_count": 4721,
+  "prev_deal_count": 4679,
+  "new_deal_count": 42,
+  "neighbor_change_count": 23,
+  "changes": [
+    {
+      "new_deal_id": 8576,
+      "block_key": "BX-2992",
+      "existing_neighbor_deal_ids": [
+        1976,
+        2618,
+        2619,
+        2620
+      ],
+      "new_deal_title": "1883 VYSE AVENUE, BRONX NY 10460"
+    },
+    {
+      "new_deal_id": 8577,
+      "block_key": "BX-2992",
+      "existing_neighbor_deal_ids": [
+        1976,
+        2618,
+        2619,
+        2620
+      ],
+      "new_deal_title": "1903-1905 VYSE AVENUE, BRONX NY 10460"
+    },
+    {
+      "new_deal_id": 8578,
+      "block_key": "BX-2992",
+      "existing_neighbor_deal_ids": [
+        1976,
+        2618,
+        2619,
+        2620
+      ],
+      "new_deal_title": "DALY AVENUE (BLK 2992/LOTS 15-16), BRONX NY 10460"
+    },
+    {
+      "new_deal_id": 8537,
+      "block_key": "BX-2691",
+      "existing_neighbor_deal_ids": [
+        5592,
+        5778,
+        6290
+      ],
+      "new_deal_title": "1042 REV JAMES POLITE AVE, BRONX NY 10459"
+    },
+    {
+      "new_deal_id": 8538,
+      "block_key": "BX-2691",
+      "existing_neighbor_deal_ids": [
+        5592,
+        5778,
+        6290
+      ],
+      "new_deal_title": "1050 REV JAMES POLITE AVE, BRONX NY 10459"
+    },
+    {
+      "new_deal_id": 8539,
+      "block_key": "BX-2691",
+      "existing_neighbor_deal_ids": [
+        5592,
+        5778,
+        6290
+      ],
+      "new_deal_title": "REV JAMES POLITE AVE (BLK 2691/LOT 55 - Congregation Mount Horeb, same owner as 1042), BRONX NY 10459"
+    },
+    {
+      "new_deal_id": 8540,
+      "block_key": "BX-2691",
+      "existing_neighbor_deal_ids": [
+        5592,
+        5778,
+        6290
+      ],
+      "new_deal_title": "REV JAMES POLITE AVE (BLK 2691/LOT 56 - 1048 Stebbins LLC), BRONX NY 10459"
+    },
+    {
+      "new_deal_id": 8546,
+      "block_key": "BX-3034",
+      "existing_neighbor_deal_ids": [
+        4466
+      ],
+      "new_deal_title": "463 EAST TREMONT AVENUE, BRONX NY 10457"
+    },
+    {
+      "new_deal_id": 8547,
+      "block_key": "BX-3034",
+      "existing_neighbor_deal_ids": [
+        4466
+      ],
+      "new_deal_title": "459 EAST TREMONT AVENUE, BRONX NY 10457"
+    },
+    {
+      "new_deal_id": 8548,
+      "block_key": "BX-3079",
+      "existing_neighbor_deal_ids": [
+        625,
+        2582,
+        2612,
+        4057,
+        4399
+      ],
+      "new_deal_title": "647 EAST TREMONT AVENUE, BRONX NY 10457"
+    },
+    {
+      "new_deal_id": 8549,
+      "block_key": "BX-3034",
+      "existing_neighbor_deal_ids": [
+        4466
+      ],
+      "new_deal_title": "1915 WASHINGTON AVENUE, BRONX NY 10457"
+    },
+    {
+      "new_deal_id": 8564,
+      "block_key": "BX-2992",
+      "existing_neighbor_deal_ids": [
+        1976,
+        2618,
+        2619,
+        2620
+      ],
+      "new_deal_title": "VYSE AVENUE (BLK 2992/LOT 59 - Criscuolo Homes sliver), BRONX NY 10460"
+    },
+    {
+      "new_deal_id": 8565,
+      "block_key": "BX-2992",
+      "existing_neighbor_deal_ids": [
+        1976,
+        2618,
+        2619,
+        2620
+      ],
+      "new_deal_title": "1939 VYSE AVENUE, BRONX NY 10460"
+    },
+    {
+      "new_deal_id": 8566,
+      "block_key": "BX-2992",
+      "existing_neighbor_deal_ids": [
+        1976,
+        2618,
+        2619,
+        2620
+      ],
+      "new_deal_title": "1937 VYSE AVENUE, BRONX NY 10460"
+    },
+    {
+      "new_deal_id": 8567,
+      "block_key": "BX-2992",
+      "existing_neighbor_deal_ids": [
+        1976,
+        2618,
+        2619,
+        2620
+      ],
+      "new_deal_title": "1935 VYSE AVENUE, BRONX NY 10460"
+    },
+    {
+      "new_deal_id": 8568,
+      "block_key": "BX-2992",
+      "existing_neighbor_deal_ids": [
+        1976,
+        2618,
+        2619,
+        2620
+      ],
+      "new_deal_title": "1933 VYSE AVENUE, BRONX NY 10460"
+    },
+    {
+      "new_deal_id": 8569,
+      "block_key": "BX-2992",
+      "existing_neighbor_deal_ids": [
+        1976,
+        2618,
+        2619,
+        2620
+      ],
+      "new_deal_title": "930 EAST TREMONT AVENUE, BRONX NY 10460"
+    },
+    {
+      "new_deal_id": 8570,
+      "block_key": "BX-2992",
+      "existing_neighbor_deal_ids": [
+        1976,
+        2618,
+        2619,
+        2620
+      ],
+      "new_deal_title": "1909 VYSE AVENUE, BRONX NY 10460"
+    },
+    {
+      "new_deal_id": 8571,
+      "block_key": "BX-2992",
+      "existing_neighbor_deal_ids": [
+        1976,
+        2618,
+        2619,
+        2620
+      ],
+      "new_deal_title": "1922 DALY AVENUE, BRONX NY 10460"
+    },
+    {
+      "new_deal_id": 8572,
+      "block_key": "BX-2992",
+      "existing_neighbor_deal_ids": [
+        1976,
+        2618,
+        2619,
+        2620
+      ],
+      "new_deal_title": "1924 DALY AVENUE, BRONX NY 10460"
+    },
+    {
+      "new_deal_id": 8573,
+      "block_key": "BX-2992",
+      "existing_neighbor_deal_ids": [
+        1976,
+        2618,
+        2619,
+        2620
+      ],
+      "new_deal_title": "1926 DALY AVENUE, BRONX NY 10460"
+    },
+    {
+      "new_deal_id": 8574,
+      "block_key": "BX-2992",
+      "existing_neighbor_deal_ids": [
+        1976,
+        2618,
+        2619,
+        2620
+      ],
+      "new_deal_title": "1928 DALY AVENUE, BRONX NY 10460"
+    },
+    {
+      "new_deal_id": 8575,
+      "block_key": "BX-2992",
+      "existing_neighbor_deal_ids": [
+        1976,
+        2618,
+        2619,
+        2620
+      ],
+      "new_deal_title": "1898 DALY AVENUE, BRONX NY 10460"
+    }
+  ]
+}
