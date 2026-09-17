@@ -1,0 +1,16 @@
+{
+  "ts": "20260917T010614Z",
+  "date": "20260917",
+  "parent_deals_processed": 1102,
+  "updated": 1102,
+  "skipped_unchanged": 0,
+  "total_blocks_rendered": 1974,
+  "wants_to_sell_counts": {
+    "likely (asking price set)": 592,
+    "yes (per notes)": 358,
+    "unknown": 1024
+  },
+  "errors": [],
+  "backup_path": "/home/runner/work/bh-enrichment/bh-enrichment/state/connected_properties_backup_20260917.json",
+  "backup_size_bytes": 664497
+}
