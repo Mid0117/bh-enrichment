@@ -1,0 +1,37 @@
+{
+  "ts": "2026-09-18T01:12:55.802224+00:00",
+  "today_path": "/home/runner/work/bh-enrichment/bh-enrichment/state/deals_20260918.json",
+  "prev_path": "/home/runner/work/bh-enrichment/bh-enrichment/state/deals_20260917.json",
+  "today_deal_count": 4727,
+  "prev_deal_count": 4721,
+  "new_deal_count": 6,
+  "neighbor_change_count": 1,
+  "changes": [
+    {
+      "new_deal_id": 8584,
+      "block_key": "BX-2992",
+      "existing_neighbor_deal_ids": [
+        1976,
+        2618,
+        2619,
+        2620,
+        8564,
+        8565,
+        8566,
+        8567,
+        8568,
+        8569,
+        8570,
+        8571,
+        8572,
+        8573,
+        8574,
+        8575,
+        8576,
+        8577,
+        8578
+      ],
+      "new_deal_title": "936 EAST TREMONT AVENUE, BRONX NY 10460"
+    }
+  ]
+}
