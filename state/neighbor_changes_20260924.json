@@ -1,0 +1,10 @@
+{
+  "ts": "2026-09-24T01:16:18.454502+00:00",
+  "today_path": "/home/runner/work/bh-enrichment/bh-enrichment/state/deals_20260924.json",
+  "prev_path": "/home/runner/work/bh-enrichment/bh-enrichment/state/deals_20260923.json",
+  "today_deal_count": 4727,
+  "prev_deal_count": 4727,
+  "new_deal_count": 0,
+  "neighbor_change_count": 0,
+  "changes": []
+}
