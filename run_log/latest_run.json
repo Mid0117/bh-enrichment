@@ -1,9 +1,9 @@
 {
-  "ts": "20260925T010910Z",
-  "date": "20260925",
+  "ts": "20260926T011240Z",
+  "date": "20260926",
   "deals_count": 4727,
-  "notes_deals_count": 163,
-  "deals_path": "/home/runner/work/bh-enrichment/bh-enrichment/state/deals_20260925.json",
-  "notes_path": "/home/runner/work/bh-enrichment/bh-enrichment/state/notes_20260925.json",
+  "notes_deals_count": 77,
+  "deals_path": "/home/runner/work/bh-enrichment/bh-enrichment/state/deals_20260926.json",
+  "notes_path": "/home/runner/work/bh-enrichment/bh-enrichment/state/notes_20260926.json",
   "errors": []
 }
