@@ -1,0 +1,21 @@
+{
+  "ts": "2026-10-09T02:56:38.926092+00:00",
+  "today_path": "/home/runner/work/bh-enrichment/bh-enrichment/state/deals_20261009.json",
+  "prev_path": "/home/runner/work/bh-enrichment/bh-enrichment/state/deals_20261008.json",
+  "today_deal_count": 4728,
+  "prev_deal_count": 4727,
+  "new_deal_count": 1,
+  "neighbor_change_count": 1,
+  "changes": [
+    {
+      "new_deal_id": 8585,
+      "block_key": "BX-5803",
+      "existing_neighbor_deal_ids": [
+        8445,
+        8446,
+        8447
+      ],
+      "new_deal_title": "4438 CAYUGA AVENUE, BRONX NY 10471"
+    }
+  ]
+}

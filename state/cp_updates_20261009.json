@@ -1,0 +1,35 @@
+{
+  "ts": "2026-10-09T02:56:41.743529+00:00",
+  "neighbor_changes_count": 1,
+  "deals_touched": 4,
+  "updated": 4,
+  "errors": [],
+  "log": [
+    {
+      "deal_id": 8445,
+      "added": [
+        "https://bhinvestments.pipedrive.com/deal/8585"
+      ]
+    },
+    {
+      "deal_id": 8446,
+      "added": [
+        "https://bhinvestments.pipedrive.com/deal/8585"
+      ]
+    },
+    {
+      "deal_id": 8447,
+      "added": [
+        "https://bhinvestments.pipedrive.com/deal/8585"
+      ]
+    },
+    {
+      "deal_id": 8585,
+      "added": [
+        "https://bhinvestments.pipedrive.com/deal/8445",
+        "https://bhinvestments.pipedrive.com/deal/8446",
+        "https://bhinvestments.pipedrive.com/deal/8447"
+      ]
+    }
+  ]
+}
