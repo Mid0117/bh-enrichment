@@ -1,0 +1,157 @@
+{
+  "ts": "2026-10-13T03:31:50.036435+00:00",
+  "today_path": "/home/runner/work/bh-enrichment/bh-enrichment/state/deals_20261013.json",
+  "prev_path": "/home/runner/work/bh-enrichment/bh-enrichment/state/deals_20261012.json",
+  "today_deal_count": 4751,
+  "prev_deal_count": 4728,
+  "new_deal_count": 23,
+  "neighbor_change_count": 16,
+  "changes": [
+    {
+      "new_deal_id": 8586,
+      "block_key": "BX-2839",
+      "existing_neighbor_deal_ids": [
+        4125,
+        6594,
+        6597,
+        6606,
+        6941,
+        6994,
+        7386,
+        8134,
+        8193,
+        8260
+      ],
+      "new_deal_title": "115 EAST 169 STREET, BRONX NY 10452"
+    },
+    {
+      "new_deal_id": 8587,
+      "block_key": "BX-2839",
+      "existing_neighbor_deal_ids": [
+        4125,
+        6594,
+        6597,
+        6606,
+        6941,
+        6994,
+        7386,
+        8134,
+        8193,
+        8260
+      ],
+      "new_deal_title": "1291 GRAND CONCOURSE, BRONX NY 10452"
+    },
+    {
+      "new_deal_id": 8595,
+      "block_key": "QN-9767",
+      "existing_neighbor_deal_ids": [
+        5099
+      ],
+      "new_deal_title": "88-29 161 STREET, QUEENS NY 11432"
+    },
+    {
+      "new_deal_id": 8596,
+      "block_key": "QN-9767",
+      "existing_neighbor_deal_ids": [
+        5099
+      ],
+      "new_deal_title": "88-31 161 STREET, QUEENS NY 11432"
+    },
+    {
+      "new_deal_id": 8597,
+      "block_key": "QN-9767",
+      "existing_neighbor_deal_ids": [
+        5099
+      ],
+      "new_deal_title": "88-33 161 STREET, QUEENS NY 11432"
+    },
+    {
+      "new_deal_id": 8598,
+      "block_key": "QN-9767",
+      "existing_neighbor_deal_ids": [
+        5099
+      ],
+      "new_deal_title": "88-35 161 STREET, QUEENS NY 11432"
+    },
+    {
+      "new_deal_id": 8599,
+      "block_key": "QN-9767",
+      "existing_neighbor_deal_ids": [
+        5099
+      ],
+      "new_deal_title": "88-06 162 STREET, QUEENS NY 11432"
+    },
+    {
+      "new_deal_id": 8600,
+      "block_key": "QN-9767",
+      "existing_neighbor_deal_ids": [
+        5099
+      ],
+      "new_deal_title": "88-10 162 STREET, QUEENS NY 11432"
+    },
+    {
+      "new_deal_id": 8601,
+      "block_key": "QN-9767",
+      "existing_neighbor_deal_ids": [
+        5099
+      ],
+      "new_deal_title": "88-14 162 STREET, QUEENS NY 11432"
+    },
+    {
+      "new_deal_id": 8602,
+      "block_key": "QN-9767",
+      "existing_neighbor_deal_ids": [
+        5099
+      ],
+      "new_deal_title": "88-16 162 STREET, QUEENS NY 11432"
+    },
+    {
+      "new_deal_id": 8603,
+      "block_key": "QN-9767",
+      "existing_neighbor_deal_ids": [
+        5099
+      ],
+      "new_deal_title": "88-18 162 STREET, QUEENS NY 11432"
+    },
+    {
+      "new_deal_id": 8604,
+      "block_key": "QN-9767",
+      "existing_neighbor_deal_ids": [
+        5099
+      ],
+      "new_deal_title": "88-20 162 STREET, QUEENS NY 11432"
+    },
+    {
+      "new_deal_id": 8605,
+      "block_key": "QN-9767",
+      "existing_neighbor_deal_ids": [
+        5099
+      ],
+      "new_deal_title": "88-22 162 STREET, QUEENS NY 11432"
+    },
+    {
+      "new_deal_id": 8606,
+      "block_key": "QN-9767",
+      "existing_neighbor_deal_ids": [
+        5099
+      ],
+      "new_deal_title": "88-28 162 STREET, QUEENS NY 11432"
+    },
+    {
+      "new_deal_id": 8607,
+      "block_key": "QN-9767",
+      "existing_neighbor_deal_ids": [
+        5099
+      ],
+      "new_deal_title": "88-30 162 STREET, QUEENS NY 11432"
+    },
+    {
+      "new_deal_id": 8608,
+      "block_key": "QN-9767",
+      "existing_neighbor_deal_ids": [
+        5099
+      ],
+      "new_deal_title": "88-32 162 STREET, QUEENS NY 11432"
+    }
+  ]
+}
