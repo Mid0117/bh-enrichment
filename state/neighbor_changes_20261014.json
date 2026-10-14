@@ -1,0 +1,150 @@
+{
+  "ts": "2026-10-14T01:44:10.301129+00:00",
+  "today_path": "/home/runner/work/bh-enrichment/bh-enrichment/state/deals_20261014.json",
+  "prev_path": "/home/runner/work/bh-enrichment/bh-enrichment/state/deals_20261013.json",
+  "today_deal_count": 4768,
+  "prev_deal_count": 4751,
+  "new_deal_count": 17,
+  "neighbor_change_count": 14,
+  "changes": [
+    {
+      "new_deal_id": 8609,
+      "block_key": "BX-3252",
+      "existing_neighbor_deal_ids": [
+        653,
+        2583,
+        4735,
+        5959,
+        5991,
+        5992,
+        5993,
+        6002
+      ],
+      "new_deal_title": "3983 SAXON AVENUE, BRONX NY 10463"
+    },
+    {
+      "new_deal_id": 8610,
+      "block_key": "BX-2839",
+      "existing_neighbor_deal_ids": [
+        4125,
+        6594,
+        6597,
+        6606,
+        6941,
+        6994,
+        7386,
+        8134,
+        8193,
+        8260,
+        8586,
+        8587
+      ],
+      "new_deal_title": "127 EAST 169 STREET, BRONX NY 10452"
+    },
+    {
+      "new_deal_id": 8612,
+      "block_key": "BK-6568",
+      "existing_neighbor_deal_ids": [
+        5606
+      ],
+      "new_deal_title": "1326 OCEAN PARKWAY, BROOKLYN NY 11230"
+    },
+    {
+      "new_deal_id": 8613,
+      "block_key": "BK-6568",
+      "existing_neighbor_deal_ids": [
+        5606
+      ],
+      "new_deal_title": "1421 EAST 5 STREET, BROOKLYN NY 11230"
+    },
+    {
+      "new_deal_id": 8614,
+      "block_key": "BK-6568",
+      "existing_neighbor_deal_ids": [
+        5606
+      ],
+      "new_deal_title": "1423 EAST 5 STREET, BROOKLYN NY 11230"
+    },
+    {
+      "new_deal_id": 8615,
+      "block_key": "BK-6568",
+      "existing_neighbor_deal_ids": [
+        5606
+      ],
+      "new_deal_title": "1334 OCEAN PARKWAY, BROOKLYN NY 11230"
+    },
+    {
+      "new_deal_id": 8616,
+      "block_key": "BK-6568",
+      "existing_neighbor_deal_ids": [
+        5606
+      ],
+      "new_deal_title": "1338 OCEAN PARKWAY, BROOKLYN NY 11230"
+    },
+    {
+      "new_deal_id": 8617,
+      "block_key": "BK-6568",
+      "existing_neighbor_deal_ids": [
+        5606
+      ],
+      "new_deal_title": "1342 OCEAN PARKWAY, BROOKLYN NY 11230"
+    },
+    {
+      "new_deal_id": 8618,
+      "block_key": "BX-5803",
+      "existing_neighbor_deal_ids": [
+        8445,
+        8446,
+        8447,
+        8585
+      ],
+      "new_deal_title": "4430 CAYUGA AVENUE, BRONX NY 10471"
+    },
+    {
+      "new_deal_id": 8619,
+      "block_key": "BK-3560",
+      "existing_neighbor_deal_ids": [
+        8494,
+        8503
+      ],
+      "new_deal_title": "618 ROCKAWAY AVENUE, BROOKLYN NY 11212"
+    },
+    {
+      "new_deal_id": 8622,
+      "block_key": "BX-3867",
+      "existing_neighbor_deal_ids": [
+        5475,
+        8464
+      ],
+      "new_deal_title": "1376 STRATFORD AVENUE, BRONX NY 10472"
+    },
+    {
+      "new_deal_id": 8623,
+      "block_key": "BX-3867",
+      "existing_neighbor_deal_ids": [
+        5475,
+        8464
+      ],
+      "new_deal_title": "1380 STRATFORD AVENUE, BRONX NY 10472"
+    },
+    {
+      "new_deal_id": 8624,
+      "block_key": "BX-3867",
+      "existing_neighbor_deal_ids": [
+        5475,
+        8464
+      ],
+      "new_deal_title": "1384 STRATFORD AVENUE, BRONX NY 10472"
+    },
+    {
+      "new_deal_id": 8625,
+      "block_key": "BX-2517",
+      "existing_neighbor_deal_ids": [
+        8552,
+        8553,
+        8554
+      ],
+      "new_deal_title": "75 WEST 168 STREET, BRONX NY 10452"
+    }
+  ]
+}
