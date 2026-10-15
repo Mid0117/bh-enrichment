@@ -1,0 +1,20 @@
+{
+  "ts": "2026-10-15T01:21:38.310120+00:00",
+  "today_path": "/home/runner/work/bh-enrichment/bh-enrichment/state/deals_20261015.json",
+  "prev_path": "/home/runner/work/bh-enrichment/bh-enrichment/state/deals_20261014.json",
+  "today_deal_count": 4772,
+  "prev_deal_count": 4768,
+  "new_deal_count": 4,
+  "neighbor_change_count": 1,
+  "changes": [
+    {
+      "new_deal_id": 8629,
+      "block_key": "BX-3267",
+      "existing_neighbor_deal_ids": [
+        8541,
+        8542
+      ],
+      "new_deal_title": "157 WEST 231 STREET, BRONX NY 10463"
+    }
+  ]
+}
