@@ -1,0 +1,33 @@
+{
+  "ts": "20261016T010030Z",
+  "date": "20261016",
+  "parent_deals_processed": 1158,
+  "updated": 1157,
+  "skipped_unchanged": 0,
+  "total_blocks_rendered": 2172,
+  "wants_to_sell_counts": {
+    "likely (asking price set)": 600,
+    "yes (per notes)": 443,
+    "unknown": 1129
+  },
+  "errors": [
+    {
+      "deal_id": 4243,
+      "phase": "PUT",
+      "status": 500,
+      "payload": {
+        "success": false,
+        "error": "Internal Server Error",
+        "error_info": "Please check developers.pipedrive.com for more information about Pipedrive API.",
+        "data": null,
+        "additional_data": null,
+        "code": "ERR_UNKNOWN",
+        "deprecation_warning": {
+          "#": "Warning! This endpoint will be removed soon. Please check API documentation at developers.pipedrive.com."
+        }
+      }
+    }
+  ],
+  "backup_path": "/home/runner/work/bh-enrichment/bh-enrichment/state/connected_properties_backup_20261016.json",
+  "backup_size_bytes": 743765
+}

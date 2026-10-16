@@ -1,0 +1,31 @@
+{
+  "ts": "2026-10-16T01:08:40.585877+00:00",
+  "today_path": "/home/runner/work/bh-enrichment/bh-enrichment/state/deals_20261016.json",
+  "prev_path": "/home/runner/work/bh-enrichment/bh-enrichment/state/deals_20261015.json",
+  "today_deal_count": 4773,
+  "prev_deal_count": 4772,
+  "new_deal_count": 2,
+  "neighbor_change_count": 2,
+  "changes": [
+    {
+      "new_deal_id": 8630,
+      "block_key": "BK-3560",
+      "existing_neighbor_deal_ids": [
+        8494,
+        8503,
+        8619
+      ],
+      "new_deal_title": "620 ROCKAWAY AVENUE, BROOKLYN NY 11212"
+    },
+    {
+      "new_deal_id": 8631,
+      "block_key": "BK-3560",
+      "existing_neighbor_deal_ids": [
+        8494,
+        8503,
+        8619
+      ],
+      "new_deal_title": "624 ROCKAWAY AVENUE, BROOKLYN NY 11212"
+    }
+  ]
+}
