@@ -1,0 +1,78 @@
+{
+  "ts": "2026-10-23T01:21:25.138495+00:00",
+  "today_path": "/home/runner/work/bh-enrichment/bh-enrichment/state/deals_20261023.json",
+  "prev_path": "/home/runner/work/bh-enrichment/bh-enrichment/state/deals_20261022.json",
+  "today_deal_count": 4794,
+  "prev_deal_count": 4777,
+  "new_deal_count": 17,
+  "neighbor_change_count": 8,
+  "changes": [
+    {
+      "new_deal_id": 8641,
+      "block_key": "BK-4210",
+      "existing_neighbor_deal_ids": [
+        2056
+      ],
+      "new_deal_title": "2635 PITKIN AVENUE, BROOKLYN NY 11208"
+    },
+    {
+      "new_deal_id": 8642,
+      "block_key": "BK-4210",
+      "existing_neighbor_deal_ids": [
+        2056
+      ],
+      "new_deal_title": "193 FOUNTAIN AVENUE, BROOKLYN NY 11208"
+    },
+    {
+      "new_deal_id": 8643,
+      "block_key": "BK-4210",
+      "existing_neighbor_deal_ids": [
+        2056
+      ],
+      "new_deal_title": "191 FOUNTAIN AVENUE, BROOKLYN NY 11208"
+    },
+    {
+      "new_deal_id": 8644,
+      "block_key": "BK-4210",
+      "existing_neighbor_deal_ids": [
+        2056
+      ],
+      "new_deal_title": "189 FOUNTAIN AVENUE, BROOKLYN NY 11208"
+    },
+    {
+      "new_deal_id": 8645,
+      "block_key": "BK-4210",
+      "existing_neighbor_deal_ids": [
+        2056
+      ],
+      "new_deal_title": "136 CRYSTAL STREET, BROOKLYN NY 11208"
+    },
+    {
+      "new_deal_id": 8646,
+      "block_key": "BK-4210",
+      "existing_neighbor_deal_ids": [
+        2056
+      ],
+      "new_deal_title": "134 CRYSTAL STREET, BROOKLYN NY 11208"
+    },
+    {
+      "new_deal_id": 8647,
+      "block_key": "BK-4210",
+      "existing_neighbor_deal_ids": [
+        2056
+      ],
+      "new_deal_title": "132 CRYSTAL STREET, BROOKLYN NY 11208"
+    },
+    {
+      "new_deal_id": 8636,
+      "block_key": "BX-3034",
+      "existing_neighbor_deal_ids": [
+        4466,
+        8546,
+        8547,
+        8549
+      ],
+      "new_deal_title": "467 EAST TREMONT AVENUE, BRONX NY 10457"
+    }
+  ]
+}
