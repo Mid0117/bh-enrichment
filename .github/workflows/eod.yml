@@ -1,22 +1,35 @@
 name: BH Daily EOD Email
 
+# Since 11/04/2026 the 7:30 PM ET (Mon-Fri) send runs on Railway (service bh-eod, F:\Work\Joel\bh-enrichment\railway-eod).
+# This workflow is the SAFETY NET: later the same night it sends the last weekday's report only if the Gmail
+# Sent folder has no copy of it yet (`--mode fallback`). GitHub starts scheduled runs hours late in this repo
+# (4-9 h observed), which is why it is no longer the primary sender.
 on:
   schedule:
-    # 05:00 UTC = 01:00 ET (EDT). Fires ~1h after the ET day closes (04:00 UTC),
-    # so the report captures the full midnight-to-midnight ET day.
-    - cron: '0 5 * * *'
+    # 01:45 UTC = 8:45 PM EST / 9:45 PM EDT (nominal; real start is usually hours later)
+    - cron: '45 1 * * *'
   workflow_dispatch:
+    inputs:
+      mode:
+        description: "now = send today's report immediately · fallback = last weekday if not sent yet · window = only 7:15-8:15 PM ET"
+        default: "now"
+      test:
+        description: "true = send only to mikekent389 with a [TEST] subject (no CC)"
+        default: "true"
+      date:
+        description: "optional YYYY-MM-DD: full-day report for that ET date"
+        default: ""
 
 jobs:
   send-eod:
     runs-on: ubuntu-latest
-    timeout-minutes: 15
+    timeout-minutes: 20
     steps:
       - uses: actions/checkout@v4
 
       - uses: actions/setup-python@v5
         with:
-          python-version: '3.11'
+          python-version: '3.12'
 
       - name: Send EOD email
         env:
@@ -24,4 +37,12 @@ jobs:
           AIRCALL_API_TOKEN: ${{ secrets.AIRCALL_API_TOKEN }}
           PIPEDRIVE_TOKEN: ${{ secrets.PIPEDRIVE_TOKEN }}
           GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
-        run: python scripts/send_eod_email.py
+          MODE: ${{ github.event.inputs.mode || 'fallback' }}
+          TEST: ${{ github.event.inputs.test || 'false' }}
+          DATE: ${{ github.event.inputs.date || '' }}
+        run: |
+          ARGS="--mode $MODE"
+          if [ "$TEST" = "true" ]; then ARGS="$ARGS --test"; fi
+          if [ -n "$DATE" ]; then ARGS="$ARGS --date $DATE"; fi
+          echo "python scripts/send_eod_email.py $ARGS"
+          python scripts/send_eod_email.py $ARGS
