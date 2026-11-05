@@ -1,0 +1,129 @@
+{
+  "ts": "2026-11-05T03:20:34.948226+00:00",
+  "neighbor_changes_count": 7,
+  "deals_touched": 30,
+  "updated": 0,
+  "errors": [],
+  "log": [
+    {
+      "deal_id": 4159,
+      "skip": "all_present"
+    },
+    {
+      "deal_id": 4647,
+      "skip": "all_present"
+    },
+    {
+      "deal_id": 4740,
+      "skip": "all_present"
+    },
+    {
+      "deal_id": 6571,
+      "skip": "all_present"
+    },
+    {
+      "deal_id": 6576,
+      "skip": "all_present"
+    },
+    {
+      "deal_id": 6589,
+      "skip": "all_present"
+    },
+    {
+      "deal_id": 6735,
+      "skip": "all_present"
+    },
+    {
+      "deal_id": 6780,
+      "skip": "all_present"
+    },
+    {
+      "deal_id": 6840,
+      "skip": "all_present"
+    },
+    {
+      "deal_id": 6879,
+      "skip": "all_present"
+    },
+    {
+      "deal_id": 6912,
+      "skip": "all_present"
+    },
+    {
+      "deal_id": 6938,
+      "skip": "all_present"
+    },
+    {
+      "deal_id": 6992,
+      "skip": "all_present"
+    },
+    {
+      "deal_id": 7325,
+      "skip": "all_present"
+    },
+    {
+      "deal_id": 7326,
+      "skip": "all_present"
+    },
+    {
+      "deal_id": 7327,
+      "skip": "all_present"
+    },
+    {
+      "deal_id": 7999,
+      "skip": "all_present"
+    },
+    {
+      "deal_id": 8046,
+      "skip": "all_present"
+    },
+    {
+      "deal_id": 8149,
+      "skip": "all_present"
+    },
+    {
+      "deal_id": 8201,
+      "skip": "all_present"
+    },
+    {
+      "deal_id": 8211,
+      "skip": "all_present"
+    },
+    {
+      "deal_id": 8214,
+      "skip": "all_present"
+    },
+    {
+      "deal_id": 8705,
+      "skip": "all_present"
+    },
+    {
+      "deal_id": 8706,
+      "skip": "all_present"
+    },
+    {
+      "deal_id": 4515,
+      "skip": "all_present"
+    },
+    {
+      "deal_id": 8660,
+      "skip": "all_present"
+    },
+    {
+      "deal_id": 8661,
+      "skip": "all_present"
+    },
+    {
+      "deal_id": 8662,
+      "skip": "all_present"
+    },
+    {
+      "deal_id": 8663,
+      "skip": "all_present"
+    },
+    {
+      "deal_id": 8664,
+      "skip": "all_present"
+    }
+  ]
+}
