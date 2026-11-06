@@ -1,0 +1,171 @@
+{
+  "ts": "2026-11-06T03:21:00.608557+00:00",
+  "today_path": "/home/runner/work/bh-enrichment/bh-enrichment/state/deals_20261106.json",
+  "prev_path": "/home/runner/work/bh-enrichment/bh-enrichment/state/deals_20261105.json",
+  "today_deal_count": 4875,
+  "prev_deal_count": 4848,
+  "new_deal_count": 27,
+  "neighbor_change_count": 18,
+  "changes": [
+    {
+      "new_deal_id": 8707,
+      "block_key": "BX-3932",
+      "existing_neighbor_deal_ids": [
+        5924
+      ],
+      "new_deal_title": "2024 MCGRAW AVENUE, BRONX NY 10462"
+    },
+    {
+      "new_deal_id": 8711,
+      "block_key": "BX-3932",
+      "existing_neighbor_deal_ids": [
+        5924
+      ],
+      "new_deal_title": "2016 MCGRAW AVENUE, BRONX NY 10462"
+    },
+    {
+      "new_deal_id": 8712,
+      "block_key": "BX-2677",
+      "existing_neighbor_deal_ids": [
+        4016,
+        7475
+      ],
+      "new_deal_title": "850 UNION AVENUE, BRONX NY 10459"
+    },
+    {
+      "new_deal_id": 8714,
+      "block_key": "BX-5039",
+      "existing_neighbor_deal_ids": [
+        8282
+      ],
+      "new_deal_title": "4334 RICHARDSON AVENUE, BRONX NY 10466"
+    },
+    {
+      "new_deal_id": 8715,
+      "block_key": "BX-5039",
+      "existing_neighbor_deal_ids": [
+        8282
+      ],
+      "new_deal_title": "4317 WHITE PLAINS ROAD, BRONX NY 10466"
+    },
+    {
+      "new_deal_id": 8716,
+      "block_key": "BX-2677",
+      "existing_neighbor_deal_ids": [
+        4016,
+        7475
+      ],
+      "new_deal_title": "856 UNION AVENUE, BRONX NY 10459"
+    },
+    {
+      "new_deal_id": 8717,
+      "block_key": "BX-3932",
+      "existing_neighbor_deal_ids": [
+        5924
+      ],
+      "new_deal_title": "2011 BENEDICT AVENUE, BRONX NY 10462"
+    },
+    {
+      "new_deal_id": 8718,
+      "block_key": "BX-2677",
+      "existing_neighbor_deal_ids": [
+        4016,
+        7475
+      ],
+      "new_deal_title": "854 UNION AVENUE, BRONX NY 10459"
+    },
+    {
+      "new_deal_id": 8719,
+      "block_key": "BX-2677",
+      "existing_neighbor_deal_ids": [
+        4016,
+        7475
+      ],
+      "new_deal_title": "848 UNION AVENUE, BRONX NY 10459"
+    },
+    {
+      "new_deal_id": 8721,
+      "block_key": "BX-3932",
+      "existing_neighbor_deal_ids": [
+        5924
+      ],
+      "new_deal_title": "2021 BENEDICT AVENUE, BRONX NY 10462"
+    },
+    {
+      "new_deal_id": 8722,
+      "block_key": "BX-5039",
+      "existing_neighbor_deal_ids": [
+        8282
+      ],
+      "new_deal_title": "4330 RICHARDSON AVENUE, BRONX NY 10466"
+    },
+    {
+      "new_deal_id": 8723,
+      "block_key": "BX-5039",
+      "existing_neighbor_deal_ids": [
+        8282
+      ],
+      "new_deal_title": "4326 RICHARDSON AVENUE, BRONX NY 10466"
+    },
+    {
+      "new_deal_id": 8726,
+      "block_key": "BX-3932",
+      "existing_neighbor_deal_ids": [
+        5924
+      ],
+      "new_deal_title": "2018 MCGRAW AVENUE, BRONX NY 10462"
+    },
+    {
+      "new_deal_id": 8728,
+      "block_key": "BX-3932",
+      "existing_neighbor_deal_ids": [
+        5924
+      ],
+      "new_deal_title": "2013 BENEDICT AVENUE, BRONX NY 10462"
+    },
+    {
+      "new_deal_id": 8730,
+      "block_key": "BX-2677",
+      "existing_neighbor_deal_ids": [
+        4016,
+        7475
+      ],
+      "new_deal_title": "852 UNION AVENUE, BRONX NY 10459"
+    },
+    {
+      "new_deal_id": 8731,
+      "block_key": "BX-4441",
+      "existing_neighbor_deal_ids": [
+        8484,
+        8485,
+        8486,
+        8487,
+        8488,
+        8489
+      ],
+      "new_deal_title": "2500 MATTHEWS AVENUE, BRONX NY 10467"
+    },
+    {
+      "new_deal_id": 8732,
+      "block_key": "BX-4441",
+      "existing_neighbor_deal_ids": [
+        8484,
+        8485,
+        8486,
+        8487,
+        8488,
+        8489
+      ],
+      "new_deal_title": "827 MACE AVENUE, BRONX NY 10467"
+    },
+    {
+      "new_deal_id": 8733,
+      "block_key": "QN-1471",
+      "existing_neighbor_deal_ids": [
+        8687,
+        8688
+      ],
+      "new_deal_title": "83-14 37 AVENUE, QUEENS NY 11372"
+    }
+  ]
+}
