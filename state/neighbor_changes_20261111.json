@@ -1,0 +1,236 @@
+{
+  "ts": "2026-11-11T02:41:24.090345+00:00",
+  "today_path": "/home/runner/work/bh-enrichment/bh-enrichment/state/deals_20261111.json",
+  "prev_path": "/home/runner/work/bh-enrichment/bh-enrichment/state/deals_20261110.json",
+  "today_deal_count": 4897,
+  "prev_deal_count": 4875,
+  "new_deal_count": 22,
+  "neighbor_change_count": 22,
+  "changes": [
+    {
+      "new_deal_id": 8734,
+      "block_key": "BX-2406",
+      "existing_neighbor_deal_ids": [
+        2564,
+        4224,
+        4566,
+        4567,
+        4677
+      ],
+      "new_deal_title": "825 MELROSE AVENUE, BRONX NY 10451"
+    },
+    {
+      "new_deal_id": 8735,
+      "block_key": "BX-2406",
+      "existing_neighbor_deal_ids": [
+        2564,
+        4224,
+        4566,
+        4567,
+        4677
+      ],
+      "new_deal_title": "380 EAST 160 STREET, BRONX NY 10451"
+    },
+    {
+      "new_deal_id": 8736,
+      "block_key": "BX-2406",
+      "existing_neighbor_deal_ids": [
+        2564,
+        4224,
+        4566,
+        4567,
+        4677
+      ],
+      "new_deal_title": "378 EAST 160 STREET, BRONX NY 10451"
+    },
+    {
+      "new_deal_id": 8737,
+      "block_key": "BX-2406",
+      "existing_neighbor_deal_ids": [
+        2564,
+        4224,
+        4566,
+        4567,
+        4677
+      ],
+      "new_deal_title": "376 EAST 160 STREET, BRONX NY 10451"
+    },
+    {
+      "new_deal_id": 8738,
+      "block_key": "BX-2406",
+      "existing_neighbor_deal_ids": [
+        2564,
+        4224,
+        4566,
+        4567,
+        4677
+      ],
+      "new_deal_title": "375 EAST 159 STREET, BRONX NY 10451"
+    },
+    {
+      "new_deal_id": 8739,
+      "block_key": "BX-2406",
+      "existing_neighbor_deal_ids": [
+        2564,
+        4224,
+        4566,
+        4567,
+        4677
+      ],
+      "new_deal_title": "373 EAST 159 STREET, BRONX NY 10451"
+    },
+    {
+      "new_deal_id": 8740,
+      "block_key": "BX-2406",
+      "existing_neighbor_deal_ids": [
+        2564,
+        4224,
+        4566,
+        4567,
+        4677
+      ],
+      "new_deal_title": "374 EAST 160 STREET, BRONX NY 10451"
+    },
+    {
+      "new_deal_id": 8741,
+      "block_key": "BX-2406",
+      "existing_neighbor_deal_ids": [
+        2564,
+        4224,
+        4566,
+        4567,
+        4677
+      ],
+      "new_deal_title": "370 EAST 160 STREET, BRONX NY 10451"
+    },
+    {
+      "new_deal_id": 8742,
+      "block_key": "BX-2406",
+      "existing_neighbor_deal_ids": [
+        2564,
+        4224,
+        4566,
+        4567,
+        4677
+      ],
+      "new_deal_title": "368 EAST 160 STREET, BRONX NY 10451"
+    },
+    {
+      "new_deal_id": 8743,
+      "block_key": "BX-2382",
+      "existing_neighbor_deal_ids": [
+        8173,
+        8195
+      ],
+      "new_deal_title": "406 EAST 161 STREET, BRONX NY 10451"
+    },
+    {
+      "new_deal_id": 8744,
+      "block_key": "BX-2382",
+      "existing_neighbor_deal_ids": [
+        8173,
+        8195
+      ],
+      "new_deal_title": "415 EAST 160 STREET, BRONX NY 10451"
+    },
+    {
+      "new_deal_id": 8745,
+      "block_key": "BX-2382",
+      "existing_neighbor_deal_ids": [
+        8173,
+        8195
+      ],
+      "new_deal_title": "413 EAST 160 STREET, BRONX NY 10451"
+    },
+    {
+      "new_deal_id": 8746,
+      "block_key": "BX-2382",
+      "existing_neighbor_deal_ids": [
+        8173,
+        8195
+      ],
+      "new_deal_title": "411 EAST 160 STREET, BRONX NY 10451"
+    },
+    {
+      "new_deal_id": 8747,
+      "block_key": "BX-2378",
+      "existing_neighbor_deal_ids": [
+        6956,
+        8025
+      ],
+      "new_deal_title": "429 EAST 156 STREET, BRONX NY 10455"
+    },
+    {
+      "new_deal_id": 8748,
+      "block_key": "BX-2378",
+      "existing_neighbor_deal_ids": [
+        6956,
+        8025
+      ],
+      "new_deal_title": "428 EAST 157 STREET, BRONX NY 10451"
+    },
+    {
+      "new_deal_id": 8749,
+      "block_key": "BX-2378",
+      "existing_neighbor_deal_ids": [
+        6956,
+        8025
+      ],
+      "new_deal_title": "755 ELTON AVENUE, BRONX NY 10451"
+    },
+    {
+      "new_deal_id": 8750,
+      "block_key": "BX-2378",
+      "existing_neighbor_deal_ids": [
+        6956,
+        8025
+      ],
+      "new_deal_title": "757 ELTON AVENUE, BRONX NY 10451"
+    },
+    {
+      "new_deal_id": 8751,
+      "block_key": "BX-2378",
+      "existing_neighbor_deal_ids": [
+        6956,
+        8025
+      ],
+      "new_deal_title": "759 ELTON AVENUE, BRONX NY 10451"
+    },
+    {
+      "new_deal_id": 8752,
+      "block_key": "BX-2378",
+      "existing_neighbor_deal_ids": [
+        6956,
+        8025
+      ],
+      "new_deal_title": "761 ELTON AVENUE, BRONX NY 10451"
+    },
+    {
+      "new_deal_id": 8753,
+      "block_key": "BX-2378",
+      "existing_neighbor_deal_ids": [
+        6956,
+        8025
+      ],
+      "new_deal_title": "763 ELTON AVENUE, BRONX NY 10451"
+    },
+    {
+      "new_deal_id": 8754,
+      "block_key": "BX-2378",
+      "existing_neighbor_deal_ids": [
+        6956,
+        8025
+      ],
+      "new_deal_title": "765 ELTON AVENUE, BRONX NY 10451"
+    },
+    {
+      "new_deal_id": 8755,
+      "block_key": "BX-2378",
+      "existing_neighbor_deal_ids": [
+        6956,
+        8025
+      ],
+      "new_deal_title": "767 ELTON AVENUE, BRONX NY 10451"
+    }
+  ]
+}
