@@ -1,0 +1,425 @@
+{
+  "ts": "2026-11-13T03:19:34.031521+00:00",
+  "today_path": "/home/runner/work/bh-enrichment/bh-enrichment/state/deals_20261113.json",
+  "prev_path": "/home/runner/work/bh-enrichment/bh-enrichment/state/deals_20261112.json",
+  "today_deal_count": 4941,
+  "prev_deal_count": 4897,
+  "new_deal_count": 44,
+  "neighbor_change_count": 41,
+  "changes": [
+    {
+      "new_deal_id": 8756,
+      "block_key": "BX-2700",
+      "existing_neighbor_deal_ids": [
+        6258
+      ],
+      "new_deal_title": "1040 HALL PLACE, BRONX NY 10459"
+    },
+    {
+      "new_deal_id": 8757,
+      "block_key": "BX-2700",
+      "existing_neighbor_deal_ids": [
+        6258
+      ],
+      "new_deal_title": "1042 HALL PLACE, BRONX NY 10459"
+    },
+    {
+      "new_deal_id": 8758,
+      "block_key": "BX-2700",
+      "existing_neighbor_deal_ids": [
+        6258
+      ],
+      "new_deal_title": "1044 HALL PLACE, BRONX NY 10459"
+    },
+    {
+      "new_deal_id": 8759,
+      "block_key": "BX-2700",
+      "existing_neighbor_deal_ids": [
+        6258
+      ],
+      "new_deal_title": "1050 HALL PLACE, BRONX NY 10459"
+    },
+    {
+      "new_deal_id": 8760,
+      "block_key": "BX-2700",
+      "existing_neighbor_deal_ids": [
+        6258
+      ],
+      "new_deal_title": "1052 HALL PLACE, BRONX NY 10459"
+    },
+    {
+      "new_deal_id": 8761,
+      "block_key": "BX-2700",
+      "existing_neighbor_deal_ids": [
+        6258
+      ],
+      "new_deal_title": "1053 INTERVALE AVENUE, BRONX NY 10459"
+    },
+    {
+      "new_deal_id": 8762,
+      "block_key": "BX-2700",
+      "existing_neighbor_deal_ids": [
+        6258
+      ],
+      "new_deal_title": "1054 HALL PLACE, BRONX NY 10459"
+    },
+    {
+      "new_deal_id": 8763,
+      "block_key": "BX-2700",
+      "existing_neighbor_deal_ids": [
+        6258
+      ],
+      "new_deal_title": "1056 HALL PLACE, BRONX NY 10459"
+    },
+    {
+      "new_deal_id": 8764,
+      "block_key": "BX-2705",
+      "existing_neighbor_deal_ids": [
+        4773,
+        5875
+      ],
+      "new_deal_title": "1063 KELLY STREET, BRONX NY 10459"
+    },
+    {
+      "new_deal_id": 8765,
+      "block_key": "BX-2705",
+      "existing_neighbor_deal_ids": [
+        4773,
+        5875
+      ],
+      "new_deal_title": "1064 INTERVALE AVENUE, BRONX NY 10459"
+    },
+    {
+      "new_deal_id": 8766,
+      "block_key": "BX-2705",
+      "existing_neighbor_deal_ids": [
+        4773,
+        5875
+      ],
+      "new_deal_title": "1065 KELLY STREET, BRONX NY 10459"
+    },
+    {
+      "new_deal_id": 8767,
+      "block_key": "BX-2705",
+      "existing_neighbor_deal_ids": [
+        4773,
+        5875
+      ],
+      "new_deal_title": "1067 KELLY STREET, BRONX NY 10459"
+    },
+    {
+      "new_deal_id": 8768,
+      "block_key": "BX-2705",
+      "existing_neighbor_deal_ids": [
+        4773,
+        5875
+      ],
+      "new_deal_title": "1068 INTERVALE AVENUE, BRONX NY 10459"
+    },
+    {
+      "new_deal_id": 8769,
+      "block_key": "BX-2705",
+      "existing_neighbor_deal_ids": [
+        4773,
+        5875
+      ],
+      "new_deal_title": "1070 INTERVALE AVENUE, BRONX NY 10459"
+    },
+    {
+      "new_deal_id": 8770,
+      "block_key": "BX-2705",
+      "existing_neighbor_deal_ids": [
+        4773,
+        5875
+      ],
+      "new_deal_title": "1072 INTERVALE AVENUE, BRONX NY 10459"
+    },
+    {
+      "new_deal_id": 8771,
+      "block_key": "BX-3206",
+      "existing_neighbor_deal_ids": [
+        5395,
+        5400,
+        5410,
+        5786,
+        6203,
+        6204,
+        6205,
+        6206
+      ],
+      "new_deal_title": "2050 HARRISON AVENUE, BRONX NY 10453"
+    },
+    {
+      "new_deal_id": 8772,
+      "block_key": "BX-3206",
+      "existing_neighbor_deal_ids": [
+        5395,
+        5400,
+        5410,
+        5786,
+        6203,
+        6204,
+        6205,
+        6206
+      ],
+      "new_deal_title": "2052 HARRISON AVENUE, BRONX NY 10453"
+    },
+    {
+      "new_deal_id": 8773,
+      "block_key": "BX-3206",
+      "existing_neighbor_deal_ids": [
+        5395,
+        5400,
+        5410,
+        5786,
+        6203,
+        6204,
+        6205,
+        6206
+      ],
+      "new_deal_title": "2053 GRAND AVENUE, BRONX NY 10453"
+    },
+    {
+      "new_deal_id": 8774,
+      "block_key": "BX-3206",
+      "existing_neighbor_deal_ids": [
+        5395,
+        5400,
+        5410,
+        5786,
+        6203,
+        6204,
+        6205,
+        6206
+      ],
+      "new_deal_title": "2054 HARRISON AVENUE, BRONX NY 10453"
+    },
+    {
+      "new_deal_id": 8775,
+      "block_key": "BX-3206",
+      "existing_neighbor_deal_ids": [
+        5395,
+        5400,
+        5410,
+        5786,
+        6203,
+        6204,
+        6205,
+        6206
+      ],
+      "new_deal_title": "2056 HARRISON AVENUE, BRONX NY 10453"
+    },
+    {
+      "new_deal_id": 8776,
+      "block_key": "BX-3206",
+      "existing_neighbor_deal_ids": [
+        5395,
+        5400,
+        5410,
+        5786,
+        6203,
+        6204,
+        6205,
+        6206
+      ],
+      "new_deal_title": "2061 GRAND AVENUE, BRONX NY 10453"
+    },
+    {
+      "new_deal_id": 8777,
+      "block_key": "BX-3206",
+      "existing_neighbor_deal_ids": [
+        5395,
+        5400,
+        5410,
+        5786,
+        6203,
+        6204,
+        6205,
+        6206
+      ],
+      "new_deal_title": "2063 GRAND AVENUE, BRONX NY 10453"
+    },
+    {
+      "new_deal_id": 8778,
+      "block_key": "BX-3206",
+      "existing_neighbor_deal_ids": [
+        5395,
+        5400,
+        5410,
+        5786,
+        6203,
+        6204,
+        6205,
+        6206
+      ],
+      "new_deal_title": "2065 GRAND AVENUE, BRONX NY 10453"
+    },
+    {
+      "new_deal_id": 8779,
+      "block_key": "BX-3206",
+      "existing_neighbor_deal_ids": [
+        5395,
+        5400,
+        5410,
+        5786,
+        6203,
+        6204,
+        6205,
+        6206
+      ],
+      "new_deal_title": "2067 GRAND AVENUE, BRONX NY 10453"
+    },
+    {
+      "new_deal_id": 8780,
+      "block_key": "BX-3211",
+      "existing_neighbor_deal_ids": [
+        4879,
+        8298
+      ],
+      "new_deal_title": "2186 UNIVERSITY AVENUE, BRONX NY 10453"
+    },
+    {
+      "new_deal_id": 8781,
+      "block_key": "BX-3211",
+      "existing_neighbor_deal_ids": [
+        4879,
+        8298
+      ],
+      "new_deal_title": "2190 UNIVERSITY AVENUE, BRONX NY 10453"
+    },
+    {
+      "new_deal_id": 8782,
+      "block_key": "BX-3211",
+      "existing_neighbor_deal_ids": [
+        4879,
+        8298
+      ],
+      "new_deal_title": "2194 UNIVERSITY AVENUE, BRONX NY 10453"
+    },
+    {
+      "new_deal_id": 8783,
+      "block_key": "BX-3211",
+      "existing_neighbor_deal_ids": [
+        4879,
+        8298
+      ],
+      "new_deal_title": "2198 UNIVERSITY AVENUE, BRONX NY 10453"
+    },
+    {
+      "new_deal_id": 8784,
+      "block_key": "BX-3211",
+      "existing_neighbor_deal_ids": [
+        4879,
+        8298
+      ],
+      "new_deal_title": "2204 UNIVERSITY AVENUE, BRONX NY 10453"
+    },
+    {
+      "new_deal_id": 8785,
+      "block_key": "BX-3211",
+      "existing_neighbor_deal_ids": [
+        4879,
+        8298
+      ],
+      "new_deal_title": "2210 UNIVERSITY AVENUE, BRONX NY 10453"
+    },
+    {
+      "new_deal_id": 8786,
+      "block_key": "BX-3211",
+      "existing_neighbor_deal_ids": [
+        4879,
+        8298
+      ],
+      "new_deal_title": "2214 UNIVERSITY AVENUE, BRONX NY 10453"
+    },
+    {
+      "new_deal_id": 8787,
+      "block_key": "BX-3211",
+      "existing_neighbor_deal_ids": [
+        4879,
+        8298
+      ],
+      "new_deal_title": "2230 UNIVERSITY AVENUE, BRONX NY 10453"
+    },
+    {
+      "new_deal_id": 8788,
+      "block_key": "BX-3026",
+      "existing_neighbor_deal_ids": [
+        7252
+      ],
+      "new_deal_title": "2494 MARION AVENUE, BRONX NY 10458"
+    },
+    {
+      "new_deal_id": 8792,
+      "block_key": "BK-4670",
+      "existing_neighbor_deal_ids": [
+        5702
+      ],
+      "new_deal_title": "399 EAST 95 STREET, BROOKLYN NY 11212"
+    },
+    {
+      "new_deal_id": 8793,
+      "block_key": "BK-4670",
+      "existing_neighbor_deal_ids": [
+        5702
+      ],
+      "new_deal_title": "401 EAST 95 STREET, BROOKLYN NY 11212"
+    },
+    {
+      "new_deal_id": 8794,
+      "block_key": "BK-4670",
+      "existing_neighbor_deal_ids": [
+        5702
+      ],
+      "new_deal_title": "403 EAST 95 STREET, BROOKLYN NY 11212"
+    },
+    {
+      "new_deal_id": 8795,
+      "block_key": "BK-4670",
+      "existing_neighbor_deal_ids": [
+        5702
+      ],
+      "new_deal_title": "405 EAST 95 STREET, BROOKLYN NY 11212"
+    },
+    {
+      "new_deal_id": 8796,
+      "block_key": "BK-4670",
+      "existing_neighbor_deal_ids": [
+        5702
+      ],
+      "new_deal_title": "409 EAST 95 STREET, BROOKLYN NY 11212"
+    },
+    {
+      "new_deal_id": 8797,
+      "block_key": "BX-3206",
+      "existing_neighbor_deal_ids": [
+        5395,
+        5400,
+        5410,
+        5786,
+        6203,
+        6204,
+        6205,
+        6206
+      ],
+      "new_deal_title": "51 WEST BURNSIDE AVENUE, BRONX NY 10453"
+    },
+    {
+      "new_deal_id": 8798,
+      "block_key": "BX-3026",
+      "existing_neighbor_deal_ids": [
+        7252
+      ],
+      "new_deal_title": "2469, 2473 & 2475 WEBSTER AVENUE, BRONX NY 10458"
+    },
+    {
+      "new_deal_id": 8799,
+      "block_key": "BX-3211",
+      "existing_neighbor_deal_ids": [
+        4879,
+        8298
+      ],
+      "new_deal_title": "UNIVERSITY AVENUE (BLK 3211/LOT 118), BRONX NY 10453"
+    }
+  ]
+}
