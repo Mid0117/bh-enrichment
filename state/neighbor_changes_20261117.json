@@ -1,0 +1,260 @@
+{
+  "ts": "2026-11-17T05:06:11.909651+00:00",
+  "today_path": "/home/runner/work/bh-enrichment/bh-enrichment/state/deals_20261117.json",
+  "prev_path": "/home/runner/work/bh-enrichment/bh-enrichment/state/deals_20261116.json",
+  "today_deal_count": 4965,
+  "prev_deal_count": 4941,
+  "new_deal_count": 24,
+  "neighbor_change_count": 24,
+  "changes": [
+    {
+      "new_deal_id": 8800,
+      "block_key": "BX-3080",
+      "existing_neighbor_deal_ids": [
+        523,
+        4137,
+        4138,
+        4139,
+        4140,
+        4143,
+        4144,
+        4145,
+        4146,
+        5190
+      ],
+      "new_deal_title": "2009 CROTONA AVENUE, BRONX NY 10457"
+    },
+    {
+      "new_deal_id": 8801,
+      "block_key": "BX-3080",
+      "existing_neighbor_deal_ids": [
+        523,
+        4137,
+        4138,
+        4139,
+        4140,
+        4143,
+        4144,
+        4145,
+        4146,
+        5190
+      ],
+      "new_deal_title": "2011 CROTONA AVENUE, BRONX NY 10457"
+    },
+    {
+      "new_deal_id": 8802,
+      "block_key": "BX-3080",
+      "existing_neighbor_deal_ids": [
+        523,
+        4137,
+        4138,
+        4139,
+        4140,
+        4143,
+        4144,
+        4145,
+        4146,
+        5190
+      ],
+      "new_deal_title": "2015 CROTONA AVENUE, BRONX NY 10457"
+    },
+    {
+      "new_deal_id": 8803,
+      "block_key": "BX-2447",
+      "existing_neighbor_deal_ids": [
+        1855
+      ],
+      "new_deal_title": "257 EAST 164 STREET, BRONX NY 10456"
+    },
+    {
+      "new_deal_id": 8804,
+      "block_key": "BX-2447",
+      "existing_neighbor_deal_ids": [
+        1855
+      ],
+      "new_deal_title": "261 EAST 164 STREET, BRONX NY 10456"
+    },
+    {
+      "new_deal_id": 8805,
+      "block_key": "BX-3261",
+      "existing_neighbor_deal_ids": [
+        5940,
+        6008,
+        6397
+      ],
+      "new_deal_title": "3404 BAILEY AVENUE, BRONX NY 10463"
+    },
+    {
+      "new_deal_id": 8806,
+      "block_key": "BX-3261",
+      "existing_neighbor_deal_ids": [
+        5940,
+        6008,
+        6397
+      ],
+      "new_deal_title": "3416 BAILEY PLACE, BRONX NY 10463"
+    },
+    {
+      "new_deal_id": 8807,
+      "block_key": "BX-3261",
+      "existing_neighbor_deal_ids": [
+        5940,
+        6008,
+        6397
+      ],
+      "new_deal_title": "3420 BAILEY PLACE, BRONX NY 10463"
+    },
+    {
+      "new_deal_id": 8808,
+      "block_key": "BX-2959",
+      "existing_neighbor_deal_ids": [
+        4039,
+        5197,
+        5306,
+        5498,
+        6436
+      ],
+      "new_deal_title": "870 FAIRMOUNT PLACE, BRONX NY 10460"
+    },
+    {
+      "new_deal_id": 8809,
+      "block_key": "BX-2959",
+      "existing_neighbor_deal_ids": [
+        4039,
+        5197,
+        5306,
+        5498,
+        6436
+      ],
+      "new_deal_title": "876 FAIRMOUNT PLACE, BRONX NY 10460"
+    },
+    {
+      "new_deal_id": 8810,
+      "block_key": "BX-2959",
+      "existing_neighbor_deal_ids": [
+        4039,
+        5197,
+        5306,
+        5498,
+        6436
+      ],
+      "new_deal_title": "878 FAIRMOUNT PLACE, BRONX NY 10460"
+    },
+    {
+      "new_deal_id": 8811,
+      "block_key": "BX-2959",
+      "existing_neighbor_deal_ids": [
+        4039,
+        5197,
+        5306,
+        5498,
+        6436
+      ],
+      "new_deal_title": "880 FAIRMOUNT PLACE, BRONX NY 10460"
+    },
+    {
+      "new_deal_id": 8812,
+      "block_key": "BX-2447",
+      "existing_neighbor_deal_ids": [
+        1855
+      ],
+      "new_deal_title": "985 MORRIS AVENUE, BRONX NY 10456"
+    },
+    {
+      "new_deal_id": 8813,
+      "block_key": "BX-2447",
+      "existing_neighbor_deal_ids": [
+        1855
+      ],
+      "new_deal_title": "993 MORRIS AVENUE, BRONX NY 10456"
+    },
+    {
+      "new_deal_id": 8814,
+      "block_key": "BX-2447",
+      "existing_neighbor_deal_ids": [
+        1855
+      ],
+      "new_deal_title": "995 MORRIS AVENUE, BRONX NY 10456"
+    },
+    {
+      "new_deal_id": 8815,
+      "block_key": "BX-3261",
+      "existing_neighbor_deal_ids": [
+        5940,
+        6008,
+        6397
+      ],
+      "new_deal_title": "3379 FT INDEPENDENCE ST, BRONX NY 10463"
+    },
+    {
+      "new_deal_id": 8816,
+      "block_key": "BX-3261",
+      "existing_neighbor_deal_ids": [
+        5940,
+        6008,
+        6397
+      ],
+      "new_deal_title": "3389 FT INDEPENDENCE ST, BRONX NY 10463"
+    },
+    {
+      "new_deal_id": 8817,
+      "block_key": "BX-3261",
+      "existing_neighbor_deal_ids": [
+        5940,
+        6008,
+        6397
+      ],
+      "new_deal_title": "3391 FT INDEPENDENCE ST, BRONX NY 10463"
+    },
+    {
+      "new_deal_id": 8818,
+      "block_key": "BX-3261",
+      "existing_neighbor_deal_ids": [
+        5940,
+        6008,
+        6397
+      ],
+      "new_deal_title": "3412 & 3414 BAILEY PLACE, BRONX NY 10463"
+    },
+    {
+      "new_deal_id": 8819,
+      "block_key": "BX-2447",
+      "existing_neighbor_deal_ids": [
+        1855
+      ],
+      "new_deal_title": "1000A GRANT AVENUE, BRONX NY 10456"
+    },
+    {
+      "new_deal_id": 8820,
+      "block_key": "BX-2447",
+      "existing_neighbor_deal_ids": [
+        1855
+      ],
+      "new_deal_title": "1000 GRANT AVENUE, BRONX NY 10456"
+    },
+    {
+      "new_deal_id": 8821,
+      "block_key": "BX-2447",
+      "existing_neighbor_deal_ids": [
+        1855
+      ],
+      "new_deal_title": "1001 MORRIS AVENUE, BRONX NY 10456"
+    },
+    {
+      "new_deal_id": 8822,
+      "block_key": "BX-2447",
+      "existing_neighbor_deal_ids": [
+        1855
+      ],
+      "new_deal_title": "1002 GRANT AVENUE, BRONX NY 10456"
+    },
+    {
+      "new_deal_id": 8823,
+      "block_key": "BX-2447",
+      "existing_neighbor_deal_ids": [
+        1855
+      ],
+      "new_deal_title": "998 GRANT AVENUE, BRONX NY 10456"
+    }
+  ]
+}
