@@ -1,0 +1,309 @@
+{
+  "ts": "2026-11-26T04:52:31.185183+00:00",
+  "today_path": "/home/runner/work/bh-enrichment/bh-enrichment/state/deals_20261126.json",
+  "prev_path": "/home/runner/work/bh-enrichment/bh-enrichment/state/deals_20261125.json",
+  "today_deal_count": 5027,
+  "prev_deal_count": 4966,
+  "new_deal_count": 61,
+  "neighbor_change_count": 28,
+  "changes": [
+    {
+      "new_deal_id": 8837,
+      "block_key": "BK-1867",
+      "existing_neighbor_deal_ids": [
+        8284
+      ],
+      "new_deal_title": "152 HERKIMER STREET, BROOKLYN NY 11216"
+    },
+    {
+      "new_deal_id": 8838,
+      "block_key": "BK-1867",
+      "existing_neighbor_deal_ids": [
+        8284
+      ],
+      "new_deal_title": "154 HERKIMER STREET, BROOKLYN NY 11216"
+    },
+    {
+      "new_deal_id": 8839,
+      "block_key": "BK-1867",
+      "existing_neighbor_deal_ids": [
+        8284
+      ],
+      "new_deal_title": "156 HERKIMER STREET, BROOKLYN NY 11216"
+    },
+    {
+      "new_deal_id": 8840,
+      "block_key": "BK-1867",
+      "existing_neighbor_deal_ids": [
+        8284
+      ],
+      "new_deal_title": "160 HERKIMER STREET, BROOKLYN NY 11216"
+    },
+    {
+      "new_deal_id": 8841,
+      "block_key": "BK-1867",
+      "existing_neighbor_deal_ids": [
+        8284
+      ],
+      "new_deal_title": "168 HERKIMER STREET, BROOKLYN NY 11216"
+    },
+    {
+      "new_deal_id": 8842,
+      "block_key": "BK-1867",
+      "existing_neighbor_deal_ids": [
+        8284
+      ],
+      "new_deal_title": "170 HERKIMER STREET, BROOKLYN NY 11216"
+    },
+    {
+      "new_deal_id": 8843,
+      "block_key": "BK-1867",
+      "existing_neighbor_deal_ids": [
+        8284
+      ],
+      "new_deal_title": "172 HERKIMER STREET, BROOKLYN NY 11216"
+    },
+    {
+      "new_deal_id": 8844,
+      "block_key": "BK-1867",
+      "existing_neighbor_deal_ids": [
+        8284
+      ],
+      "new_deal_title": "174 HERKIMER STREET, BROOKLYN NY 11216"
+    },
+    {
+      "new_deal_id": 8845,
+      "block_key": "BK-1867",
+      "existing_neighbor_deal_ids": [
+        8284
+      ],
+      "new_deal_title": "1281 ATLANTIC AVENUE, BROOKLYN NY 11216"
+    },
+    {
+      "new_deal_id": 8861,
+      "block_key": "BX-2811",
+      "existing_neighbor_deal_ids": [
+        4177,
+        4179,
+        7314,
+        7315,
+        7994,
+        8212
+      ],
+      "new_deal_title": "219 EAST 178 STREET, BRONX NY 10457"
+    },
+    {
+      "new_deal_id": 8862,
+      "block_key": "BX-2811",
+      "existing_neighbor_deal_ids": [
+        4177,
+        4179,
+        7314,
+        7315,
+        7994,
+        8212
+      ],
+      "new_deal_title": "1964 GRAND CONCOURSE, BRONX NY 10457"
+    },
+    {
+      "new_deal_id": 8863,
+      "block_key": "BX-2811",
+      "existing_neighbor_deal_ids": [
+        4177,
+        4179,
+        7314,
+        7315,
+        7994,
+        8212
+      ],
+      "new_deal_title": "208 EAST 179 STREET, BRONX NY 10457"
+    },
+    {
+      "new_deal_id": 8864,
+      "block_key": "BX-2811",
+      "existing_neighbor_deal_ids": [
+        4177,
+        4179,
+        7314,
+        7315,
+        7994,
+        8212
+      ],
+      "new_deal_title": "210 EAST 179 STREET, BRONX NY 10457"
+    },
+    {
+      "new_deal_id": 8865,
+      "block_key": "BX-2811",
+      "existing_neighbor_deal_ids": [
+        4177,
+        4179,
+        7314,
+        7315,
+        7994,
+        8212
+      ],
+      "new_deal_title": "214 EAST 179 STREET, BRONX NY 10457"
+    },
+    {
+      "new_deal_id": 8866,
+      "block_key": "BX-2811",
+      "existing_neighbor_deal_ids": [
+        4177,
+        4179,
+        7314,
+        7315,
+        7994,
+        8212
+      ],
+      "new_deal_title": "212 EAST 179 STREET, BRONX NY 10457"
+    },
+    {
+      "new_deal_id": 8867,
+      "block_key": "BX-2814",
+      "existing_neighbor_deal_ids": [
+        5203,
+        6847,
+        6911,
+        8258,
+        8259
+      ],
+      "new_deal_title": "1956 ANTHONY AVENUE, BRONX NY 10457"
+    },
+    {
+      "new_deal_id": 8868,
+      "block_key": "BX-2814",
+      "existing_neighbor_deal_ids": [
+        5203,
+        6847,
+        6911,
+        8258,
+        8259
+      ],
+      "new_deal_title": "1958 ANTHONY AVENUE, BRONX NY 10457"
+    },
+    {
+      "new_deal_id": 8869,
+      "block_key": "BX-2814",
+      "existing_neighbor_deal_ids": [
+        5203,
+        6847,
+        6911,
+        8258,
+        8259
+      ],
+      "new_deal_title": "1962 ANTHONY AVENUE, BRONX NY 10457"
+    },
+    {
+      "new_deal_id": 8870,
+      "block_key": "BX-2814",
+      "existing_neighbor_deal_ids": [
+        5203,
+        6847,
+        6911,
+        8258,
+        8259
+      ],
+      "new_deal_title": "311 EAST 178 STREET, BRONX NY 10457"
+    },
+    {
+      "new_deal_id": 8871,
+      "block_key": "BX-2814",
+      "existing_neighbor_deal_ids": [
+        5203,
+        6847,
+        6911,
+        8258,
+        8259
+      ],
+      "new_deal_title": "309 EAST 178 STREET, BRONX NY 10457"
+    },
+    {
+      "new_deal_id": 8872,
+      "block_key": "BX-4737",
+      "existing_neighbor_deal_ids": [
+        1164,
+        1266,
+        8532,
+        8533
+      ],
+      "new_deal_title": "3361 FENTON AVENUE, BRONX NY 10469"
+    },
+    {
+      "new_deal_id": 8873,
+      "block_key": "BX-4737",
+      "existing_neighbor_deal_ids": [
+        1164,
+        1266,
+        8532,
+        8533
+      ],
+      "new_deal_title": "3359 FENTON AVENUE, BRONX NY 10469"
+    },
+    {
+      "new_deal_id": 8874,
+      "block_key": "BX-4737",
+      "existing_neighbor_deal_ids": [
+        1164,
+        1266,
+        8532,
+        8533
+      ],
+      "new_deal_title": "3357 FENTON AVENUE, BRONX NY 10469"
+    },
+    {
+      "new_deal_id": 8875,
+      "block_key": "BX-4737",
+      "existing_neighbor_deal_ids": [
+        1164,
+        1266,
+        8532,
+        8533
+      ],
+      "new_deal_title": "3353 FENTON AVENUE, BRONX NY 10469"
+    },
+    {
+      "new_deal_id": 8876,
+      "block_key": "BX-4737",
+      "existing_neighbor_deal_ids": [
+        1164,
+        1266,
+        8532,
+        8533
+      ],
+      "new_deal_title": "3351 FENTON AVENUE, BRONX NY 10469"
+    },
+    {
+      "new_deal_id": 8877,
+      "block_key": "BX-4737",
+      "existing_neighbor_deal_ids": [
+        1164,
+        1266,
+        8532,
+        8533
+      ],
+      "new_deal_title": "3349 FENTON AVENUE, BRONX NY 10469"
+    },
+    {
+      "new_deal_id": 8878,
+      "block_key": "BX-4737",
+      "existing_neighbor_deal_ids": [
+        1164,
+        1266,
+        8532,
+        8533
+      ],
+      "new_deal_title": "3347 FENTON AVENUE, BRONX NY 10469"
+    },
+    {
+      "new_deal_id": 8879,
+      "block_key": "BX-4737",
+      "existing_neighbor_deal_ids": [
+        1164,
+        1266,
+        8532,
+        8533
+      ],
+      "new_deal_title": "3343 FENTON AVENUE, BRONX NY 10469"
+    }
+  ]
+}
