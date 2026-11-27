@@ -1,0 +1,77 @@
+{
+  "ts": "2026-11-27T04:58:45.705756+00:00",
+  "today_path": "/home/runner/work/bh-enrichment/bh-enrichment/state/deals_20261127.json",
+  "prev_path": "/home/runner/work/bh-enrichment/bh-enrichment/state/deals_20261126.json",
+  "today_deal_count": 5033,
+  "prev_deal_count": 5027,
+  "new_deal_count": 6,
+  "neighbor_change_count": 6,
+  "changes": [
+    {
+      "new_deal_id": 8887,
+      "block_key": "BX-4595",
+      "existing_neighbor_deal_ids": [
+        2601,
+        4990,
+        5037,
+        5040
+      ],
+      "new_deal_title": "3222 OLINVILLE AVENUE, BRONX NY 10467"
+    },
+    {
+      "new_deal_id": 8888,
+      "block_key": "BX-4595",
+      "existing_neighbor_deal_ids": [
+        2601,
+        4990,
+        5037,
+        5040
+      ],
+      "new_deal_title": "3220 OLINVILLE AVENUE, BRONX NY 10467"
+    },
+    {
+      "new_deal_id": 8889,
+      "block_key": "BX-4595",
+      "existing_neighbor_deal_ids": [
+        2601,
+        4990,
+        5037,
+        5040
+      ],
+      "new_deal_title": "3218 OLINVILLE AVENUE, BRONX NY 10467"
+    },
+    {
+      "new_deal_id": 8890,
+      "block_key": "BX-4595",
+      "existing_neighbor_deal_ids": [
+        2601,
+        4990,
+        5037,
+        5040
+      ],
+      "new_deal_title": "3208 OLINVILLE AVENUE, BRONX NY 10467"
+    },
+    {
+      "new_deal_id": 8891,
+      "block_key": "BX-4595",
+      "existing_neighbor_deal_ids": [
+        2601,
+        4990,
+        5037,
+        5040
+      ],
+      "new_deal_title": "3206 OLINVILLE AVENUE, BRONX NY 10467"
+    },
+    {
+      "new_deal_id": 8892,
+      "block_key": "BX-4595",
+      "existing_neighbor_deal_ids": [
+        2601,
+        4990,
+        5037,
+        5040
+      ],
+      "new_deal_title": "3202 OLINVILLE AVENUE, BRONX NY 10467"
+    }
+  ]
+}
